@@ -53,7 +53,14 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true #,false (default)
-search_full_content      : false
+search_full_content      : true
+search_provider          : "algolia"
+algolia:
+  application_id:
+  index_name:
+  search_only_api_key:
+  powered_by: true
+# files_to_exclude:
 
 # SEO Related
 google_site_verification :
