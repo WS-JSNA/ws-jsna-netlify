@@ -132,17 +132,17 @@ reports:
       - title: Carers and caring
         url: "/reports/subject-specific-needs-assessments/carers-and-caring/"
       - title: Falls Prevention
-        url: "/reports/subject-specific-needs-assessments/fall-prevention/"
+        url: "/reports/subject-specific-needs-assessments/falls-prevention/"
       - title: Pharmaceutical Needs Assessment (PNA)
         url: "/reports/subject-specific-needs-assessments/pharmaceutical-needs-assessment-pna/"
       - title: Suicide Prevention
-        url: "/reports/subject-specific-needs-assessments/carers-and-caring/suicide-prevention/"
+        url: "/reports/subject-specific-needs-assessments/suicide-prevention/"
       - title: Tobacco Control Needs Assessment
-        url: "/reports/subject-specific-needs-assessments/carers-and-caring/tobacco-control-needs-assessment/"
+        url: "/reports/subject-specific-needs-assessments/tobacco-control-needs-assessment/"
       - title: Lifelong Disabilities
-        url: "/reports/subject-specific-needs-assessments/carers-and-caring/lifelong-disabilities/"
+        url: "/reports/subject-specific-needs-assessments/lifelong-disabilities/"
       - title: Oral Health
-        url: "/reports/subject-specific-needs-assessments/carers-and-caring/oral-health/"
+        url: "/reports/subject-specific-needs-assessments/oral-health/"
   - title: Starting and Developing Well
     url: /starting-well/
   - title: Living and Working Well
