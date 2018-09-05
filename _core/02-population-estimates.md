@@ -27,14 +27,11 @@ The median age provides a useful summary measure of the age structure of the pop
 
 The figure below shows that for most districts, the median age has increased over the last decade although there is more fluctuation in Crawley district. Moreover, Crawley has consistently maintained a lower median age for its population compared to the rest of the county. In 2016, the median age for residents in Crawley was 36.6 years compared to Arun which had a median age of 48.9 years.
 
-**NB**: We will need to replace the in-page embed of PDFs with JPG files.
-{: .notice--danger}
-
 {% include embedpdf file_path="/assets/pdf/Median_age_wsx_districts_2016.pdf" width="650" height="525" %}
 
 The West Sussex population by age band and sex compared to England is presented in the population pyramid below. The figure shows that West Sussex has a considerably older age profile compared to England with higher proportion of over 65s and relatively fewer residents aged 15-39.
 
-{% include figure file_path="/assets/core/Resident-MYE-2016-WSx-England.png}" alt="Population Pyramid Mid 2016 estimates West Sussex and England" caption="Population Pyramid Mid 2016 estimates West Sussex and England" %}
+{% include figure file_path="/assets/core/Resident-MYE-2016-WSx-England.png" alt="Population Pyramid Mid 2016 estimates West Sussex and England" caption="Population Pyramid Mid 2016 estimates West Sussex and England" %}
 
 ## Internal Migration
 
