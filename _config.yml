@@ -56,11 +56,11 @@ search                   : true #,false (default)
 search_full_content      : true
 search_provider          : "algolia"
 algolia:
-  application_id:
-  index_name:
-  search_only_api_key:
-  powered_by: true
-# files_to_exclude:
+  application_id         : KGFNRLFCQH
+  index_name             : jsna_content
+  search_only_api_key    : 988f190aa3e7f42ab908034b450cdec5
+  powered_by             : true
+# files_to_exclude         :
 
 # SEO Related
 google_site_verification :
