@@ -7,7 +7,7 @@ title: "Carers and Caring"
 header:
   overlay_color: "#038cd0"
 permalink: "/reports/subject-specific-needs-assessments/carers-and-caring/"
-excerpt:
+excerpt: "Documents providing information about carers and caring in West Sussex."
 downloads: ["POP24", "SACE06", "SACE07", "SACE08", "PAWM04", "SSNA01", "LL05"]
 ---
 

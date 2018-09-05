@@ -7,6 +7,7 @@ title: "Oral Health"
 header:
   overlay_color: "#038cd0"
 permalink: "/reports/subject-specific-needs-assessments/oral-health/"
+excerpt: "West Sussex County Council has now published the Oral Health Needs Assessment for Children and Young People. It provides an overview of the current standard of oral health in children within West Sussex, and the provision of oral health services."
 ---
 
 West Sussex County Council has now published the Oral Health Needs Assessment for Children and Young People. The needs assessment provides an overview of the current standard of oral health in children within West Sussex, and the provision of oral health services. It also summarises the risk factors and wider determinants associated with poor oral health. It makes recommendations which will be used to inform a strategic approach to oral health improvement in the county.

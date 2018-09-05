@@ -7,11 +7,11 @@ title: "Director of Public Health Reports"
 header:
   overlay_color: "#038cd0"
 permalink: "/reports/director-public-health-annual-report/"
-excerpt: "This is a collection of reports published on the JSNA Website."
-downloads: ["JSNA1", "JSNA2"]
+excerpt: "This report is the most recent annual report from the Director of Public Health for West Sussex."
+downloads: ["JSNA3"]
 ---
 
-NB: Change attachments...
+This report is the most recent annual report from the Director of Public Health for West Sussex.
 
 {% include downloads_from_db ids=page.downloads %}
 

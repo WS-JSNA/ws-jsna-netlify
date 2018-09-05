@@ -7,6 +7,7 @@ title: "Tobacco Control Needs Assessment"
 header:
   overlay_color: "#038cd0"
 permalink: "/reports/subject-specific-needs-assessments/tobacco-control-needs-assessment/"
+excerpt: "The West Sussex Public Health and Social Research Unit have reviewed local and national evidence and engaged with the public and professionals to identify the current and future tobacco control needs across the county."
 ---
 
 As a population we're living longer but spending more years in poor health and in need of health and social care services. Tobacco−free living helps people live healthier for longer by reducing a person's risk of developing tobacco related diseases. Tobacco remains the single major cause of preventable ill−health and death.

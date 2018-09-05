@@ -7,6 +7,7 @@ title: "Suicide Prevention"
 header:
   overlay_color: "#038cd0"
 permalink: "/reports/subject-specific-needs-assessments/suicide-prevention/"
+excerpt: "The West Sussex suicide prevention strategy draws together findings from the suicide audit and engagement work to present a set of priority areas for action in West Sussex for 2017 to 2020 that are aligned with national strategic priorities."
 ---
 ## West Sussex Suicide Prevention Strategy
 

@@ -7,6 +7,7 @@ title: "Falls Prevention"
 header:
   overlay_color: "#038cd0"
 permalink: "/reports/subject-specific-needs-assessments/falls-prevention/"
+excerpt: "This data commentary summarises key data sources regarding falls and fractures among older adults in West Sussex. This will help inform the development of a falls and fractures prevention strategy to address growing need."
 ---
 
 Falls and injuries sustained due to a fall are a common and serious problem for older people. People aged 65 and older have the highest risk of falling, with 30% of people older than 65, and 50% of people older than 80 falling at least once a year. Annually, approximately 5% of older people who fall obtain a fracture or require hospitalisation for a fall-related injury.

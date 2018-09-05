@@ -8,11 +8,16 @@ header:
   overlay_color: "#038cd0"
 permalink: "/reports/subject-specific-needs-assessments/"
 excerpt: "Subject specific needs assessments, evaluations, briefing notes and equity audits."
-downloads: ["JSNA1", "JSNA2"]
+downloads: []
 ---
+Subject specific needs assessments, evaluations, briefing notes and equity audits will be stored on this page. Please click the links below for recent needs assessment work, and browse the archive for older documents.
 
-NB: Change attachments...
++ Carers and caring
++ Falls Prevention
++ Pharmaceutical Needs Assessment (PNA)
++ Suicide Prevention
++ Tobacco Control Needs Assessment
++ Lifelong Disabilities
++ Oral Health
 
-{% include downloads_from_db ids=page.downloads %}
-
-{% include wip_notice %}
+{% include downloads_from_db %}
