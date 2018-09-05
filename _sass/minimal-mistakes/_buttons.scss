@@ -40,7 +40,11 @@
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
-  (linkedin, $linkedin-color);
+  (linkedin, $linkedin-color),
+  (starting, $starting-well-color),
+  (living, $living-well-color),
+  (ageing, $ageing-well-color),
+  (report, $report-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
