@@ -47,7 +47,7 @@ GP practices do not have established geographical boundaries (e.g. people residi
 
 The GP Practice deprivation score is the registered population (as at 31st December 2015) weighted by ID2015 score, as a proportion of the total population registered to the GP. This is calculated by taking the deprivation score for every LSOA where a GP has registrations multiplied by the number of registrations for the GP in that LSOA and dividing this total by the number of people registered to the GP.
 
-{% include figure image_path="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/Population-weighted-using-Jan-2016-HSCIC-release-ID2015-deprivation-score.gif" caption="GP practices within each CCG in West Sussex by their national decile group. Practices in dark blue are estimated to have the most deprived populations in England whereas those in orange are the least deprived." %}
+{% include figure image_path="/assets/core/Population-weighted-using-Jan-2016-HSCIC-release-ID2015-deprivation-score.gif" caption="GP practices within each CCG in West Sussex by their national decile group. Practices in dark blue are estimated to have the most deprived populations in England whereas those in orange are the least deprived." %}
 
 Population weighted (using Jan 2016 HSCIC release) ID2015 deprivation score
 
