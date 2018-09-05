@@ -1,0 +1,27 @@
+{% if include.height %}
+{% capture the_height %}
+height="{{include.height}}" 
+{% endcapture %}
+{% endif %}
+
+{% if include.height %}
+{% capture the_width %}
+width="{{include.width}}" 
+{% endcapture %}
+{% endif %}
+
+<figure class="{{ include.class }}">
+  <embed src=
+    {% if include.file_path contains "://" %}
+      "{{ include.file_path }}"
+    {% else %}
+      "{{ include.file_path | absolute_url }}"
+    {% endif %}
+    alt="{% if include.alt %}{{ include.alt }}{% endif %}"
+    {% if include.height %}{{ the_height }}{% endif %}
+    {% if include.width %}{{ the_width }}{% endif %}
+    >
+  {% if include.caption %}
+    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% endif %}
+</figure>

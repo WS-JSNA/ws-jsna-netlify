@@ -1,0 +1,8 @@
+{% capture html_path %}{{ include.html_path }}{% endcapture %}
+{% assign default_caption="If you cannot see the map, [please click on this link](" | append: {{html_path}} | append: ") and use the back button of your browser to return to this page." %}
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+  <iframe src="{{html_path}}" frameborder="0"></iframe>
+</div>
+<figcaption>{{default_caption | markdownify }}</figcaption>

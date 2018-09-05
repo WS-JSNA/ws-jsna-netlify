@@ -1,0 +1,28 @@
+{% capture idarray %} {{include.ids}} {% endcapture %}
+<h2>Downloads</h2>
+{% for att in site.data.attachments %}
+  {% capture attid %}{{att.id}}{% endcapture %}
+  {% for id in include.ids %}
+    {% if id==att.id %}
+      {% capture ext-string %}{{att.format | downcase | rstrip | lstrip}}{% endcapture %}
+      {% capture icon-name %}"fas fa-file-{{ext-string}}"{% endcapture %}
+      {% if att.format == "Excel" %}
+        {% capture att_desc %}Excel Spreadsheet{% endcapture %}
+      {% elsif att.format == "Word" %}
+        {% capture att_desc %}Word document{% endcapture %}
+      {% elsif att.format == "PDF" %}
+        {% capture att_desc %}PDF document{% endcapture %}
+      {% else %}
+        {% capture att_desc %}Other document{% endcapture %}
+      {% endif %}
+      {% capture dl_link %}/assets/{{att.theme}}/{{att.filename}}{% endcapture %}
+{% capture dl_card %}
+<h4 id="{{att.id}}">{{att.title}}</h4>
+<p><small>Date added: {{att.date}}</small></p>
+{{att.description | markdownify }}
+<i class={{icon-name}} aria-hidden="true"></i> [{{att.title}}, {{att_desc | rstrip}}.]({{dl_link}} "{{att.title}}")
+{% endcapture %}
+<div class="notice">{{dl_card | markdownify}} </div>
+    {% endif %}
+  {% endfor %}
+{% endfor %}

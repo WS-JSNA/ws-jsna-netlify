@@ -1,0 +1,6 @@
+{% capture html_path %}{{ include.html_path }}{% endcapture %}
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+  <iframe src="{{html_path}}" frameborder="0"></iframe>
+</div>

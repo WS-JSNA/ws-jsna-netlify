@@ -1,0 +1,14 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+/* topics */
+$starting-well-color          : #ca4993 !default;
+$living-well-color            : #00a776 !default;
+$ageing-well-color            : #9464b3 !default;
+$report-color                 : #038cd0 !default;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

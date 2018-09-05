@@ -1,0 +1,72 @@
+---
+layout: splash
+author_profile: true
+title: "Welcome to the West Sussex JSNA"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/stock/estuary.jpg
+  cta_label: "Read more"
+  cta_url: "#topics"
+  caption: "Photo credit: [**Shutterstock**](https://shutterstock.com)"
+excerpt: "The Public Health and Social Research Unit is responsible for the evidence base to underpin strategic decision-making in West Sussex County Council and its partners."
+intro: 
+  - excerpt: 'We are a multi-disciplinary, highly skilled and experienced research team in both health and social research. We lead on a number of statutory responsibilities, including the production of the Joint Strategic Needs Assessment on behalf of the West Sussex Health and Wellbeing Board, commissioning West Sussex Healthwatch and West Sussex County Council’s Research Governance process.'
+topics:
+  - image_path: assets/images/topics/learn-and-dev-well.jpg
+    alt: "Starting and Developing Well"
+    title: "Starting Well"
+    excerpt: "This section of the website provides key data and analyses relating to these young populations as well as school age children and young people in West Sussex to enable planning and support to ensure West Sussex populations are starting and developing well."
+    url: "/starting-well/"
+    btn_label: "Read More"
+    btn_class: "btn--starting"
+  - image_path: /assets/images/topics/working-well.jpg
+    alt: "Living and Working Well"
+    title: "Living Well"
+    excerpt: "This section is presented under three headings, reflecting the available demographics of the workforce in West Sussex, data on housing, environment and wider determinants of health and data on Health behaviours of the working age population."
+    url: "/living-well/"
+    btn_label: "Read More"
+    btn_class: "btn--living"
+  - image_path: /assets/images/topics/ageing-well.jpg
+    alt: "Ageing Well"
+    title: "Ageing Well"
+    excerpt: "The county’s population age structure is older than the South East region and England as a whole and presents challenges in relation to the demand for and provision of services, but also in the way that older people are perceived and included in the wider community."
+    url: "/ageing-well/"
+    btn_label: "Read More"
+    btn_class: "btn--ageing"
+feature_row2:
+  - image_path: /assets/images/topics/reports-temp.jpg
+    alt: "Reports"
+    title: "Reports"
+    excerpt: 'This section contains our published reports, including short reports and briefing notes as well as formal comprehensive needs assessments and the statutory Director of Public Health Annual Report.'
+    url: "/reports/"
+    btn_label: "Read More"
+    btn_class: "btn--report"
+feature_row3:
+  - image_path: /assets/images/topics/data-sets.jpg
+    alt: "Core Datasets"
+    title: "Core Datasets"
+    excerpt: 'This section includes the core datasets around population, illness and disability, for West Sussex.'
+    url: "/core/"
+    btn_label: "Read More"
+    btn_class: "btn--report"
+feature_row4:
+  - image_path: /assets/images/stock/jogging.jpg
+    alt: "Partners"
+    title: "Partners"
+    excerpt: 'Details of organisations who partner with West Sussex to produce the JSNA.'
+    url: "/partners/"
+    btn_label: "Read More"
+    btn_class: "btn--report"
+---
+
+{% include feature_row id="intro" type="center" %}
+
+<div id="topics">{% include feature_row id="topics" %}</div>
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="left" %}
+

@@ -1,0 +1,26 @@
+<h2>Downloads:</h2>
+{% for file in page.attachments %}
+  {% capture icon_name %}
+  	"fa fa-file-{{file.format}}-o"
+  {% endcapture %}
+  {% if file.format == "excel" %}
+  {% capture file_desc %}
+    Excel Spreadsheet
+  {% endcapture %}
+  {% elsif file.format == "word" %}
+  {% capture file_desc %}
+    Word document
+  {% endcapture %}
+  {% elsif file.format == "pdf" %}
+  {% capture file_desc %}
+    PDF document
+  {% endcapture %}
+  {% else %}
+  {% capture file_desc %}
+    Other document
+  {% endcapture %}
+  {% endif %}
+  <h3>{{file.title}}</h3>
+  {{file.about | markdownify}}
+  <i class={{icon_name}} aria-hidden="true"></i> [{{file.title}}, {{file_desc | rstrip}}.]({{file.path}} "{{file.title}}")
+{% endfor %}
