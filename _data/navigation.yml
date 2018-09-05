@@ -122,60 +122,33 @@ ageing:
 reports:
   - title: "Reports"
     url: "/reports/"
-    children: 
-    - title: "Director of Public Health Annual Report"
-      url: "/reports/director-public-health-annual-report/"
-    - title: "Joint Strategic Needs Assessment Reports"
-      url: "/reports/jsna-reports/"
-    - title: "Subject specific Needs Assessments, Evaluations, Briefing Notes, and Equity Audits"
-      url: "/reports/subject-specific-needs-assessments/"
+  - title: "Director of Public Health Annual Report"
+    url: "/reports/director-public-health-annual-report/"
+  - title: "Joint Strategic Needs Assessment Reports"
+    url: "/reports/jsna-reports/"
+  - title: "Subject specific Needs Assessments, Evaluations, Briefing Notes, and Equity Audits"
+    url: "/reports/subject-specific-needs-assessments/"
+    children:
+      - title: Carers and caring
+        url: "/reports/subject-specific-needs-assessments/carers-and-caring/"
+      - title: Falls Prevention
+        url: "/reports/subject-specific-needs-assessments/fall-prevention/"
+      - title: Pharmaceutical Needs Assessment (PNA)
+        url: "/reports/subject-specific-needs-assessments/pharmaceutical-needs-assessment-pna/"
+      - title: Suicide Prevention
+        url: "/reports/subject-specific-needs-assessments/carers-and-caring/suicide-prevention/"
+      - title: Tobacco Control Needs Assessment
+        url: "/reports/subject-specific-needs-assessments/carers-and-caring/tobacco-control-needs-assessment/"
+      - title: Lifelong Disabilities
+        url: "/reports/subject-specific-needs-assessments/carers-and-caring/lifelong-disabilities/"
+      - title: Oral Health
+        url: "/reports/subject-specific-needs-assessments/carers-and-caring/oral-health/"
   - title: Starting and Developing Well
     url: /starting-well/
-    children:
-      - title: "Maternity and Fertility"
-        url: /starting-well/maternity-and-fertility/
-      - title: "Birth and the newborn"
-        url: /starting-well/birth-newborn/
-      - title: "0-4 years of age"
-        url: /starting-well/early-years/
-      - title: "School-age children and education"
-        url: /starting-well/education-children/
-      - title: "Young People"
-        url: /starting-well/young-people/
-      - title: "Child Health Profiles (formerly Children and Family Centre Profiles)"
-        url: /starting-well/children-family-centre-profiles/
-      - title: "Children and Family Centre Profiles"
-        url: /starting-well/child-health-profiles-2017/
-      - title: "Children and Family Centre Profiles (Previous version)"
-        url: /starting-well/child-health-profiles-2016/
   - title: Living and Working Well
     url: /living-well/
-    children:
-      - title: "Workforce Health and Disability"
-        url: /living-well/workforce-health/
-      - title: "Wider Determinants of Health"
-        url: /living-well/wider-determinants/
-      - title: "Environment"
-        url: /living-well/environment/
-      - title: "Housing"
-        url: /living-well/housing/
-      - title: "Neighbourhoods"
-        url: /living-well/neighbourhoods/
-      - title: "Drugs and Alcohol"
-        url: /living-well/drugs-and-alcohol/
-      - title: "Physical activity and weight management"
-        url: /living-well/weight-management/
-      - title: "Sexual Health"
-        url: /living-well/sexual-health/
-      - title: "Smoking and Tobacco Use"
-        url: /living-well/smoking-and-tobacco/
   - title: Ageing Well
     url: /ageing-well/
-    children:
-      - title: "Population Data"
-        url: "/ageing-well/population-data/"
-      - title: "Physical and Mental Health in Later Life"
-        url: "/ageing-well/physical-mental-health-later-life/"
 
 core:
   - title: "Core Datasets"
