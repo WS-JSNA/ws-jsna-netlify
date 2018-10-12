@@ -98,3 +98,23 @@
 .notice--danger {
   @include notice($danger-color);
 }
+
+/* Starting Well notice */
+.notice--starting-well {
+  @include notice($starting-well-color)
+}
+
+/* Living Well notice */
+.notice--living-well {
+  @include notice($living-well-color)
+}
+
+/* Ageing Well notice */
+.notice--ageing-well {
+  @include notice($ageing-well-color)
+}
+
+/* Report notice */
+.notice--report {
+  @include notice($report-color)
+}
