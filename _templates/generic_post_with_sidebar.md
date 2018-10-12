@@ -5,7 +5,7 @@ sidebar:
     nav: "coastal-GPS-selected"
 # You can find the names of different sidebars in _data/nav.yml
 ---
-# Generic post with sidebar and table of contents
+# Generic post with sidebar
 
 ## Sidebar
 
