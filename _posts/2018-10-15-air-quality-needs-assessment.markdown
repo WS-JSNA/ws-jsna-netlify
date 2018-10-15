@@ -1,13 +1,15 @@
 ---
 layout: single
 title: "West Sussex Air Quality Needs Assessment 2018 Released"
-date: 2018-05-30
+date: 2018-10-15
 header: 
   overlay_color: "#1976d2"
   overlay_filter: 0.5
-excerpt: "The West Sussex Oral Health Needs Assessment for Children and Young People is now complete."
+excerpt: "The aim of this document is to inform the Director of Public Health and the Health and Wellbeing
+Board about the scale and impact of air quality in West Sussex, and, during its development, to
+contribute to the West Sussex Air Quality Plan."
 category: needs-assessment
-permalink: /updates/oral-health-needs-assessment-complete/
+permalink: /updates/air-quality-needs-assessment-2018/
 ---
 Outdoor air pollution is a major public health issue costing the UK economy £20bn a year and
 contributing to over 40,000 deaths a year. The nature of air pollution in the UK has changed over
