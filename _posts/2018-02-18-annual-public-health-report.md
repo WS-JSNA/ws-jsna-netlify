@@ -7,8 +7,13 @@ header:
   overlay_filter: 0.5
 excerpt: "The Director of Public Health (DPH) has a statutory duty to publish an Annual Public Health Report that details the state of health within the local population. This year's Annual Public Health Report outlines a joined up approach to health and wellbeing across the public, voluntary, community and private sector to promote health and wellbeing and prevent ill health across West Sussex."
 category: reports
+downloads: ["APHR18"]
+toc: true
+toc_sticky: true
 permalink: /updates/annual-public-health-report-2018/
 ---
+<!-- This will include all assets and a card that describes them (including the file format) -->
+{% include downloads_from_db ids=page.downloads %}
 
 <!-- This will add in the work in progress notice from the include folder -->
 {% include wip_notice %}
