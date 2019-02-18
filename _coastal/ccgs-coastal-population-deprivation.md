@@ -22,12 +22,13 @@ Domains contributing[^1] to the overall Index of multiple deprivation:
 - [Health Deprivation and Disability](#health-deprivation) (13.5%)
 - [Education, Skills and Training](#education-deprivation) (13.5%)
 - [Crime](#crime-deprivation) (9.3%)
-- [Barriers to Housing and Services](#barriers-housing-deprivation) (9.3%)
+- [Barriers to Housing and Services](#barriers-to-housing-deprivation) (9.3%)
 - [Living Environment](#living-environment-deprivation) (9.3%)
 
 
 The map shows the relative deprivation deciles (using national rankings) for LSOAs in NHS Coastal West Sussex CCG. The most deprived areas (those in the most deprived 10% of LSOAs in England) are shaded dark blue. As can be seen from the map, NHS Coastal West Sussex CCG contains some of the most deprived neighbourhoods in the country (these fall within the River, Courtwick with Toddington and Bersted wards).
 
+<!-- Embed html widget -->
 {% include htmlwidget_map html_path="/assets/htmlwidgets/IMDmap_09G.html" %}
 
 ### Indices of multiple deprivation at GP practice level
