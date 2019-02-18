@@ -32,9 +32,8 @@ The maps below show Life Expectancy at birth for Females and Males respectively 
 
 {% include embedpdf file_path="/assets/core/Male-Life-Expectancy-MSOA-2009-13.pdf" width="650" height="525" %}
 
-**Please note:** We are currently updating the West Sussex JSNA site so please check back soon for updates.
 {: .notice--info}
-                      
+
 {% include downloads_from_db ids=page.downloads %}
 
 {% include wip_notice %}

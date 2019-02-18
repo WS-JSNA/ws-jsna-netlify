@@ -25,8 +25,8 @@ At the time of publishing (Nov 2016), there were 43 Children and Family Centres 
 
 Further information about the profile is included in the following slides:
 
-<embed src="http://jsna.westsussex.gov.uk/wp-content/uploads/2017/01/Overview-for-website.pdf" width="650" height="525"><br />
-</embed>
+{% include embedpdf file_path="/assets/core/Childrens_workforce_jsna_dash_overview-2016.pdf" caption="An overview summary of the interactive tool." %}
 
-**Please note:** we are currently updating the West Sussex JSNA site so please check back soon for updates.
+{% include wip_notice %}
+
 {: .notice--danger}

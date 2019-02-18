@@ -21,5 +21,6 @@ The profile presents a wealth of data at the geographical area of the user's cho
 
 The new profile will **supersede** the CFC profiles and will be available to download in Autumn/Winter 2017.
 
-**Please note:** we are currently updating the West Sussex JSNA site so please check back soon for updates.
+{% include wip_notice %}
+
 {: .notice--danger}

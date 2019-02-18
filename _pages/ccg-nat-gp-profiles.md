@@ -9,13 +9,9 @@ Public Health England (PHE) produce [National General Practice Profiles](https:/
 The profiles include information on:
 
 1. Local demographics
-
 2. [QOF](http://content.digital.nhs.uk/qof)
-
 3. Cancer services
-
 4. Child health
-
 5. Patient satisfaction (using [the GP patient survey](https://gp-patient.co.uk/))
 
 Profiles can be viewed for each individual practice, as well as summary profiles for CCGs. Comparisons for each practice can be made against England and CCG, and can also be viewed with the practice deprivation decile.

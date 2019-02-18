@@ -44,6 +44,5 @@ The maps below show the percentage and estimated number of Fuel Poor households 
 {% include htmlwidget_map html_path="/assets/htmlwidgets/Fuel_poverty_LSOA_2014.html" %}
 
 {% include htmlwidget_map html_path="/assets/htmlwidgets/Fuel_poverty_LSOA_2014_estimated_numbers.html" %}
-			  
-                
 
+{% include wip_notice %}

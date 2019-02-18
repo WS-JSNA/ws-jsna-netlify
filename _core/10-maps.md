@@ -18,3 +18,5 @@ The map below shows the main boundaries that are used in West Sussex. Click on a
 Some data are published only at higher geographies (representing more people) to produce more robust statistics as well as to help reduce the risk of identifying individuals.
 
 {% include downloads_from_db ids=page.downloads %}
+
+{% include wip_notice %}

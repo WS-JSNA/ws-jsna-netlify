@@ -4,7 +4,7 @@ author_profile: false
 sidebar:
   nav: "starting"
 title: "Starting & developing well"
-header: 
+header:
   overlay_color: "#ca4993"
 permalink: "/starting-well/"
 embedded_pdf: "/assets/uploads/starting-well/CYP-Outcomes-revised-August-2016.pdf"
@@ -24,5 +24,6 @@ Data in this section are provided under five headings:
 
 {% include embedpdf file_path="/assets/uploads/starting-well/CYP-Outcomes-revised-August-2016.pdf" caption="A Walk Through the Outcomes for Children and Young People in West Sussex." %}
 
-**Please note:** we are currently updating the West Sussex JSNA site so please check back soon for updates.
+{% include wip_notice %}
+
 {: .notice--danger}

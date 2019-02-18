@@ -4,7 +4,7 @@ author_profile: false
 sidebar:
   nav: "topics"
 title: "Living & working well"
-header: 
+header:
   overlay_color: "#00a776"
 permalink: "/living-well/"
 excerpt: "This section contains key data and analyses on the working age population of West Sussex."
@@ -24,5 +24,6 @@ This section is presented under three headings, reflecting the available [demogr
 * [Sexual Health]({{"/living-well/sexual-health/" | absolute_url}})
 * [Smoking and Tobacco]({{"/living-well/smoking-and-tobacco/" | absolute_url}})
 
-**Please note:** We are currently updating the West Sussex JSNA site so please check back soon for updates.
+{% include wip_notice %}
+
 {: .notice--danger}

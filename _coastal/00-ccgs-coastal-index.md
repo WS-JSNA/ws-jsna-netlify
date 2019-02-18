@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Coastal West Sussex CCG"
+title: "NHS Coastal West Sussex CCG"
 permalink: "/ccgs/coastal/"
 sidebar:
   nav: "coastal-PRO-selected"

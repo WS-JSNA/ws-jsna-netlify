@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Horsham and Mid Sussex CCG"
+title: "NHS Horsham and Mid Sussex CCG"
 permalink: "/ccgs/horsham/"
 sidebar:
   nav: "horsham-PRO-selected"
