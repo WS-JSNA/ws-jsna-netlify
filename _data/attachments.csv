@@ -1,5 +1,5 @@
 id,title,date,format,theme,filename,description,nix
-MAF01,"General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012",30/07/2013,Excel,starting-well,"General_fertility_rates_total_fertility_rates_births_2001_2012.xlsx","This file includes births, general fertility rate and total fertility rate for all local authorities in West Sussex.
+MAF01,General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012,30/07/2013,Excel,starting-well,General_fertility_rates_total_fertility_rates_births_2001_2012.xlsx,"This file includes births, general fertility rate and total fertility rate for all local authorities in West Sussex.
 
 Graphs allow the comparison of trends over time.",0
 MAF02,Live births 2004 - 2010 and fertility rates 2005 - 2010,03/02/2012,Excel,starting-well,live_births_2004_2010_and_fertility_rates_2005_2010.xls,"Data on trend in number of live births from 2004 to 2010 at local authority level.
@@ -21,20 +21,20 @@ EY01,Briefing - Child Disability Estimates,30/01/2017,PDF,starting-well,Briefing
 
 The briefing provides an estimate of the number of children living in West Sussex who have a disability and outline the sources of data and background to the assumptions made. This information is important to aid the planning of services and support to children, young people and their families.
 
-There is no single definition of disability and therefore providing a single accurate estimate is difficult; for example the 2011 Census definition of disability is: ‘A long-term health problem or disability that limits a person’s day-to-day activities, and has lasted, or is expected to last, at least 12 months’; the Family Resources Survey (FRS) uses a different definition: ‘a long-standing illness, disability or impairment which causes substantial difficulty with day-to-day activities’. Estimating the number of children and young people according to “severity” or in terms of specific needs or conditions is also problematic. This briefing provides the background to the basis estimates have been made."
+There is no single definition of disability and therefore providing a single accurate estimate is difficult; for example the 2011 Census definition of disability is: ‘A long-term health problem or disability that limits a person’s day-to-day activities, and has lasted, or is expected to last, at least 12 months’; the Family Resources Survey (FRS) uses a different definition: ‘a long-standing illness, disability or impairment which causes substantial difficulty with day-to-day activities’. Estimating the number of children and young people according to “severity” or in terms of specific needs or conditions is also problematic. This briefing provides the background to the basis estimates have been made.",
 EY02,West Sussex Children’s Workforce JSNA Data Profiles (2016) - Supporting the Health4Families Programme,05/01/2017,Excel,starting-well,West-Sussex-Childrens-Workforce-JSNA-Data-Profiles-2016-Supporting-the-Health4Families-Programme-1.xlsx,"The West Sussex Children’s Workforce Public Health data profile (2016) is an interactive dashboard that summarises a wide range of data relating to the early years (e.g. demographic, socioeconomic, health and early years) and is published at Children and Family Centre (CFC) level. The profile aims to help the Children’s Workforce monitor changes in the health and wellbeing of the under 5 population within their centre area and supports the West Sussex Health4Families Programme.
 
-This provides an update on data published in the 2015 profile."
-EY03,Infant mortality,07/08/2013,Excel,starting-well,infant_mortality.xlsx,"Infant mortality pooled data at county and national level (2009-2011)."
-EY04,Take up of formal childcare by low income families (2005 - 2009),07/02/2011,Excel,starting-well,take_up_of_formal_childcare_by_low_income_families_2005_2009.xls,"The number of working families benefiting from the childcare element of Working Tax Credit (WTC) as a percentage of the number of working families receiving more than the family element of Child Tax Credit (CTC) at county level. Regional comparisons are provided."
+This provides an update on data published in the 2015 profile.",
+EY03,Infant mortality,07/08/2013,Excel,starting-well,infant_mortality.xlsx,Infant mortality pooled data at county and national level (2009-2011).,
+EY04,Take up of formal childcare by low income families (2005 - 2009),07/02/2011,Excel,starting-well,take_up_of_formal_childcare_by_low_income_families_2005_2009.xls,The number of working families benefiting from the childcare element of Working Tax Credit (WTC) as a percentage of the number of working families receiving more than the family element of Child Tax Credit (CTC) at county level. Regional comparisons are provided.,
 EY05,Child poverty briefing note 2013,31/10/2013,Word,starting-well,jsna_briefing_child_poverty_oct_2013.doc,"Update on child poverty relating to August 2011 as provided by HM Revenue and Customs (HMRC).
 
 In 2011, 13% of all children, and 13.5% of children under 16 years old were in relative poverty in West Sussex. This was highest in Crawley and lowest in Mid Sussex.
 
-Data is available at county, local authority, ward and neighbourhood levels (lower super output area)."
+Data is available at county, local authority, ward and neighbourhood levels (lower super output area).",
 EY06,Looked after children needs assessment,06/07/2012,PDF,starting-well,needs_assessment_of_vulnerable_and_looked_after_children___full_report.pdf,"A comprehensive needs assessment of vulnerable and Looked After Children in West Sussex, focussing on social care services, physical and mental health, housing, lifestyle and education.
 
-Produced in 2008 by NHS Sussex."
+Produced in 2008 by NHS Sussex.",
 EY07,Evaluation of the Family Link Worker service 2012-2013,31/12/2013,Word,starting-well,family_link_worker_service_evaluation_report_2013.doc,"This report evaluates the impact of the Family Link Worker Service over the 2012-2013 academic year.
 
 Overall, at least one of the four evaluation forms was returned for 340 children/cases. These children attended 125 different schools.
@@ -43,8 +43,8 @@ The number of children referred from these schools ranged from between one to te
 
 1. In eight out of ten cases, children said that their FLW had helped them and their families a lot.
 2. In two-thirds of cases schools said that barriers to learning had been lessened.
-3. 86% of schools thought that the service was effective in meeting children’s needs."
-EY08,Quality assurance of children’s residential care: Service level summary 2013,28/06/2013,PDF,starting-well,quality_assurance_in_children__s_residential_care_service_level_summary_2013.pdf,"Service level summary on the quality of care provided by 7 children’s residential care units in West Sussex. This summary provides an overview of the project with selected results presented."
+3. 86% of schools thought that the service was effective in meeting children’s needs.",
+EY08,Quality assurance of children’s residential care: Service level summary 2013,28/06/2013,PDF,starting-well,quality_assurance_in_children__s_residential_care_service_level_summary_2013.pdf,Service level summary on the quality of care provided by 7 children’s residential care units in West Sussex. This summary provides an overview of the project with selected results presented.,
 EY09,Child disability mapping project survey report,24/05/2013,PDF,starting-well,child_disability_mapping_project.pdf,"Report looking into parents experience and opinion of services for children with a disability.
 
 A questionnaire-based postal survey was sent to 642 families known to have a child with a disability and covers 3 key areas:
@@ -53,53 +53,53 @@ A questionnaire-based postal survey was sent to 642 families known to have a chi
 Parental rating of satisfaction of services, extent to which services met their child’s needs, rating of quality of social services and level of awareness of services available.
 2. Information and advice about their child care. Opinion from parents on obtaining information on their social care needs and services provided.
 
-3. Decision made about their child’s care over the last 12 months. This section covers aspects of decisions made by social care professionals including satisfaction with decision and whether they or their child were consultant."
-EY10,Child poverty 2010,07/08/2012,Excel,starting-well,child_poverty_2010.xls,"Detailed figures from 2010 relating to the amount of children in poverty at ward level for West Sussex."
+3. Decision made about their child’s care over the last 12 months. This section covers aspects of decisions made by social care professionals including satisfaction with decision and whether they or their child were consultant.",
+EY10,Child poverty 2010,07/08/2012,Excel,starting-well,child_poverty_2010.xls,Detailed figures from 2010 relating to the amount of children in poverty at ward level for West Sussex.,
 SACE01,SEND Survey Summary Report 2015,01/02/2017,PDF,starting-well,SEND-Survey-Summary-Report-2015.pdf,"Summary of key results from the Services for children with special educational needs and disabilities in West Sussex survey 2015.
 
-A total of 2,988 survey questionnaires were sent out to parents and carers of children with special educational needs and disabilities. Both online and printed questionnaires were used. A total of 557 questionnaires were returned giving a response rate of 19%."
-SACE02,SEND Infographic,30/01/2017,PDF,starting-well,SEND-Infographic.pdf,"Indicators and Outcomes for Special Educational Needs and Disability - West Sussex November 2016 Infographic."
+A total of 2,988 survey questionnaires were sent out to parents and carers of children with special educational needs and disabilities. Both online and printed questionnaires were used. A total of 557 questionnaires were returned giving a response rate of 19%.",
+SACE02,SEND Infographic,30/01/2017,PDF,starting-well,SEND-Infographic.pdf,Indicators and Outcomes for Special Educational Needs and Disability - West Sussex November 2016 Infographic.,
 SACE03,Data briefing national child measurement programme - February 2015,24/03/2015,Word,starting-well,data_briefing_national_child_measurement_programme_feb_2015.doc,"The National Child Measurement Programme (NCMP) for England records height and weight measurements of children in state-maintained schools in reception (aged 4-5 years) and year 6 (aged 10-11 years) and provides high-level analyses of the prevalence of
 ‘underweight’, ‘healthy weight’, ‘overweight’, ‘obese’ and ‘combined overweight and
 obese’ children.
 
-This briefing summarises the analyses for children measured in West Sussex schools, and is taken from the report “National Child Measurement Programme: England, 2013/14 school year”, published by the Health and Social Care Information Centre in December 2014."
-SACE04,"Prevalence of underweight, healthy weight, overweight and obese children",07/08/2013,Excel,starting-well,prevalence_underweight_healthy_weight_overweight_obese_children.xlsx,"Prevalence of underweight, healthy weight, overweight and obese children currently in Year R (aged 4-5) and year 6 (aged 10-11) at County and regional level."
-SACE05,Unpaid carers (2001 - 2011),10/09/2013,Excel,starting-well,unpaid_carers_2001_2011.xlsx,"Census data regarding unpaid care. This spreadsheet includes ward level counts for unpaid care by hours given and also includes confidence intervals to show statistical significance."
-SACE06,Provision of unpaid care by ethnic group,05/09/2013,Excel,starting-well,provision_of_unpaid_carers_by_ethnic_group.xls,"This document shows the number of carers by ethnic groups for all districts in West Sussex. Figures are broken down by broad groups on the number of hours of unpaid care provided."
-SACE07,Carers data - Census 2011,16/08/2013,Excel,starting-well,carers.xlsx,"Census data of unpaid carers within West Sussex at district level, categorised by number of hours worked and by self-assessed general health."
+This briefing summarises the analyses for children measured in West Sussex schools, and is taken from the report “National Child Measurement Programme: England, 2013/14 school year”, published by the Health and Social Care Information Centre in December 2014.",
+SACE04,"Prevalence of underweight, healthy weight, overweight and obese children",07/08/2013,Excel,starting-well,prevalence_underweight_healthy_weight_overweight_obese_children.xlsx,"Prevalence of underweight, healthy weight, overweight and obese children currently in Year R (aged 4-5) and year 6 (aged 10-11) at County and regional level.",
+SACE05,Unpaid carers (2001 - 2011),10/09/2013,Excel,starting-well,unpaid_carers_2001_2011.xlsx,Census data regarding unpaid care. This spreadsheet includes ward level counts for unpaid care by hours given and also includes confidence intervals to show statistical significance.,
+SACE06,Provision of unpaid care by ethnic group,05/09/2013,Excel,starting-well,provision_of_unpaid_carers_by_ethnic_group.xls,This document shows the number of carers by ethnic groups for all districts in West Sussex. Figures are broken down by broad groups on the number of hours of unpaid care provided.,
+SACE07,Carers data - Census 2011,16/08/2013,Excel,starting-well,carers.xlsx,"Census data of unpaid carers within West Sussex at district level, categorised by number of hours worked and by self-assessed general health.",
 SACE08,Carers service data - September 2009,23/12/2011,PDF,starting-well,carers_service_data_sep_2009.pdf,"This is a five page extract from the broader data review that was conducted in September of 2009 around the issues of carers.
 
 This document relates to data pulled from the County Council’s social care database and that of the Carer’s Support Service. Included are data on the former LAA Carers Assessment Review target, and further details on the circumstances of care.
 
-This does not represent all the carers in the county (thought to be roughly 10% of the population - Census 2001) but it gives an idea of the level of support currently provided by social services."
+This does not represent all the carers in the county (thought to be roughly 10% of the population - Census 2001) but it gives an idea of the level of support currently provided by social services.",
 SACE09,Progression to higher education from low income families (2006 - 2008),07/02/2011,Excel,starting-well,progression_to_he_from_low_income_families_2006_2008.xls,"Percentage of students in low income families progressing to higher education at age 18 for academic years ending 2006-2008.
 
-Comparisons with neighbouring authorities included."
+Comparisons with neighbouring authorities included.",
 SACE10,Child poverty briefing note 2013,31/10/2013,Word,starting-well,jsna_briefing_child_poverty_oct_2013.doc,"Update on child poverty relating to August 2011 as provided by HM Revenue and Customs (HMRC).
 
 In 2011, 13% of all children, and 13.5% of children under 16 years old were in relative poverty in West Sussex. This was highest in Crawley and lowest in Mid Sussex.
 
-Data is available at county, local authority, ward and neighbourhood levels (lower super output area)."
-SACE11,Child poverty 2010,07/08/2012,Excel,starting-well,child_poverty_2010.xls,"Detailed figures from 2010 relating to the amount of children in poverty at ward level for West Sussex."
+Data is available at county, local authority, ward and neighbourhood levels (lower super output area).",
+SACE11,Child poverty 2010,07/08/2012,Excel,starting-well,child_poverty_2010.xls,Detailed figures from 2010 relating to the amount of children in poverty at ward level for West Sussex.,
 SACE12,Looked after children needs assessment,06/07/2012,PDF,starting-well,needs_assessment_of_vulnerable_and_looked_after_children___full_report.pdf,"A comprehensive needs assessment of vulnerable and Looked After Children in West Sussex, focussing on social care services, physical and mental health, housing, lifestyle and education.
 
-Produced in 2008 by NHS Sussex."
+Produced in 2008 by NHS Sussex.",
 SACE13,Evidence and engagement with children and young people in West Sussex 2014,25/07/2014,PDF,starting-well,evidence_engagement_children_young_people_final_report.pdf,"To inform the Children and Young People’s Emotional Wellbeing and Mental Health Needs Assessment, 2014, engagements were held with children and young people across the county in the Autumn of 2013.
 
 In addition, an online survey was developed to capture the views of young people.
 
 With in the discussion groups were upper and lower tier service users, members of the Children in Care Council and young people from secondary schools throughout the county.
 
-This report is one of a three part engagement; the others being with ‘Parents / Carers of those involved with CAMHS’ and with ‘Professionals involved with CAMHS’ in West Sussex."
+This report is one of a three part engagement; the others being with ‘Parents / Carers of those involved with CAMHS’ and with ‘Professionals involved with CAMHS’ in West Sussex.",
 SACE14,Evidence and engagement with parents/carers of young people involved with CAMHS in West Sussex 2014,25/07/2014,PDF,starting-well,evidence_engagement_parents_final_report.pdf,"To inform the Children and Young People’s Emotional Wellbeing and Mental Health Needs Assessment, 2014, engagements were held with parents and carers of young people involved with CAMHS across the county in the Autumn of 2013. In addition, an online survey was developed to capture the views of parents and carers.
 
-This report is one of a three part engagement; the others being with ‘Professionals involved with CAMHS’ and with ‘Children and Young People across West Sussex’."
+This report is one of a three part engagement; the others being with ‘Professionals involved with CAMHS’ and with ‘Children and Young People across West Sussex’.",
 SACE15,Evidence engagement with professionals involved with CAMHS in West Sussex 2014,25/07/2014,PDF,starting-well,evidence_engagement_professionals_final_report.pdf,"To inform the Children and Young People’s Emotional Wellbeing and Mental Health Needs Assessment, 2014, engagements were held with professionals across the county in the Autumn of 2013.
 
 In addition, an online survey was developed to capture the views of professionals from a broad range of organisations.
 
-This report is one of a three part engagement; the others being with ‘Parents / Carers of those involved with CAMHS’ and with ‘Children and Young People across West Sussex’."
+This report is one of a three part engagement; the others being with ‘Parents / Carers of those involved with CAMHS’ and with ‘Children and Young People across West Sussex’.",
 SACE16,Evaluation of the Family Link Worker service 2012-2013,31/12/2013,Word,starting-well,family_link_worker_service_evaluation_report_2013.doc,"This report evaluates the impact of the Family Link Worker Service over the 2012-2013 academic year.
 
 Overall, at least one of the four evaluation forms was returned for 340 children/cases. These children attended 125 different schools.
@@ -108,15 +108,15 @@ The number of children referred from these schools ranged from between one to te
 
 1. In eight out of ten cases, children said that their FLW had helped them and their families a lot.
 2. In two-thirds of cases schools said that barriers to learning had been lessened.
-3. 86% of schools thought that the service was effective in meeting children’s needs."
-SACE17,Quality assurance of children’s residential care: Service level summary 2013,28/06/2013,PDF,starting-well,quality_assurance_in_children__s_residential_care_service_level_summary_2013.pdf,"Service level summary on the quality of care provided by 7 children’s residential care units in West Sussex. This summary provides an overview of the project with selected results presented."
+3. 86% of schools thought that the service was effective in meeting children’s needs.",
+SACE17,Quality assurance of children’s residential care: Service level summary 2013,28/06/2013,PDF,starting-well,quality_assurance_in_children__s_residential_care_service_level_summary_2013.pdf,Service level summary on the quality of care provided by 7 children’s residential care units in West Sussex. This summary provides an overview of the project with selected results presented.,
 SACE18,Child disability mapping project survey report,24/05/2013,PDF,starting-well,child_disability_mapping_project.pdf,"Report looking into parents experience and opinion of services for children with a disability.
 
 A questionnaire-based postal survey was sent to 642 families known to have a child with a disability and covers 3 key areas:
 
 1. Care and support received by families over the last 12months. Parental rating of satisfaction of services, extent to which services met their child’s needs, rating of quality of social services and level of awareness of services available.
 2. Information and advice about their child care. Opinion from parents on obtaining information on their social care needs and services provided.
-3. Decision made about their child’s care over the last 12 months. This section covers aspects of decisions made by social care professionals including satisfaction with decision and whether they or their child were consultant."
+3. Decision made about their child’s care over the last 12 months. This section covers aspects of decisions made by social care professionals including satisfaction with decision and whether they or their child were consultant.",
 SACE19,Analysis of the West Sussex 2011 Year 11 cohort,24/08/2012,Word,starting-well,west_sussex_2011_year_11_cohort.doc,"This report looks at educational attainment of Year 11 Pupils in 2011 at Key Stage 4 (GCSE) along with pupil progress in core subjects (English, Maths and Science) between Key Stage 2 and Key Stage 4.
 
 79% of students achieved 5+ A*-C grades in all subjects, while 59% of students achieved 5+ A*-C grades when including English and Maths.
@@ -127,19 +127,19 @@ The results also show that there is a strong correlation between social deprivat
 
 Variations in attainment were also observed between districts with a higher percentage of pupils from Horsham achieving grade A*-C compared to pupils in Adur.
 
-Exclusion from school either temporarily or permanently is associated with poorer attainment. Pupils that have been excluded (between September 2007 and December 2010) were 3 times less likely to achieve 5+ A*-C grades (including English and Maths) compared to non-excluded pupils."
-SACE20,Lifestyles of 14-15 year olds in West Sussex 2015,17/11/2015,PDF,starting-well,Lifestyles-of-14-15-year-olds-in-West-Sussex-2015.pdf,"Lifestyles of 14-15 year olds in West Sussex 2015."
-YP01,CLA Rate - West Sussex and Statistical Neighbours 2016,"01/02/2017",PDF,starting-well,CLA-Rate-WSx-with-SN-2016.pdf,"This table and graph show the number of Children looked after per 10,000 children aged under 18 in West Sussex and statistical neighbours for the year 2007-2016."
-YP02,CPP Rate - West Sussex and Statistical Neighbours 2015,"01/02/2017",PDF,starting-well,CPP-Rate-WSx-in-comparison-with-SN-2015.pdf,"This table and graph show the number of children who are the subject of a child protection plan per 10,000 in West Sussex and statistical neighbours for the year 2007-2015."
-YP03,CIN - West Sussex and Statistical Neighbours 2015,"01/02/2017",PDF,starting-well,CIN-WSx-in-Comparison-with-SN.pdf,"This table and graph show the number of Children in Need per 10,000 in West Sussex and statistical neighbours for the year 2009-2015."
+Exclusion from school either temporarily or permanently is associated with poorer attainment. Pupils that have been excluded (between September 2007 and December 2010) were 3 times less likely to achieve 5+ A*-C grades (including English and Maths) compared to non-excluded pupils.",
+SACE20,Lifestyles of 14-15 year olds in West Sussex 2015,17/11/2015,PDF,starting-well,Lifestyles-of-14-15-year-olds-in-West-Sussex-2015.pdf,Lifestyles of 14-15 year olds in West Sussex 2015.,
+YP01,CLA Rate - West Sussex and Statistical Neighbours 2016,01/02/2017,PDF,starting-well,CLA-Rate-WSx-with-SN-2016.pdf,"This table and graph show the number of Children looked after per 10,000 children aged under 18 in West Sussex and statistical neighbours for the year 2007-2016.",
+YP02,CPP Rate - West Sussex and Statistical Neighbours 2015,01/02/2017,PDF,starting-well,CPP-Rate-WSx-in-comparison-with-SN-2015.pdf,"This table and graph show the number of children who are the subject of a child protection plan per 10,000 in West Sussex and statistical neighbours for the year 2007-2015.",
+YP03,CIN - West Sussex and Statistical Neighbours 2015,01/02/2017,PDF,starting-well,CIN-WSx-in-Comparison-with-SN.pdf,"This table and graph show the number of Children in Need per 10,000 in West Sussex and statistical neighbours for the year 2009-2015.",
 YP04,What About YOUth - Graphic PHSRU,01/02/2017,PDF,starting-well,What-About-YOUth-Graphic-PHSRU.pdf,"This infographic was produced using data from the What About YOUth survey of 15 year olds. The survey focused on health, behaviours and wellbeing.
 
 In West Sussex, approximately 1,100 young people too part in the survey.
 
-This infographic shows West Sussex data compared to England."
+This infographic shows West Sussex data compared to England.",
 YP05,Progression to higher education from low income families (2006 - 2008),07/02/2011,Excel,starting-well,progression_to_he_from_low_income_families_2006_2008.xls,"Percentage of students in low income families progressing to higher education at age 18 for academic years ending 2006-2008.
 
-Comparisons with neighbouring authorities included."
+Comparisons with neighbouring authorities included.",
 YP06,West Sussex mental health needs assessment (children and young people) June 2014,16/06/2014,PDF,starting-well,west_sussex_children_and_young_people_emotional_and_well_being_needs_assessment___june_2014.pdf,"This needs assessment looks at the emotional wellbeing and mental health of children and young people in West Sussex; in the main people aged 0-18 years of age, in some instances up to 25 years.
 
 The information collated aims to answer some basic questions:
@@ -152,34 +152,34 @@ The information collated aims to answer some basic questions:
 * What gaps/barriers, if any, need to be addressed?
 
 While a range of data have been collated, at the heart of this work are the experiences and views of children and young people, parents, carers and professionals. The needs assessment was conducted by researchers in the Public Health, Health and Social Care Commissioning Directorate,
-with consultation fieldwork undertaken between October 2013 and December 2013."
+with consultation fieldwork undertaken between October 2013 and December 2013.",
 YP07,Looked after children needs assessment,06/07/2012,PDF,starting-well,needs_assessment_of_vulnerable_and_looked_after_children___full_report.pdf,"A comprehensive needs assessment of vulnerable and Looked After Children in West Sussex, focussing on social care services, physical and mental health, housing, lifestyle and education.
 
-Produced in 2008 by NHS Sussex."
+Produced in 2008 by NHS Sussex.",
 YP08,Evidence and engagement with children and young people in West Sussex 2014,25/07/2014,PDF,starting-well,evidence_engagement_children_young_people_final_report.pdf,"To inform the Children and Young People’s Emotional Wellbeing and Mental Health Needs Assessment, 2014, engagements were held with children and young people across the county in the Autumn of 2013.
 
 In addition, an online survey was developed to capture the views of young people.
 
 Within the discussion groups were upper and lower tier service users, members of the Children in Care Council and young people from secondary schools throughout the county.
 
-This report is one of a three part engagement; the others being with ‘Parents / Carers of those involved with CAMHS’ and with ‘Professionals involved with CAMHS’ in West Sussex."
+This report is one of a three part engagement; the others being with ‘Parents / Carers of those involved with CAMHS’ and with ‘Professionals involved with CAMHS’ in West Sussex.",
 YP09,Evidence and engagement with parents/carers of young people involved with CAMHS in West Sussex 2014,25/07/2014,PDF,starting-well,evidence_engagement_parents_final_report.pdf,"To inform the Children and Young People’s Emotional Wellbeing and Mental Health Needs Assessment, 2014, engagements were held with parents and carers of young people involved with CAMHS across the county in the Autumn of 2013. In addition, an online survey was developed to capture the views of parents and carers.
 
-This report is one of a three part engagement; the others being with ‘Professionals involved with CAMHS’ and with ‘Children and Young People across West Sussex’."
+This report is one of a three part engagement; the others being with ‘Professionals involved with CAMHS’ and with ‘Children and Young People across West Sussex’.",
 YP10,Evidence engagement with professionals involved with CAMHS in West Sussex 2014,25/07/2014,PDF,starting-well,evidence_engagement_professionals_final_report.pdf,"To inform the Children and Young People’s Emotional Wellbeing and Mental Health Needs Assessment, 2014, engagements were held with professionals across the county in the Autumn of 2013.
 
 In addition, an online survey was developed to capture the views of professionals from a broad range of organisations.
 
-This report is one of a three part engagement; the others being with ‘Parents / Carers of those involved with CAMHS’ and with ‘Children and Young People across West Sussex’."
-YP11,Eye health - baseline evidence and service data,12/09/2013,Word,starting-well,jsna_eye_health_sight_loss_briefing.docx,"With a National Eye Health week established, this report on eye health presents information on the prevalence on eye conditions as well as information on sight tests by service user groups, cataract operations and the number of people registered blind in West Sussex."
-YP12,Quality assurance of children’s residential care: Service level summary 2013,28/06/2013,PDF,starting-well,quality_assurance_in_children__s_residential_care_service_level_summary_2013.pdf,"Service level summary on the quality of care provided by 7 children’s residential care units in West Sussex. This summary provides an overview of the project with selected results presented."
+This report is one of a three part engagement; the others being with ‘Parents / Carers of those involved with CAMHS’ and with ‘Children and Young People across West Sussex’.",
+YP11,Eye health - baseline evidence and service data,12/09/2013,Word,starting-well,jsna_eye_health_sight_loss_briefing.docx,"With a National Eye Health week established, this report on eye health presents information on the prevalence on eye conditions as well as information on sight tests by service user groups, cataract operations and the number of people registered blind in West Sussex.",
+YP12,Quality assurance of children’s residential care: Service level summary 2013,28/06/2013,PDF,starting-well,quality_assurance_in_children__s_residential_care_service_level_summary_2013.pdf,Service level summary on the quality of care provided by 7 children’s residential care units in West Sussex. This summary provides an overview of the project with selected results presented.,
 YP13,Child disability mapping project survey report,24/05/2013,PDF,starting-well,child_disability_mapping_project.pdf,"Report looking into parents experience and opinion of services for children with a disability.
 
 A questionnaire-based postal survey was sent to 642 families known to have a child with a disability and covers 3 key areas:
 
 1. Care and support received by families over the last 12months. Parental rating of satisfaction of services, extent to which services met their child’s needs, rating of quality of social services and level of awareness of services available.
 2. Information and advice about their child care. Opinion from parents on obtaining information on their social care needs and services provided.
-3. Decision made about their child’s care over the last 12 months. This section covers aspects of decisions made by social care professionals including satisfaction with decision and whether they or their child were consultant."
+3. Decision made about their child’s care over the last 12 months. This section covers aspects of decisions made by social care professionals including satisfaction with decision and whether they or their child were consultant.",
 YP14,Analysis of the West Sussex 2011 Year 11 cohort,24/08/2012,Word,starting-well,west_sussex_2011_year_11_cohort.doc,"This report looks at educational attainment of Year 11 Pupils in 2011 at Key Stage 4 (GCSE) along with pupil progress in core subjects (English, Maths and Science) between Key Stage 2 and Key Stage 4.
 
 79% of students achieved 5+ A*-C grades in all subjects, while 59% of students achieved 5+ A*-C grades when including English and Maths.
@@ -190,17 +190,17 @@ The results also show that there is a strong correlation between social deprivat
 
 Variations in attainment were also observed between districts with a higher percentage of pupils from Horsham achieving grade A*-C compared to pupils in Adur.
 
-Exclusion from school either temporarily or permanently is associated with poorer attainment. Pupils that have been excluded (between September 2007 and December 2010) were 3 times less likely to achieve 5+ A*-C grades (including English and Maths) compared to non-excluded pupils."
-YP15,Lifestyles of 14-15 year olds in West Sussex 2015,17/11/2015,PDF,starting-well,Lifestyles-of-14-15-year-olds-in-West-Sussex-2015.pdf,"Lifestyles of 14-15 year olds in West Sussex 2015"
-YP16,Under 18 and under 16 conception rates 2010,04/05/2012,Excel,starting-well,under_18_under_16_conception_rates_2010.xls,"Under 18 and under 16 conception rate for West Sussex and England based on mother’s usual area of residence."
-ENV01,Local carbon dioxide (CO2) emissions estimates 2005 - 2011,07/08/2012,Excel,living-well,local_co2_emission_2005_2011.xlsx,"Local CO2 emissions estimates for 2005-2011, represented per capita and raw figures by industry."
-ENV02,Residual waste per household (2007- 2009),07/02/2011,Excel,living-well,residual_waste_per_household_2007_2009.xls,"Average kilos of waste not sent for recycling/composting etc, collected per household by district for two years."
+Exclusion from school either temporarily or permanently is associated with poorer attainment. Pupils that have been excluded (between September 2007 and December 2010) were 3 times less likely to achieve 5+ A*-C grades (including English and Maths) compared to non-excluded pupils.",
+YP15,Lifestyles of 14-15 year olds in West Sussex 2015,17/11/2015,PDF,starting-well,Lifestyles-of-14-15-year-olds-in-West-Sussex-2015.pdf,Lifestyles of 14-15 year olds in West Sussex 2015,
+YP16,Under 18 and under 16 conception rates 2010,04/05/2012,Excel,starting-well,under_18_under_16_conception_rates_2010.xls,Under 18 and under 16 conception rate for West Sussex and England based on mother’s usual area of residence.,
+ENV01,Local carbon dioxide (CO2) emissions estimates 2005 - 2011,07/08/2012,Excel,living-well,local_co2_emission_2005_2011.xlsx,"Local CO2 emissions estimates for 2005-2011, represented per capita and raw figures by industry.",
+ENV02,Residual waste per household (2007- 2009),07/02/2011,Excel,living-well,residual_waste_per_household_2007_2009.xls,"Average kilos of waste not sent for recycling/composting etc, collected per household by district for two years.",
 ENV03,Environmental health services: Reconnecting public health,16/07/2013,Word,living-well,environmental_health_reconnecting_public_health.doc,"The first report of its kind, this reports brings together key environmental factors, which affect Public Health in West Sussex.
 
 These are air quality, fuel poverty, water quality, alcohol control and noise control.
 
-A separate section on the emergent issue of increasing public awareness of food hygiene standards when eating out follows this."
-HOME01,Housing Data Workbook December 2016,01/02/2017,Excel,living-well,Housing-Data-Workbook-December-2016.xlsx,"This spreadsheet contains data on housing in West Sussex districts and boroughs. Data sources include: Census 2011, Office for National Statistics, Land registry, Valuation Office Agency, Department for Communities and Local Government, and Ministry of Justice."
+A separate section on the emergent issue of increasing public awareness of food hygiene standards when eating out follows this.",
+HOME01,Housing Data Workbook December 2016,01/02/2017,Excel,living-well,Housing-Data-Workbook-December-2016.xlsx,"This spreadsheet contains data on housing in West Sussex districts and boroughs. Data sources include: Census 2011, Office for National Statistics, Land registry, Valuation Office Agency, Department for Communities and Local Government, and Ministry of Justice.",
 HOME02,Housing in West Sussex: Review of data,14/04/2012,Word,living-well,housing_review_data.doc,"This is a review of the evidence relating to the need for housing and supported housing in West Sussex.
 
 It collates current evidence, identifies Òknown knowledge gapsÓ and provides a high-level summary of the assumptions underpinning housing and supported housing needs strategies and service reviews.
@@ -218,15 +218,15 @@ In relation to supported housing, West Sussex County Council has undertaken (as 
 
 In addition to examining existing provision, these reviews have also considered wider issues and unmet need.
 
-Further strategic reviews are planned for homeless people and families, and people with substance misuse problems."
-NBH01,Crime rates,28/08/2013,Excel,living-well,crime_rates.xlsx,"Crime rates and pooled figures at ward level between 2008-2013 with comparative tools."
-NBH02,Alcohol related record violent crimes,16/07/2012,Excel,living-well,alcohol_related_record_violent_crimes.xls,"Data on alcohol-related recorded and violent crimes at Local Authority level, crude rate per 1,000 population. Data is based on 2010/11 Home Office records and applied to the 2009 mid-year population estimates."
-NBH03,"Ward, middle super output area (MSOA), lower super output area, urban and rural classifications",12/08/2013,Excel,living-well,ward_msoa_lsoa_urban_rural_classification.xlsx,
+Further strategic reviews are planned for homeless people and families, and people with substance misuse problems.",
+NBH01,Crime rates,28/08/2013,Excel,living-well,crime_rates.xlsx,Crime rates and pooled figures at ward level between 2008-2013 with comparative tools.,
+NBH02,Alcohol related record violent crimes,16/07/2012,Excel,living-well,alcohol_related_record_violent_crimes.xls,"Data on alcohol-related recorded and violent crimes at Local Authority level, crude rate per 1,000 population. Data is based on 2010/11 Home Office records and applied to the 2009 mid-year population estimates.",
+NBH03,"Ward, middle super output area (MSOA), lower super output area, urban and rural classifications",12/08/2013,Excel,living-well,ward_msoa_lsoa_urban_rural_classification.xlsx,,
 NBH04,"Indices of multiple deprivation (IMD) 2010, 2007, 2004 data for West Sussex lower super output area LSOAs",20/09/2012,Excel,living-well,imd_2010_2007__2004_data_west_sussex_LSOAs.xls,"The attached file brings together all of the indices and population bases used in the index of multiple deprivation (IMD) 2010, 2007 and 2004.
 
 Values are highlighted in blue or dark blue where they lie in the bottom 20% or 10% nationally and light yellow or dark yellow where they lie in the top 20% or 10%.
 
-Each index is made up of a series of sub-indicators, these are not included within this document but may be downloaded from the Department for Communities and Local Government (DCLG) website. \n\nIndex values are an adjusted distribution and are not comparable year on year or against each other as they are not a linear scale. Relative national rank is instead used to compare LSOAs year on year but this will not give an indication of absolute deprivation (with the exception of the Income Deprivation (INC), Employment Deprivation (EMP), Income Deprivation Affecting Children Index (IDACI) and Income Deprivation Affecting Older People Index (IDAOPI), which are percentages of their respective sections of the population)."
+Each index is made up of a series of sub-indicators, these are not included within this document but may be downloaded from the Department for Communities and Local Government (DCLG) website. \n\nIndex values are an adjusted distribution and are not comparable year on year or against each other as they are not a linear scale. Relative national rank is instead used to compare LSOAs year on year but this will not give an indication of absolute deprivation (with the exception of the Income Deprivation (INC), Employment Deprivation (EMP), Income Deprivation Affecting Children Index (IDACI) and Income Deprivation Affecting Older People Index (IDAOPI), which are percentages of their respective sections of the population).",
 NBH05,Indices of multiple deprivation (IMD) 2010 West Sussex- data briefing,05/07/2012,PDF,living-well,indices_of_deprivation_2010___west_sussex___briefing.pdf,"This report highlights the relative level of deprivation in West Sussex at lower super output area (LSOA) level as well as ward level.
 
 Look out for:
@@ -234,35 +234,35 @@ Look out for:
 1. Relative ranking of overall deprivation and each indicator.
 2. Relative ranking for income deprivation for children and older people.
 
-The index of multiple deprivation (IMD) 2010 is the third publication in the series that measures deprivation at LSOA level. Deprivation score is based on a number of domains based on economic, social and housing issues."
-NBH06,Index of multiple deprivation (IMD) 2010 (appendices),12/03/2012,PDF,living-well,imd_2010_appendices.pdf,"Appendices to the indices of multiple deprivation 2010 Report. Includes LSOA and ward level ranking on all 7 domain groups."
-NBH07,Method of travel to work (2001 - 2011),13/11/2011,Excel,living-well,method_travel_work_2001_2011.xlsx,"Comparison of the 2001 and 2011 Census data on method of travel to work at ward and local authority level."
+The index of multiple deprivation (IMD) 2010 is the third publication in the series that measures deprivation at LSOA level. Deprivation score is based on a number of domains based on economic, social and housing issues.",
+NBH06,Index of multiple deprivation (IMD) 2010 (appendices),12/03/2012,PDF,living-well,imd_2010_appendices.pdf,Appendices to the indices of multiple deprivation 2010 Report. Includes LSOA and ward level ranking on all 7 domain groups.,
+NBH07,Method of travel to work (2001 - 2011),13/11/2011,Excel,living-well,method_travel_work_2001_2011.xlsx,Comparison of the 2001 and 2011 Census data on method of travel to work at ward and local authority level.,
 NBH08,"Lifestyles of older people in West Sussex, 2006",03/04/2014,PDF,living-well,lifestyles_of_older_people_in_west_sussex_2006.pdf,"West Sussex has an ageing population. The countyÕs population age structure is older than the South East region and England as a whole and presents challenges in relation to the demand for and provision of services, but also in the way that older people are perceived and included in the wider community.
 
-This report includes sections on smoking and alcohol, carers, contact with health services, home, anti-social behaviour and vulnerability of 48,202 people aged 60+ in West Sussex."
+This report includes sections on smoking and alcohol, carers, contact with health services, home, anti-social behaviour and vulnerability of 48,202 people aged 60+ in West Sussex.",
 NBH09,Lifestyles of 16 to 24 year olds in West Sussex 2007,03/04/2014,PDF,living-well,lifestyles_of_16_to_24_year_olds_in_west_sussex_2008.pdf,"This survey provides West Sussex with an important and timely insight into the health and educational determinants of young adults in further and higher education.
 
 This report provides information on demographics, lifestyles, high-risk and sexual behaviour of young adults aged between 16 and 24 years old.
 
-This lifestyle survey of 16 to 24-year-olds attending Further and Higher Education Colleges in West Sussex was conducted in the winter term 2006-2007 (representing the views of 2,672 young adults)."
+This lifestyle survey of 16 to 24-year-olds attending Further and Higher Education Colleges in West Sussex was conducted in the winter term 2006-2007 (representing the views of 2,672 young adults).",
 NBH10,West Sussex residents survey; 2014,22/08/2014,PDF,living-well,west_sussex_residents_survey_2014_.pdf,"A Community Survey was undertaken in West Sussex in February to May 2014.
 
 Almost 4,000 people across the county were surveyed; it was a household face-to-face survey.
 
 The survey used nationally and internationally validated questions on a range of issues including volunteering in the community, social networks and isolation (both in the general population and amongst older people), local concerns, assets and social action.
 
-The background questions used, wherever possible, the same format as the Census 2011."
+The background questions used, wherever possible, the same format as the Census 2011.",
 NBH11,Lives of older people in West Sussex survey; summary report 2013,16/12/2013,PDF,living-well,lives_of_older_people_in_west_sussex_survey_summary_report_2013_final_.pdf,"West Sussex County Council conducted a telephone survey of 2803 residents aged 65+ and selected at random.
 
 The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle.
 
-Attached is a short summary of the findings from the report."
-NBH12,Seaside deprivation,30/08/2013,Word,living-well,seaside_deprivation.docx_1.doc,"This brief will the a recent ONS study into the high levels of deprivation being experienced by large seaside resorts such as Bognor Regis, Worthing and Brighton among others in the local area."
+Attached is a short summary of the findings from the report.",
+NBH12,Seaside deprivation,30/08/2013,Word,living-well,seaside_deprivation.docx_1.doc,"This brief will the a recent ONS study into the high levels of deprivation being experienced by large seaside resorts such as Bognor Regis, Worthing and Brighton among others in the local area.",
 NBH13,Bentswood stakeholder workshop summary: Maintaining health and wellbeing in Bentswood,23/01/2013,PDF,living-well,maintaining_h_and_w_bentswood.pdf,"West Sussex Public Health is undertaking an innovative new project to enhance health improvement in Bentswood.
 
 The purpose of the workshop was to introduce the stakeholders who live and work in Bentswood, to innovative ways of working within neighbourhoods and communities.
 
-This report is a summary of the discussion held on the day on how to improve health and wellbeing in the area using resources available in Bentswood."
+This report is a summary of the discussion held on the day on how to improve health and wellbeing in the area using resources available in Bentswood.",
 DAA01,West Sussex alcohol and drugs needs assessment; final report 2014,16/06/2014,PDF,living-well,west_sussex_alcohol_and_drugs_needs_assessment___final_report.pdf,"In undertaking the needs assessment researchers examined evidence, reviewed activity and provision alongside national guidance and best practice, and engaged with a wide range of local stakeholders.
 
 In relation to specific gaps in services and/or unmet needs, the report noted the following:
@@ -278,7 +278,7 @@ In relation to specific gaps in services and/or unmet needs, the report noted th
 There were a number of recommendations specifically relating to children and young including:
 * Improved support for children and young people with parents/carers with substance misuse problems (including improved identification of children of substance misusers), improved staff training, expand provision of Alcohol Identification and Brief Interventions, ensure adequate early intervention programmes and improved co-ordination of school education work.
 
-The needs assessment also highlighted the issue of poor quality infrastructure and noted that significant investment was required to ensure buildings are fit for purpose."
+The needs assessment also highlighted the issue of poor quality infrastructure and noted that significant investment was required to ensure buildings are fit for purpose.",
 DAA02,West Sussex alcohol and drugs needs assessment; summary 2014,16/06/2014,PDF,living-well,west_sussex_alcohol_and_drugs_needs_assessment_summary.pdf,"In undertaking the needs assessment researchers examined evidence, reviewed activity and provision alongside national guidance and best practice, and engaged with a wide range of local stakeholders.
 
 In relation to specific gaps in services and/or unmet needs, the report noted the following:
@@ -294,84 +294,84 @@ In relation to specific gaps in services and/or unmet needs, the report noted th
 There were a number of recommendations specifically relating to children and young including:
 * Improved support for children and young people with parents/carers with substance misuse problems (including improved identification of children of substance misusers), improved staff training, expand provision of Alcohol Identification and Brief Interventions, ensure adequate early intervention programmes and improved co-ordination of school education work.
 
-The needs assessment also highlighted the issue of poor quality infrastructure and noted that significant investment was required to ensure buildings are fit for purpose."
-DAA03,Alcohol related admissions 2005-2011,24/07/2013,Excel,living-well,alcohol_related_admissions_2005_2011.xls,"Information on the number of hospital admissions from alcohol-attributable conditions per 100,000. \n\nThis spreadsheet looks at the trend in admission from 2005 to 2011 for each district."
-DAA04,Alcohol related record violent crimes,16/07/2012,Excel,living-well,alcohol_related_record_violent_crimes.xls,"Data on alcohol-related recorded and violent crimes at Local Authority level, crude rate per 1,000 population. Data is based on 2010/11 Home Office records and applied to the 2009 mid-year population estimates."
-DAA05,Drinking behaviour based mid 2008 synthetic estimates,16/07/2012,Excel,living-well,drinking_behaviour_based_mid_2008_synthetic_estimates.xls,"Estimates on lower, increasing, higher and binge drinking levels based on data from the 2008 General Lifestyle Survey (GHS). Definitions of each indicator are provided."
-DAA06,Maps of licenced (alcohol/tobacco) premises in West Sussex against school location,26/05/2010,PDF,living-well,mapping_licensed_premises_and_schools.pdf,"These maps show premises licenced for the sale of tobacco and alcohol in relation to school locations."
+The needs assessment also highlighted the issue of poor quality infrastructure and noted that significant investment was required to ensure buildings are fit for purpose.",
+DAA03,Alcohol related admissions 2005-2011,24/07/2013,Excel,living-well,alcohol_related_admissions_2005_2011.xls,"Information on the number of hospital admissions from alcohol-attributable conditions per 100,000. \n\nThis spreadsheet looks at the trend in admission from 2005 to 2011 for each district.",
+DAA04,Alcohol related record violent crimes,16/07/2012,Excel,living-well,alcohol_related_record_violent_crimes.xls,"Data on alcohol-related recorded and violent crimes at Local Authority level, crude rate per 1,000 population. Data is based on 2010/11 Home Office records and applied to the 2009 mid-year population estimates.",
+DAA05,Drinking behaviour based mid 2008 synthetic estimates,16/07/2012,Excel,living-well,drinking_behaviour_based_mid_2008_synthetic_estimates.xls,"Estimates on lower, increasing, higher and binge drinking levels based on data from the 2008 General Lifestyle Survey (GHS). Definitions of each indicator are provided.",
+DAA06,Maps of licenced (alcohol/tobacco) premises in West Sussex against school location,26/05/2010,PDF,living-well,mapping_licensed_premises_and_schools.pdf,These maps show premises licenced for the sale of tobacco and alcohol in relation to school locations.,
 DAA07,HMP Ford health needs assessment,15/08/2014,PDF,living-well,final_hmp_ford_hna.pdf,"A report into the health and wellbeing needs of inmates in HMP Ford prepared by the Institute for Criminal Policy for WSCC and NHS West
  Sussex in 2010.
 
- The report contains recommendations drawn from data analysis, stakeholder consultation, offender interviews and a literature review."
+ The report contains recommendations drawn from data analysis, stakeholder consultation, offender interviews and a literature review.",
 DAA08,"Lifestyles of older people in West Sussex, 2006",03/04/2014,PDF,living-well,lifestyles_of_older_people_in_west_sussex_2006.pdf,"West Sussex has an ageing population. The countyÕs population age structure is older than the South East region and England as a whole and presents challenges in relation to the demand for and provision of services, but also in the way that older people are perceived and included in the wider community.
 
-This report includes sections on smoking and alcohol, carers, contact with health services, home, anti-social behaviour and vulnerability of 48,202 people aged 60+ in West Sussex."
-DAA09,Dual diagnosis needs assessment,23/12/2014,PDF,living-well,dual_diagnosis_needs_assessment.pdf,"This is the dual diagnosis needs assessment - dual refers to people who have a mental health problem and also a substance misuse problem."
+This report includes sections on smoking and alcohol, carers, contact with health services, home, anti-social behaviour and vulnerability of 48,202 people aged 60+ in West Sussex.",
+DAA09,Dual diagnosis needs assessment,23/12/2014,PDF,living-well,dual_diagnosis_needs_assessment.pdf,This is the dual diagnosis needs assessment - dual refers to people who have a mental health problem and also a substance misuse problem.,
 DAA10,Lives of older people in West Sussex survey; summary report 2013,16/12/2013,PDF,living-well,lives_of_older_people_in_west_sussex_survey_summary_report_2013_final_.pdf,"West Sussex County Council conducted a telephone survey of 2803 residents aged 65+ and selected at random.
 
-The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle."
+The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle.",
 DAA11,Lifestyles of 16 to 24 year olds in West Sussex 2007,03/04/2014,PDF,living-well,lifestyles_of_16_to_24_year_olds_in_west_sussex_2008.pdf,"This survey provides West Sussex with an important and timely insight into the health and educational determinants of young adults in further and higher education.
 
 This report provides information on demographics, lifestyles, high-risk and sexual behaviour of young adults aged between 16 and 24 years old.
 
-This lifestyle survey of 16 to 24-year-olds attending Further and Higher Education Colleges in West Sussex was conducted in the winter term 2006-2007 (representing the views of 2,672 young adults)."
-DAA12,Lifestyles of 14-15 year olds in West Sussex 2015,17/11/2015,PDF,living-well,Lifestyles-of-14-15-year-olds-in-West-Sussex-2015.pdf,
+This lifestyle survey of 16 to 24-year-olds attending Further and Higher Education Colleges in West Sussex was conducted in the winter term 2006-2007 (representing the views of 2,672 young adults).",
+DAA12,Lifestyles of 14-15 year olds in West Sussex 2015,17/11/2015,PDF,living-well,Lifestyles-of-14-15-year-olds-in-West-Sussex-2015.pdf,,
 PAWM01,Participation in sport 2007 - 2009 by district,31/01/2011,Excel,living-well,participation_in_sport_2007_2009_district.xls,"Estimates for adult participation in sport - percentage participating in moderate intensity activity for 30 minutes or more at least three times a week.
 
 Sample sizes are typically 1% of the local population or less so should be used with care.
 
-Survey data are presented for two separate years."
+Survey data are presented for two separate years.",
 PAWM02,Modelled adult obesity prevalence 2006 - 2008,03/02/2012,Excel,living-well,modelled_adult_obesity_prevalence_2006_2008.xls,"Percentage of Adults (aged 16+) who are obese from 2006-2008.
 
-Data is at local authority level and is taken from APHO."
+Data is at local authority level and is taken from APHO.",
 PAWM03,HMP Ford health needs assessment,15/08/2014,PDF,living-well,final_hmp_ford_hna.pdf,"A report into the health and wellbeing needs of inmates in HMP Ford prepared by the Institute for Criminal Policy for WSCC and NHS West Sussex in 2010.
 
-The report contains recommendations drawn from data analysis, stakeholder consultation, offender interviews and a literature review."
+The report contains recommendations drawn from data analysis, stakeholder consultation, offender interviews and a literature review.",
 PAWM04,"Lifestyles of older people in West Sussex, 2006",03/04/2014,PDF,living-well,lifestyles_of_older_people_in_west_sussex_2006.pdf,"West Sussex has an ageing population. The countyÕs population age structure is older than the South East region and England as a whole and presents challenges in relation to the demand for and provision of services, but also in the way that older people are perceived and included in the wider community.
 
-This report includes sections on smoking and alcohol, carers, contact with health services, home, anti-social behaviour and vulnerability of 48,202 people aged 60+ in West Sussex."
+This report includes sections on smoking and alcohol, carers, contact with health services, home, anti-social behaviour and vulnerability of 48,202 people aged 60+ in West Sussex.",
 PAWM05,Lifestyles of 16 to 24 year olds in West Sussex 2007,03/04/2014,PDF,living-well,lifestyles_of_16_to_24_year_olds_in_west_sussex_2008.pdf,"This survey provides West Sussex with an important and timely insight into the health and educational determinants of young adults in further and higher education.
 
 This report provides information on demographics, lifestyles, high-risk and sexual behaviour of young adults aged between 16 and 24 years old.
 
-This lifestyle survey of 16 to 24-year-olds attending Further and Higher Education Colleges in West Sussex was conducted in the winter term 2006-2007 (representing the views of 2,672 young adults)."
-PAWM06,Lifestyles of 14-15 year olds in West Sussex 2015,17/11/2015,PDF,living-well,Lifestyles-of-14-15-year-olds-in-West-Sussex-2015.pdf,
+This lifestyle survey of 16 to 24-year-olds attending Further and Higher Education Colleges in West Sussex was conducted in the winter term 2006-2007 (representing the views of 2,672 young adults).",
+PAWM06,Lifestyles of 14-15 year olds in West Sussex 2015,17/11/2015,PDF,living-well,Lifestyles-of-14-15-year-olds-in-West-Sussex-2015.pdf,,
 SH01,West Sussex Sexual Health Needs Asessment 2014 Final Report,30/01/2017,PDF,living-well,West-Sussex-Sexual-Health-Needs-Asessment-2014-Final-Report.pdf,"In February 2014, West Sussex County Council commissioned Nudge Associates Limited to undertake a population focused sexual health needs assessment incorporating a stakeholder engagement process with key informants and service users.
 
-The aim was to gather a comprehensive picture of the sexual health needs of the population of West Sussex, to examine the local epidemiological evidence and to elicit opinions on whether the current services and delivery models meet the diverse population needs of West Sussex, in order to determine the most appropriate way forward for sexual health services throughout West Sussex."
-SH02,Prevalence of chlamydia in under 25 year olds,16/08/2013,Excel,living-well,prevalence_chlamydia_under_25.xlsx,"Prevalence of chlamydia in under 25 year old along with screening numbers for LA and England (2009-2010)."
-SH03,Under 18 and under 16 conception rates 2010,04/05/2012,Excel,living-well,under_18_under_16_conception_rates_2010.xls,"Under 18 and under 16 conception rate for West Sussex and England based on motherÕs usual area of residence."
+The aim was to gather a comprehensive picture of the sexual health needs of the population of West Sussex, to examine the local epidemiological evidence and to elicit opinions on whether the current services and delivery models meet the diverse population needs of West Sussex, in order to determine the most appropriate way forward for sexual health services throughout West Sussex.",
+SH02,Prevalence of chlamydia in under 25 year olds,16/08/2013,Excel,living-well,prevalence_chlamydia_under_25.xlsx,Prevalence of chlamydia in under 25 year old along with screening numbers for LA and England (2009-2010).,
+SH03,Under 18 and under 16 conception rates 2010,04/05/2012,Excel,living-well,under_18_under_16_conception_rates_2010.xls,Under 18 and under 16 conception rate for West Sussex and England based on motherÕs usual area of residence.,
 SH04,Lifestyles of 14 to 15 year olds 2010,17/10/2012,PDF,living-well,lifestyles_of_14_to_15_year_olds_2010.pdf,"Second in the series of surveys carried out on Year 10 pupils, which provides an overview of the health and wellbeing of young people in West Sussex.
 
 The report provides information on demographics, lifestyles, high-risk behaviours and attitudes and beliefs of pupils in West Sussex.
 
-The survey took place in the summer of 2009 with 21 schools participating (representing the views of 3,375 pupils)."
+The survey took place in the summer of 2009 with 21 schools participating (representing the views of 3,375 pupils).",
 SH05,Lifestyles of 16 to 24 year olds in West Sussex 2007,03/04/2014,PDF,living-well,lifestyles_of_16_to_24_year_olds_in_west_sussex_2008.pdf,"This survey provides West Sussex with an important and timely insight into the health and educational determinants of young adults in further and higher education.
 
 This report provides information on demographics, lifestyles, high-risk and sexual behaviour of young adults aged between 16 and 24 years old.
 
-This lifestyle survey of 16 to 24-year-olds attending Further and Higher Education Colleges in West Sussex was conducted in the winter term 2006-2007 (representing the views of 2,672 young adults)."
+This lifestyle survey of 16 to 24-year-olds attending Further and Higher Education Colleges in West Sussex was conducted in the winter term 2006-2007 (representing the views of 2,672 young adults).",
 SH06,HMP Ford health needs assessment,15/08/2014,PDF,living-well,final_hmp_ford_hna.pdf,"A report into the health and wellbeing needs of inmates in HMP Ford prepared by the Institute for Criminal Policy for WSCC and NHS West
- Sussex in 2010. \n\nThe report contains recommendations drawn from data analysis, stakeholder consultation, offender interviews and a literature review."
-SMOK01,Smoking prevalence briefing note; March 2015,08/04/2015,Word,living-well,smoking_prevalence_briefing_march_2015.docx,
-SMOK02,Smoking data 2001 - 2011,14/08/2013,Excel,living-well,smoking_data_2001_2011.xlsx,"A various spread of smoking data from 2007-2011"
+ Sussex in 2010. \n\nThe report contains recommendations drawn from data analysis, stakeholder consultation, offender interviews and a literature review.",
+SMOK01,Smoking prevalence briefing note; March 2015,08/04/2015,Word,living-well,smoking_prevalence_briefing_march_2015.docx,,
+SMOK02,Smoking data 2001 - 2011,14/08/2013,Excel,living-well,smoking_data_2001_2011.xlsx,A various spread of smoking data from 2007-2011,
 SMOK03,HMP Ford health needs assessment,15/08/2014,PDF,living-well,final_hmp_ford_hna.pdf,"A report into the health and wellbeing needs of inmates in HMP Ford prepared by the Institute for Criminal Policy for WSCC and NHS West Sussex in 2010.
 
-The report contains recommendations drawn from data analysis, stakeholder consultation, offender interviews and a literature review."
+The report contains recommendations drawn from data analysis, stakeholder consultation, offender interviews and a literature review.",
 SMOK04,Lifestyles of 16 to 24 year olds in West Sussex 2007,03/04/2014,PDF,living-well,lifestyles_of_16_to_24_year_olds_in_west_sussex_2008.pdf,"This survey provides West Sussex with an important and timely insight into the health and educational determinants of young adults in further and higher education.
 
 This report provides information on demographics, lifestyles, high-risk and sexual behaviour of young adults aged between 16 and 24 years old.
 
-This lifestyle survey of 16 to 24-year-olds attending Further and Higher Education Colleges in West Sussex was conducted in the winter term 2006-2007 (representing the views of 2,672 young adults)."
+This lifestyle survey of 16 to 24-year-olds attending Further and Higher Education Colleges in West Sussex was conducted in the winter term 2006-2007 (representing the views of 2,672 young adults).",
 SMOK05,"Lifestyles of older people in West Sussex, 2006",03/04/2014,PDF,living-well,lifestyles_of_older_people_in_west_sussex_2006.pdf,"West Sussex has an ageing population. The countyÕs population age structure is older than the South East region and England as a whole and presents challenges in relation to the demand for and provision of services, but also in the way that older people are perceived and included in the wider community.
 
-This report includes sections on smoking and alcohol, carers, contact with health services, home, anti-social behaviour and vulnerability of 48,202 people aged 60+ in West Sussex."
-SMOK06,Lifestyles of 14-15 year olds in West Sussex 2015,17/11/2015,PDF,living-well,Lifestyles-of-14-15-year-olds-in-West-Sussex-2015.pdf,
-SMOK07,West Sussex smoking cessation health equity audit 2013 - 2014,16/05/2015,PDF,living-well,smoking_cessation_health_equity_audit_2013_14.pdf,"This report is to provide local stop smoking services, commissioners and decision makers with information about how equitable the distributions of resources for stop smoking services were delivered relative to the health needs of the population."
+This report includes sections on smoking and alcohol, carers, contact with health services, home, anti-social behaviour and vulnerability of 48,202 people aged 60+ in West Sussex.",
+SMOK06,Lifestyles of 14-15 year olds in West Sussex 2015,17/11/2015,PDF,living-well,Lifestyles-of-14-15-year-olds-in-West-Sussex-2015.pdf,,
+SMOK07,West Sussex smoking cessation health equity audit 2013 - 2014,16/05/2015,PDF,living-well,smoking_cessation_health_equity_audit_2013_14.pdf,"This report is to provide local stop smoking services, commissioners and decision makers with information about how equitable the distributions of resources for stop smoking services were delivered relative to the health needs of the population.",
 SMOK08,Lives of older people in West Sussex survey; summary report 2013,16/12/2013,PDF,living-well,lives_of_older_people_in_west_sussex_survey_summary_report_2013_final_.pdf,"West Sussex County Council conducted a telephone survey of 2803 residents aged 65+ and selected at random.
 
-The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle."
-LL01,West Sussex JSNA Older People Profiling,01/02/2017,PDF,ageing-well,West-Sussex-JSNA-Older-People-Profiling.pdf,"This profile collates data relating to the health and wellbeing of older people in West Sussex. Data are presented, in the main, at county level. District and CCG level information, where available, is on the JSNA website."
+The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle.",
+LL01,West Sussex JSNA Older People Profiling,01/02/2017,PDF,ageing-well,West-Sussex-JSNA-Older-People-Profiling.pdf,"This profile collates data relating to the health and wellbeing of older people in West Sussex. Data are presented, in the main, at county level. District and CCG level information, where available, is on the JSNA website.",
 LL02,Estimation of Need and Social Care Demand Management - West Sussex PH,01/02/2017,PDF,ageing-well,Estimation-of-Need-and-Social-Care-Demand-Management-West-Sussex-PH.pdf,"This briefing aims to:
 
 1. Segment the West Sussex over 65 population in terms of social care need and demand (in terms of support for daily living activities, self-care and domestic tasks. Public Health has approached segmentation in terms of:
@@ -379,77 +379,77 @@ LL02,Estimation of Need and Social Care Demand Management - West Sussex PH,01/02
   2. Assumptions drawn from West Sussex GP patient data, using information on age and long term conditions.
   3. Existing patterns of social care demand, using data from WSCC Frameworki and Finance.
 2. Identify how provision supports people within, or moves people between segments/states.
-3. Provide a basic review the information required, and that available, to inform how our knowledge of demand."
-LL03,Life expectancy at birth and age 65 years; 1993 - 2011,07/08/2013,Excel,ageing-well,life_expectancy_birth_age_65_1993_2011.xls,"Life expectancy at birth and age 65: 1993 - 2011 at district level, presented with yearly trend graphs."
-LL04,"Adult health, disabilities, services and mental health population projections for older people 2014 - 2029",10/04/2012,Excel,ageing-well,adult_health_disabilities_services_and_mental_health_population_projections_for_older_people_2014_2029.xls,"Population projections for older people aged 65 and over from 2014-2029 based on the Projecting Older People Population Information System (POPPI) model."
+3. Provide a basic review the information required, and that available, to inform how our knowledge of demand.",
+LL03,Life expectancy at birth and age 65 years; 1993 - 2011,07/08/2013,Excel,ageing-well,life_expectancy_birth_age_65_1993_2011.xls,"Life expectancy at birth and age 65: 1993 - 2011 at district level, presented with yearly trend graphs.",
+LL04,"Adult health, disabilities, services and mental health population projections for older people 2014 - 2029",10/04/2012,Excel,ageing-well,adult_health_disabilities_services_and_mental_health_population_projections_for_older_people_2014_2029.xls,Population projections for older people aged 65 and over from 2014-2029 based on the Projecting Older People Population Information System (POPPI) model.,
 LL05,Lives of older people in West Sussex survey; summary report 2013,16/12/2013,PDF,ageing-well,lives_of_older_people_in_west_sussex_survey_summary_report_2013_final_.pdf,"West Sussex County Council conducted a telephone survey of 2803 residents aged 65+ and selected at random.
 
-The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle."
-LL06,Eye health - baseline evidence and service data,12/09/2013,Word,ageing-well,jsna_eye_health_sight_loss_briefing.docx,"With a National Eye Health week established, this report on eye health presents information on the prevalence on eye conditions as well as information on sight tests by service user groups, cataract operations and the number of people registered blind in West Sussex."
-LL07,Population in care homes by local authority census 2011,08/01/2014,Excel,ageing-well,population_in_care_homes_by_local_authority_census_2011.xls,"This document shows West Sussex having the 4th highest proportion of population aged 75+ of all counties in England and the 2nd highest proportion of people living in care homes."
+The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle.",
+LL06,Eye health - baseline evidence and service data,12/09/2013,Word,ageing-well,jsna_eye_health_sight_loss_briefing.docx,"With a National Eye Health week established, this report on eye health presents information on the prevalence on eye conditions as well as information on sight tests by service user groups, cataract operations and the number of people registered blind in West Sussex.",
+LL07,Population in care homes by local authority census 2011,08/01/2014,Excel,ageing-well,population_in_care_homes_by_local_authority_census_2011.xls,This document shows West Sussex having the 4th highest proportion of population aged 75+ of all counties in England and the 2nd highest proportion of people living in care homes.,
 MHWB01,Falls Commentary - Summer 2017,07/08/2017,PDF,ageing-well,Falls-Summer-2017-v3.pdf,"Falls and injuries sustained due to a fall are a common and serious problem for older people. People aged 65 and older have the highest risk of falling, with 30% of people older than 65, and 50% of people older than 80 falling at least once a year. Annually, approximately 5% of older people who fall obtain a fracture or require hospitalisation for a fall-related injury.
 
 Nationally, the population of older adults is projected to increase. The number and proportion of older people continues to rise, with over 11.6 million people (17.8% of the population) in the UK aged 65 and over and 1.5 million (2.3% of the population) aged 85 and over in mid-2015.
 
 West Sussex has a large and growing population of older adults. If population growth projections are correct, the number of adults aged 65+ that are projected to require hospital treatment for a fall will almost double by 2039.
 
-This data commentary summarises key data sources regarding falls and fractures among older adults in West Sussex. This will help inform the development of a falls and fractures prevention strategy to address this growing need."
-MHWB02,Social Capital and Loneliness in Older Age Summary from JSNA,30/01/2017,PDF,ageing-well,Social-Capital-and-Loneliness-in-Older-Age-Summary-from-JSNA.pdf,"This is a summary document from the 2014 JSNA. It contains information on social capital and loneliness in older age. Specifically the document comprises data from the Chartered Institute of Environmental Health on noise complaints, and West Sussex Community Survey (2014) on contact with friends and family, and trust in others."
-MHWB03,Dementia prevalence estimates by district and year,27/06/2014,Excel,ageing-well,dementia_prevalence_estimates_district_and_year.xlsx,"Estimates of the prevalence of various types of dementia by district, every year between 2012 and 2037."
-MHWB04,Visual and hearing impairment predictions 2012 - 2016,27/08/2013,Excel,ageing-well,visual_hearing_impairment_predictions_2012_2016.xlsx,"Projections for people with visual or hearing impairment at county and district level between 2012-2016. All data comes in 10 year age bands."
+This data commentary summarises key data sources regarding falls and fractures among older adults in West Sussex. This will help inform the development of a falls and fractures prevention strategy to address this growing need.",
+MHWB02,Social Capital and Loneliness in Older Age Summary from JSNA,30/01/2017,PDF,ageing-well,Social-Capital-and-Loneliness-in-Older-Age-Summary-from-JSNA.pdf,"This is a summary document from the 2014 JSNA. It contains information on social capital and loneliness in older age. Specifically the document comprises data from the Chartered Institute of Environmental Health on noise complaints, and West Sussex Community Survey (2014) on contact with friends and family, and trust in others.",
+MHWB03,Dementia prevalence estimates by district and year,27/06/2014,Excel,ageing-well,dementia_prevalence_estimates_district_and_year.xlsx,"Estimates of the prevalence of various types of dementia by district, every year between 2012 and 2037.",
+MHWB04,Visual and hearing impairment predictions 2012 - 2016,27/08/2013,Excel,ageing-well,visual_hearing_impairment_predictions_2012_2016.xlsx,Projections for people with visual or hearing impairment at county and district level between 2012-2016. All data comes in 10 year age bands.,
 MHWB05,Detailed long term limiting illness data (2011),16/08/2013,Excel,ageing-well,detailed_long_term_limiting_illness_data_2011_.xlsx,"Data on long term limiting illnesses (LTLI) with West Sussex at district level.
 
-People with LTLI are categorised by age, and by self assessed health status."
-MHWB06,General health; census 2011,16/08/2013,Excel,ageing-well,general_health_census_2011.xlsx,"2011 Census data on self assessed quality of health by age and sex. "
+People with LTLI are categorised by age, and by self assessed health status.",
+MHWB06,General health; census 2011,16/08/2013,Excel,ageing-well,general_health_census_2011.xlsx,2011 Census data on self assessed quality of health by age and sex. ,
 MHWB07,Falls resulting in hip fracture (proximal femur),07/08/2013,Excel,ageing-well,falls_resulting_in_hip_fracture_proximal_femur.xls,"Falls resulting in hip fractures between 2002-2011. All data at district level.
 
-Raw count, indirect standardised rates, and CIs are all given."
-MHWB08,Hip and knee replacements,07/08/2013,Excel,ageing-well,hip_and_knee_replacement.xls,"Hip and Knee Replacements figures between 2002/03 - 2010/11. Figures include raw count, indirect standardisation and confidence intervals. All data at District level and above."
+Raw count, indirect standardised rates, and CIs are all given.",
+MHWB08,Hip and knee replacements,07/08/2013,Excel,ageing-well,hip_and_knee_replacement.xls,"Hip and Knee Replacements figures between 2002/03 - 2010/11. Figures include raw count, indirect standardisation and confidence intervals. All data at District level and above.",
 MHWB09,Comparison between the number of people with a disability or limiting long term illness 2001 - 2011,19/07/2013,Excel,ageing-well,compariosn_between_number_people_with_disability_or_limiting_long_term_illness_2001_2011.xls,"Comparison between the number of people with a disability or limiting long-term illness (LLTI).
 
-Data is presented for all LSOAs, wards as well as districts and shows the areas that have significantly changed in that 10-year period."
-MHWB10,Long term limiting illness and good health by ward,31/10/2011,Excel,ageing-well,long_term_limiting_illness_and_good_health_by_ward_2001.xls,"Answers to the health and long term limiting illness questions on the 2001 census by age group by ward, percentages applied to mid year population estimates 2007."
-MHWB11,Percentage of_Incapacity Benefit (IB)/Severe Disablement Allowance (SDA) claimants claiming for reasons of mental health - May 2011,23/12/2011,Excel,ageing-well,percentage_of_ib_sda_claimants_claiming_for_reasons_of_mental_health_may_2011.xls,"Percentage of Incapacity Benefit (IB)/ Severe Disability Allowance (SDA) claimants claiming for reasons of mental health. IB and SDA are claimed by working age people who are incapable of work due to an illness or disability. This table is not adjusted for the size or age structure of the population and therefore should be interpreted with care."
+Data is presented for all LSOAs, wards as well as districts and shows the areas that have significantly changed in that 10-year period.",
+MHWB10,Long term limiting illness and good health by ward,31/10/2011,Excel,ageing-well,long_term_limiting_illness_and_good_health_by_ward_2001.xls,"Answers to the health and long term limiting illness questions on the 2001 census by age group by ward, percentages applied to mid year population estimates 2007.",
+MHWB11,Percentage of_Incapacity Benefit (IB)/Severe Disablement Allowance (SDA) claimants claiming for reasons of mental health - May 2011,23/12/2011,Excel,ageing-well,percentage_of_ib_sda_claimants_claiming_for_reasons_of_mental_health_may_2011.xls,Percentage of Incapacity Benefit (IB)/ Severe Disability Allowance (SDA) claimants claiming for reasons of mental health. IB and SDA are claimed by working age people who are incapable of work due to an illness or disability. This table is not adjusted for the size or age structure of the population and therefore should be interpreted with care.,
 MHWB12,"Lifestyles of older people in West Sussex, 2006",03/04/2014,PDF,ageing-well,lifestyles_of_older_people_in_west_sussex_2006.pdf,"West Sussex has an ageing population. The countyÕs population age structure is older than the South East region and England as a whole and presents challenges in relation to the demand for and provision of services, but also in the way that older people are perceived and included in the wider community.
 
-This report includes sections on smoking and alcohol, carers, contact with health services, home, anti-social behaviour and vulnerability of 48,202 people aged 60+ in West Sussex."
+This report includes sections on smoking and alcohol, carers, contact with health services, home, anti-social behaviour and vulnerability of 48,202 people aged 60+ in West Sussex.",
 MHWB13,Adult mental health needs assessment,18/07/2014,PDF,ageing-well,adult_mental_health_needs_assessment.pdf,"This assessment focusses on adults (people aged 18 years or over), and includes Ònon-organicÓ mental health of older people: a separate needs assessment on dementia is being produced.
 
-The report examines not just mental illness or conditions, but also considers what promotes and supports mental and emotional wellbeing."
+The report examines not just mental illness or conditions, but also considers what promotes and supports mental and emotional wellbeing.",
 MHWB14,West Sussex residents survey; 2014,22/08/2014,PDF,ageing-well,west_sussex_residents_survey_2014_.pdf,"A Community Survey was undertaken in West Sussex in February to May 2014.
 
 Almost 4,000 people across the county were surveyed; it was a household face-to-face survey.
 
 The survey used nationally and internationally validated questions on a range of issues including volunteering in the community, social networks and isolation (both in the general population and amongst older people), local concerns, assets and social action.
 
-The background questions used, wherever possible, the same format as the Census 2011."
+The background questions used, wherever possible, the same format as the Census 2011.",
 MHWB15,Lives of older people in West Sussex survey; summary report 2013,16/12/2013,PDF,ageing-well,lives_of_older_people_in_west_sussex_survey_summary_report_2013_final_.pdf,"West Sussex County Council conducted a telephone survey of 2803 residents aged 65+ and selected at random.
 
-The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle."
+The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle.",
 MHWB16,Bentswood stakeholder workshop summary: Maintaining health and wellbeing in Bentswood,23/01/2013,PDF,ageing-well,maintaining_h_and_w_bentswood.pdf,"West Sussex Public Health is undertaking an innovative new project to enhance health improvement in Bentswood.
 
 The purpose of the workshop was to introduce the stakeholders who live and work in Bentswood, to innovative ways of working within neighbourhoods and communities.
 
-This report is a summary of the discussion held on the day on how to improve health and wellbeing in the area using resources available in Bentswood."
+This report is a summary of the discussion held on the day on how to improve health and wellbeing in the area using resources available in Bentswood.",
 NA01,West Sussex Suicide Audit - 2017,20/03/2017,PDF,reports,West-Sussex-Suicide-Audit-2017.pdf,"In 2014 the West Sussex Public Health department completed an audit which covered all West Sussex suicides and open verdicts likely to be suicides, registered at inquest during the period: 1st January 2011 to 31st December 2012. The information in this audit was used to inform the work of the West Sussex suicide prevention steering group.
 
-This new audit covers the three year period 1st January 2013 to 31st December 2015 and aims to build upon the knowledge generated by the previous audit, ensuring the focus is on information that is not readily available using national data sources."
-NA02,West Sussex Children Looked After Needs Assessment 2017,12/12/2017,PDF,reports,West-Sussex-Children-Looked-After-Needs-Assessment-2017.pdf,"In late 2015 OFSTED conducted an inspection of services for children in need of help and protection, children looked after and care leavers, and a review of the effectiveness of the Local Safeguarding Children Board. Services for children provided and delivered by the council, including those in need of help and protection and those looked after, were judged to require improvement. This led to the development of the West Sussex OFSTED Improvement Plan 2016 - 2017, in which the imperative to produce a needs assessment for looked after children was identified. National and local datasets were analysed and the views of service leaders sought. The needs assessment reports on topics such as demographics, legal status, placement characteristics, engagement and voice, health, education and care leavers."
+This new audit covers the three year period 1st January 2013 to 31st December 2015 and aims to build upon the knowledge generated by the previous audit, ensuring the focus is on information that is not readily available using national data sources.",
+NA02,West Sussex Children Looked After Needs Assessment 2017,12/12/2017,PDF,reports,West-Sussex-Children-Looked-After-Needs-Assessment-2017.pdf,"In late 2015 OFSTED conducted an inspection of services for children in need of help and protection, children looked after and care leavers, and a review of the effectiveness of the Local Safeguarding Children Board. Services for children provided and delivered by the council, including those in need of help and protection and those looked after, were judged to require improvement. This led to the development of the West Sussex OFSTED Improvement Plan 2016 - 2017, in which the imperative to produce a needs assessment for looked after children was identified. National and local datasets were analysed and the views of service leaders sought. The needs assessment reports on topics such as demographics, legal status, placement characteristics, engagement and voice, health, education and care leavers.",
 NA03,Briefing - Excess Winter Mortality in Horsham 2013,30/01/2017,PDF,reports,Briefing-Excess-Winter-Mortality-in-Horsham-2013.pdf,"This briefing has been drafted to:
 - provide a detailed understanding of the excess winter death indicator, as published by Public Health England in annual health profiles; and provide additional data relating to Horsham
 - outline the national evidence and research into excess winter mortality and identify specific recommendations for action at a local level.
 
-In the three year period August 2012 to July 2015 there were 220 ÒexcessÓ winter deaths in Horsham. The excess winter death (EWD) index of 18.5 was not significantly different to the England and South East rates of 19.6 and 18.7 respectively."
+In the three year period August 2012 to July 2015 there were 220 ÒexcessÓ winter deaths in Horsham. The excess winter death (EWD) index of 18.5 was not significantly different to the England and South East rates of 19.6 and 18.7 respectively.",
 NA04,Briefing - Excess Winter Mortality in Adur 2013,30/01/2017,PDF,reports,Briefing-Excess-Winter-Mortality-in-Adur-2013.pdf,"This briefing has been drafted to:
 - provide a detailed understanding of the excess winter death indicator, as published by Public Health England in annual health profiles; and provide additional data relating to Adur
 - outline the national evidence and research into excess winter mortality and identify specific recommendations for action at a local level.
 
-In the three year period August 2012 to July 2015 there were 217 ÒexcessÓ winter deaths in Adur. The excess winter death (EWD) index of 34.5 was significantly higher than the England and South East rates of 19.6 and 18.7 respectively."
+In the three year period August 2012 to July 2015 there were 217 ÒexcessÓ winter deaths in Adur. The excess winter death (EWD) index of 34.5 was significantly higher than the England and South East rates of 19.6 and 18.7 respectively.",
 NA05,Briefing - Child Disability Estimates,30/01/2017,PDF,reports,Briefing-Child-Disability-Estimates.pdf,"This briefing incorporates work undertaken by the Institute of Public Care for West Sussex County Council as part of the needs assessment of people born with or who acquire a lifelong disability.
 
 The briefing provides an estimate of the number of children living in West Sussex who have a disability and outline the sources of data and background to the assumptions made. This information is important to aid the planning of services and support to children, young people and their families.
 
-There is no single definition of disability and therefore providing a single accurate estimate is difficult; for example the 2011 Census definition of disability is: ÔA long?term health problem or disability that limits a personÕs day?to?day activities, and has lasted, or is expected to last, at least 12 monthsÕ; the Family Resources Survey (FRS) uses a different definition: Ôa long?standing illness, disability or impairment which causes substantial difficulty with day?today activitiesÕ. Estimating the number of children and young people according to ÒseverityÓ or in terms of specific needs or conditions is also problematic. This briefing provides the background to the basis estimates have been made."
+There is no single definition of disability and therefore providing a single accurate estimate is difficult; for example the 2011 Census definition of disability is: ÔA long?term health problem or disability that limits a personÕs day?to?day activities, and has lasted, or is expected to last, at least 12 monthsÕ; the Family Resources Survey (FRS) uses a different definition: Ôa long?standing illness, disability or impairment which causes substantial difficulty with day?today activitiesÕ. Estimating the number of children and young people according to ÒseverityÓ or in terms of specific needs or conditions is also problematic. This briefing provides the background to the basis estimates have been made.",
 NA06,IAPT West Sussex Report,01/02/2017,PDF,reports,IAPT-West-Sussex-Report.pdf,"This equity audit assesses the equity of provision of IAPT to different population groups, according to estimated need.
 
 30% of people estimated to seek help for common mental illness in West Sussex were referred to IAPT in 2013/14. Of these, 37% were seen in IAPT and 26% completed at least two sessions.
@@ -462,17 +462,17 @@ Asians have lower rates of attendance than might be expected from population dat
 
 There is wide variation of referral to IAPT from GP practices across West Sussex.
 
-Recommendations include increasing IAPT capacity, improving recording within the service to better identify unmet need, improve retention within the service to ensure higher completion rates, and better engagement with population subgroups in which there is low uptake of the service."
+Recommendations include increasing IAPT capacity, improving recording within the service to better identify unmet need, improve retention within the service to ensure higher completion rates, and better engagement with population subgroups in which there is low uptake of the service.",
 NA07,West Sussex Early Years Needs Assessment (2015) Report,20/04/2016,PDF,reports,West-Sussex-Early-Years-Needs-Assessment-Full-Report.pdf,"The early years of life are crucial for long-term physical, social, emotional and mental wellbeing. The evidence is clear that investment in, and a policy emphasis on, the early years of life yields better long-term outcomes than interventions in later years.
 
 The West Sussex Public Health and Social Research unit have reviewed local and national evidence and engaged with families and professionals to identify how the needs of the 0-5 years population are currently being met.
 
 Local views, experiences, and opinions were gathered from parents and carers, and from local stakeholders (including staff employed in early yearsÕ services). Views were also identified from parents/carers of children with a disability (via a postal survey), foster carers and families from the gypsy and traveller community. In depth interviews were conducted with young parents, and Eastern European families.
 
-This detailed report presents the findings from this research, and provides recommendations to help inform future commissioning priorities in West Sussex."
+This detailed report presents the findings from this research, and provides recommendations to help inform future commissioning priorities in West Sussex.",
 NA08,West Sussex radiotherapy needs assessment 2010,09/10/2014,PDF,reports,west_sussex_radiotherapy_needs_assessment_2010.pdf,"Although age-standardised cancer incidence rates in West Sussex are low, crude rates are high due to the age structure of the population.
 
-This Health Needs Assessment was written in 2010 in part to inform the proposed expansion of radiotherapy provision in the West Sussex area. Since its publication, radiotherapy provision has become available at East Surrey Hospital in Redhill, 15 miles north of the West Sussex border. Other nearby provision is discussed in this report but no provision currently exists within West Sussex."
+This Health Needs Assessment was written in 2010 in part to inform the proposed expansion of radiotherapy provision in the West Sussex area. Since its publication, radiotherapy provision has become available at East Surrey Hospital in Redhill, 15 miles north of the West Sussex border. Other nearby provision is discussed in this report but no provision currently exists within West Sussex.",
 NA09,West Sussex mental health needs assessment (children and young people) June 2014,16/06/2014,PDF,reports,west_sussex_children_and_young_people_emotional_and_well_being_needs_assessment___june_2014.pdf,"This needs assessment looks at the emotional wellbeing and mental health of children and young people in West Sussex; in the main people aged 0-18 years of age, in some instances up to 25 years.
 
 The information collated aims to answer some basic questions:
@@ -482,14 +482,14 @@ The information collated aims to answer some basic questions:
 * What services are currently provided to meet those needs?\n\nHow well are services currently provided to meet those needs?
 * What gaps/barriers, if any, need to be addressed?
 
-While a range of data have been collated, at the heart of this work are the experiences and views of children and young people, parents, carers and professionals. The needs assessment was conducted by researchers in the Public Health, Health and Social Care Commissioning Directorate, with consultation fieldwork undertaken between October 2013 and December 2013."
-NA10,Speech Language and Communication Needs Assessment 2010 MGA Consulting,01/02/2017,PDF,reports,Speech-Language-and-Communication-Needs-Assessment-2010-MGA-Consulting.pdf,"This needs assessment was commissioned to provide a summary of the needs of speech, language and communication of children and young people of West Sussex in 2010."
+While a range of data have been collated, at the heart of this work are the experiences and views of children and young people, parents, carers and professionals. The needs assessment was conducted by researchers in the Public Health, Health and Social Care Commissioning Directorate, with consultation fieldwork undertaken between October 2013 and December 2013.",
+NA10,Speech Language and Communication Needs Assessment 2010 MGA Consulting,01/02/2017,PDF,reports,Speech-Language-and-Communication-Needs-Assessment-2010-MGA-Consulting.pdf,"This needs assessment was commissioned to provide a summary of the needs of speech, language and communication of children and young people of West Sussex in 2010.",
 NA11,HMP Ford health needs assessment,15/08/2014,PDF,reports,final_hmp_ford_hna.pdf,"A report into the health and wellbeing needs of inmates in HMP Ford prepared by the Institute for Criminal Policy for WSCC and NHS West Sussex in 2010.
 
-The report contains recommendations drawn from data analysis, stakeholder consultation, offender interviews and a literature review."
+The report contains recommendations drawn from data analysis, stakeholder consultation, offender interviews and a literature review.",
 NA12,Adult mental health needs assessment,18/07/2014,PDF,reports,adult_mental_health_needs_assessment.pdf,"This assessment focusses on adults (people aged 18 years or over), and includes Ònon-organicÓ mental health of older people: a separate needs assessment on dementia is being produced.
 
-The report examines not just mental illness or conditions, but also considers what promotes and supports mental and emotional wellbeing."
+The report examines not just mental illness or conditions, but also considers what promotes and supports mental and emotional wellbeing.",
 NA13,West Sussex alcohol and drugs needs assessment; final report 2014,16/06/2014,PDF,reports,west_sussex_alcohol_and_drugs_needs_assessment___final_report.pdf,"In undertaking the needs assessment researchers examined evidence, reviewed activity and provision alongside national guidance and best practice, and engaged with a wide range of local stakeholders.
 
 In relation to specific gaps in services and/or unmet needs, the report noted the following:
@@ -505,7 +505,7 @@ In relation to specific gaps in services and/or unmet needs, the report noted th
 There were a number of recommendations specifically relating to children and young including:
 * Improved support for children and young people with parents/carers with substance misuse problems (including improved identification of children of substance misusers), improved staff training, expand provision of Alcohol Identification and Brief Interventions, ensure adequate early intervention programmes and improved co-ordination of school education work.
 
-The needs assessment also highlighted the issue of poor quality infrastructure and noted that significant investment was required to ensure buildings are fit for purpose."
+The needs assessment also highlighted the issue of poor quality infrastructure and noted that significant investment was required to ensure buildings are fit for purpose.",
 NA14,West Sussex alcohol and drugs needs assessment; summary 2014,16/06/2014,PDF,reports,west_sussex_alcohol_and_drugs_needs_assessment_summary.pdf,"In undertaking the needs assessment researchers examined evidence, reviewed activity and provision alongside national guidance and best practice, and engaged with a wide range of local stakeholders.
 
 In relation to specific gaps in services and/or unmet needs, the report noted the following: 
@@ -524,7 +524,7 @@ There were a number of recommendations specifically relating to children and you
 * Expand provision of Alcohol Identification and Brief Interventions
 * Ensure adequate early intervention programmes and improved co-ordination of school education work.
 
-The needs assessment also highlighted the issue of poor quality infrastructure and noted that significant investment was required to ensure buildings are fit for purpose."
+The needs assessment also highlighted the issue of poor quality infrastructure and noted that significant investment was required to ensure buildings are fit for purpose.",
 NA15,Health and social care needs of Gypsies and Travellers in West Sussex 2010,30/01/2017,PDF,reports,Health-and-social-care-needs-of-Gypsies-and-Travellers-in-West-Sussex-2010.pdf,"The Office for Public Management (OPM) was commissioned by NHS West Sussex and West Sussex County Council (WSCC) to conduct an assessment of the health and social care needs of Gypsies and Travellers in West Sussex.
 
 The aims of the project were to:
@@ -535,7 +535,7 @@ The aims of the project were to:
 - Identify further opportunities for service improvement, e.g. partnership working, service access, etc.
 - Identify key priorities for commissioners and other interested stakeholders
 - Suggest indicators for monitoring progress towards addressing improvements and unmet needs.
-- Produce a report aimed at policy makers and commissioners, but easily understood by all key stakeholders."
+- Produce a report aimed at policy makers and commissioners, but easily understood by all key stakeholders.",
 NA16,Health needs assessment of immigration removal facilities in West Sussex by ICPR July 2012,30/01/2017,PDF,reports,Health-needs-assessment-of-immigration-removal-facilities-in-West-Sussex-by-ICPR-July-2012.pdf,"NHS Sussex and West Sussex County Council commissioned the Institute of Criminal Policy Research (ICPR) to undertake an assessment of the health needs of people detained in the two local Immigration Removal Centres - Brook House and Tinsley House - and the Cedars pre-departure accommodation.
 
 There were six specific objectives to the health needs assessment:
@@ -546,183 +546,183 @@ There were six specific objectives to the health needs assessment:
 - To identify how the health and social care needs of children are being met
 - To identify progress centres are making to address specific health and social care issues raised during HMIP centre inspections.
 
-The fieldwork for this study was carried out between February and May 2012."
+The fieldwork for this study was carried out between February and May 2012.",
 NA17,Thorney Island Needs Assessment,20/01/2013,Word,reports,thorney_final_report.doc,"This report is a summary of the health and wellbeing needs of the families of soldiers from 47 Regiment Royal Artillery and 12 Regiment Royal Artillery who are stationed on the Army base on Thorney Island, West Sussex.
 
 It has been produced in response to increasing recognition nationally of the health and wellbeing needs of the families of serving personnel.
 
 The reports looks at the current health and wellbeing of families of Thorney Island personnel, services in places for families, how local organisations are supporting families and gaps in services.
 
-This is couple with several recommendations on how staff at Thorney Island and other organisations can work together to improve services."
+This is couple with several recommendations on how staff at Thorney Island and other organisations can work together to improve services.",
 NA18,Briefing - Early Help Identification of Children Revised,30/01/2017,PDF,reports,Briefing-Early-Help-Identification-of-Children-Revised.pdf,"This briefing:
 1. Provides an overview of the child population and families in West Sussex.
 2. Examines the various risk factors for early child development and harm.
 3. (Based on national research) estimates population level prevalence of those at risk groups.
 4. Outlines how at risk children could be identified using local sources and mechanisms.
-5. Details the readiness for school dashboard indicators identified in WSCC."
+5. Details the readiness for school dashboard indicators identified in WSCC.",
 NA19,Looked after children needs assessment,06/07/2012,PDF,reports,needs_assessment_of_vulnerable_and_looked_after_children___full_report.pdf,"A comprehensive needs assessment of vulnerable and Looked After Children in West Sussex, focussing on social care services, physical and mental health, housing, lifestyle and education.
 
-Produced in 2008 by NHS Sussex."
-NA20,West Sussex smoking cessation health equity audit 2013 - 2014,16/05/2015,PDF,reports,smoking_cessation_health_equity_audit_2013_14.pdf,"This report is to provide local stop smoking services, commissioners and decision makers with information about how equitable the distributions of resources for stop smoking services were delivered relative to the health needs of the population."
+Produced in 2008 by NHS Sussex.",
+NA20,West Sussex smoking cessation health equity audit 2013 - 2014,16/05/2015,PDF,reports,smoking_cessation_health_equity_audit_2013_14.pdf,"This report is to provide local stop smoking services, commissioners and decision makers with information about how equitable the distributions of resources for stop smoking services were delivered relative to the health needs of the population.",
 NA21,West Sussex residents survey; 2014,22/08/2014,PDF,reports,west_sussex_residents_survey_2014_.pdf,"A Community Survey was undertaken in West Sussex in February to May 2014.
 
 Almost 4,000 people across the county were surveyed; it was a household face-to-face survey.
 
 The survey used nationally and internationally validated questions on a range of issues including volunteering in the community, social networks and isolation (both in the general population and amongst older people), local concerns, assets and social action.
 
-The background questions used, wherever possible, the same format as the Census 2011."
+The background questions used, wherever possible, the same format as the Census 2011.",
 NA22,Evidence and engagement with children and young people in West Sussex 2014,25/07/2014,PDF,reports,evidence_engagement_children_young_people_final_report.pdf,"To inform the Children and Young PeopleÕs Emotional Wellbeing and Mental Health Needs Assessment, 2014, engagements were held with children and young people across the county in the Autumn of 2013.
 
 In addition, an online survey was developed to capture the views of young people.
 
 Within the discussion groups were upper and lower tier service users, members of the Children in Care Council and young people from secondary schools throughout the county.
 
-This report is one of a three part engagement; the others being with ÔParents / Carers of those involved with CAMHSÕ and with ÔProfessionals involved with CAMHSÕ in West Sussex."
+This report is one of a three part engagement; the others being with ÔParents / Carers of those involved with CAMHSÕ and with ÔProfessionals involved with CAMHSÕ in West Sussex.",
 NA23,Evidence and engagement with parents/carers of young people involved with CAMHS in West Sussex 2014,25/07/2014,PDF,reports,evidence_engagement_parents_final_report.pdf,"To inform the Children and Young PeopleÕs Emotional Wellbeing and Mental Health Needs Assessment, 2014, engagements were held with parents and carers of young people involved with CAMHS across the county in the Autumn of 2013. In addition, an online survey was developed to capture the views of parents and carers.
 
-This report is one of a three part engagement; the others being with ÔProfessionals involved with CAMHSÕ and with ÔChildren and Young People across West SussexÕ."
+This report is one of a three part engagement; the others being with ÔProfessionals involved with CAMHSÕ and with ÔChildren and Young People across West SussexÕ.",
 NA24,Evidence engagement with professionals involved with CAMHS in West Sussex 2014,25/07/2014,PDF,reports,evidence_engagement_professionals_final_report.pdf,"To inform the Children and Young PeopleÕs Emotional Wellbeing and Mental Health Needs Assessment, 2014, engagements were held with professionals across the county in the Autumn of 2013.\n\nIn addition, an online survey was developed to capture the views of professionals from a broad range of organisations.
 
-This report is one of a three part engagement; the others being with ÔParents / Carers of those involved with CAMHSÕ and with ÔChildren and Young People across West SussexÕ."
+This report is one of a three part engagement; the others being with ÔParents / Carers of those involved with CAMHSÕ and with ÔChildren and Young People across West SussexÕ.",
 NA25,Life expectancy at birth in West Sussex 2001 - 2012; data briefing,16/06/2014,Word,reports,life_expectancy_at_birth_in_west_sussex_2001_2012_data_briefing.docx,"An analysis of ward, district, county and deprivation decile level life expectancy estimates over time.
 
-Evidence indicates that inequality has been rising and that older person poverty is highly associated with decreases in life expectancy values. "
+Evidence indicates that inequality has been rising and that older person poverty is highly associated with decreases in life expectancy values. ",
 NA26,"Lifestyles of older people in West Sussex, 2006",03/04/2014,PDF,reports,lifestyles_of_older_people_in_west_sussex_2006.pdf,"West Sussex has an ageing population. The countyÕs population age structure is older than the South East region and England as a whole and presents challenges in relation to the demand for and provision of services, but also in the way that older people are perceived and included in the wider community.
 
-This report includes sections on smoking and alcohol, carers, contact with health services, home, anti-social behaviour and vulnerability of 48,202 people aged 60+ in West Sussex."
+This report includes sections on smoking and alcohol, carers, contact with health services, home, anti-social behaviour and vulnerability of 48,202 people aged 60+ in West Sussex.",
 NA27,Lifestyles of 16 to 24 year olds in West Sussex 2007,03/04/2014,PDF,reports,lifestyles_of_16_to_24_year_olds_in_west_sussex_2008.pdf,"This survey provides West Sussex with an important and timely insight into the health and educational determinants of young adults in further and higher education.
 
 This report provides information on demographics, lifestyles, high-risk and sexual behaviour of young adults aged between 16 and 24 years old.
 
-This lifestyle survey of 16 to 24-year-olds attending Further and Higher Education Colleges in West Sussex was conducted in the winter term 2006-2007 (representing the views of 2,672 young adults)."
+This lifestyle survey of 16 to 24-year-olds attending Further and Higher Education Colleges in West Sussex was conducted in the winter term 2006-2007 (representing the views of 2,672 young adults).",
 NA28,Equality Act update 2013,07/02/2014,Word,reports,equality_act_update_2013.docx,"The Equality Act 2010 identified nine protected characteristics; age, sex, disability, race, religion and belief, gender re-assignment, marriage and civil partnership, sexual orientation and pregnancy and maternity.
 
-The attached report is an update on population level data sources relating to these characteristics."
+The attached report is an update on population level data sources relating to these characteristics.",
 NA29,Evaluation of the Family Link Worker service 2012-2013,31/12/2013,Word,reports,family_link_worker_service_evaluation_report_2013.doc,"This report evaluates the impact of the Family Link Worker Service over the 2012-2013 academic year.
 
 Overall, at least one of the four evaluation forms was returned for 340 children/cases. These children attended 125 different schools.\n\nThe number of children referred from these schools ranged from between one to ten. Among the findings:
 1. In eight out of ten cases, children said that their FLW had helped them and their families a lot.
 2. In two-thirds of cases schools said that barriers to learning had been lessened.
-3. 86% of schools thought that the service was effective in meeting childrenÕs needs."
+3. 86% of schools thought that the service was effective in meeting childrenÕs needs.",
 NA30,Lives of older people in West Sussex survey; summary report 2013,16/12/2013,PDF,reports,lives_of_older_people_in_west_sussex_survey_summary_report_2013_final_.pdf,"West Sussex County Council conducted a telephone survey of 2803 residents aged 65+ and selected at random.
 
 The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle.
 
-Attached is a short summary of the findings from the report."
+Attached is a short summary of the findings from the report.",
 NA31,Child poverty briefing note 2013,31/10/2013,Word,reports,jsna_briefing_child_poverty_oct_2013.doc,"Update on child poverty relating to August 2011 as provided by HM Revenue and Customs (HMRC).
 
 In 2011, 13% of all children, and 13.5% of children under 16 years old were in relative poverty in West Sussex. This was highest in Crawley and lowest in Mid Sussex.
 
-Data is available at county, local authority, ward and neighbourhood levels (lower super output area)."
-NA32,Eye health - baseline evidence and service data,12/09/2013,Word,reports,jsna_eye_health_sight_loss_briefing.docx,"With a National Eye Health week established, this report on eye health presents information on the prevalence on eye conditions as well as information on sight tests by service user groups, cataract operations and the number of people registered blind in West Sussex."
+Data is available at county, local authority, ward and neighbourhood levels (lower super output area).",
+NA32,Eye health - baseline evidence and service data,12/09/2013,Word,reports,jsna_eye_health_sight_loss_briefing.docx,"With a National Eye Health week established, this report on eye health presents information on the prevalence on eye conditions as well as information on sight tests by service user groups, cataract operations and the number of people registered blind in West Sussex.",
 NA33,Learning disabilities review,05/09/2013,PDF,reports,data_review_ld_jsna_2013.pdf,"An update on the information collated in 2009, bringing together information collected on adults with learning disabilities in West Sussex.
 
-This includes information on prevalence, service level data and health outcomes."
+This includes information on prevalence, service level data and health outcomes.",
 NA34,2012 mid year estimates of population briefing note,09/08/2013,Word,reports,mid_year_2012_population_estimate_briefing1.docx,"The 2012 Mid-year population estimate for West Sussex was 815,100. This is a 0.8% increase from the previous year, caused by inward migration and to some extent a higher number of births than deaths.
 
-This briefing outlines the key features of the 2012 population estimate including total population estimate and breakdown by 5-year age groups. Comparison between the 2011 and 2012 population estimates shows the changes in the number of births, death and net migration over that time period."
-NA35,Seaside deprivation,30/08/2013,Word,reports,seaside_deprivation.docx_1.doc,"This brief will the a recent ONS study into the high levels of deprivation being experienced by large seaside resorts such as Bognor Regis, Worthing and Brighton among others in the local area."
-NA36,Friends and family survey,30/08/2013,Word,reports,friends_family_sure.docx,"This brief will cover the drastic changes to the fuel poverty definition from the old 10% measure to the new Low Income High Cost (LIHC) definition This briefing will also give a summary of local figure for 2011 at County and District level."
+This briefing outlines the key features of the 2012 population estimate including total population estimate and breakdown by 5-year age groups. Comparison between the 2011 and 2012 population estimates shows the changes in the number of births, death and net migration over that time period.",
+NA35,Seaside deprivation,30/08/2013,Word,reports,seaside_deprivation.docx_1.doc,"This brief will the a recent ONS study into the high levels of deprivation being experienced by large seaside resorts such as Bognor Regis, Worthing and Brighton among others in the local area.",
+NA36,Friends and family survey,30/08/2013,Word,reports,friends_family_sure.docx,This brief will cover the drastic changes to the fuel poverty definition from the old 10% measure to the new Low Income High Cost (LIHC) definition This briefing will also give a summary of local figure for 2011 at County and District level.,
 NA37,Environmental health services: Reconnecting public health,16/07/2013,Word,reports,environmental_health_reconnecting_public_health.doc,"The first report of its kind, this reports brings together key environmental factors, which affect Public Health in West Sussex.
 
 These are air quality, fuel poverty, water quality, alcohol control and noise control.
 
-A separate section on the emergent issue of increasing public awareness of food hygiene standards when eating out follows this."
-NA38,Quality assurance of childrenÕs residential care: Service level summary 2013,28/06/2013,PDF,reports,quality_assurance_in_children__s_residential_care_service_level_summary_2013.pdf,"Service level summary on the quality of care provided by 7 childrenÕs residential care units in West Sussex. This summary provides an overview of the project with selected results presented."
+A separate section on the emergent issue of increasing public awareness of food hygiene standards when eating out follows this.",
+NA38,Quality assurance of childrenÕs residential care: Service level summary 2013,28/06/2013,PDF,reports,quality_assurance_in_children__s_residential_care_service_level_summary_2013.pdf,Service level summary on the quality of care provided by 7 childrenÕs residential care units in West Sussex. This summary provides an overview of the project with selected results presented.,
 NA39,Child disability mapping project survey report,24/05/2013,PDF,reports,child_disability_mapping_project.pdf,"Report looking into parents experience and opinion of services for children with a disability.
 
 A questionnaire-based postal survey was sent to 642 families known to have a child with a disability and covers 3 key areas:-
 1. Care and support received by families over the last 12 months parental rating of satisfaction of services, extent to which services met their childÕs needs, rating of quality of social services and level of awareness of services available.
 2. Information and advice about their child care. Opinion from parents on obtaining information on their social care needs and services provided.
-3. Decision made about their childÕs care over the last 12 months. This section covers aspects of decisions made by social care professionals including satisfaction with decision and whether they or their child were consultant."
+3. Decision made about their childÕs care over the last 12 months. This section covers aspects of decisions made by social care professionals including satisfaction with decision and whether they or their child were consultant.",
 NA40,Bentswood stakeholder workshop summary: Maintaining health and wellbeing in Bentswood,23/01/2013,PDF,reports,maintaining_h_and_w_bentswood.pdf,"West Sussex Public Health is undertaking an innovative new project to enhance health improvement in Bentswood.
 
 The purpose of the workshop was to introduce the stakeholders who live and work in Bentswood, to innovative ways of working within neighbourhoods and communities.
 
-This report is a summary of the discussion held on the day on how to improve health and wellbeing in the area using resources available in Bentswood."
-JSNA1,West Sussex Joint Strategic Needs Assessment 2014 Data Appendix,27/10/2014,Word,reports,west_sussex_joint_strategic_needs_assessment_2014_data_appendix.docx,"This is a data appendix incorporating a range of data used to inform the JSNA summary."
+This report is a summary of the discussion held on the day on how to improve health and wellbeing in the area using resources available in Bentswood.",
+JSNA1,West Sussex Joint Strategic Needs Assessment 2014 Data Appendix,27/10/2014,Word,reports,west_sussex_joint_strategic_needs_assessment_2014_data_appendix.docx,This is a data appendix incorporating a range of data used to inform the JSNA summary.,
 JSNA2,West Sussex Joint Strategic Needs Assessment Summary Version 2014,27/10/2014,Word,reports,west_sussex_joint_strategic_needs_assessment__summary_version_2014.docx,"This is a high level summary of the health and wellbeing needs of the West Sussex population.
 
-This was presented to the West Sussex Health and Wellbeing Board on 8th September 2014."
-POP01,Census 2011 headline population statistics,16/07/2012,Word,core,census_2011_headline_population_stats1.doc,"Single page document showing the overall population of West Sussex as of the March 2011 Census. Breaks population down into household residents, residents of communal establishments and short term migrants. Figures are inflated to take into account non-respondent rates."
-POP02,Census 2011 population estimates ward level,23/11/2012,Word,core,census_2011_population_estimates_ward_level.doc,"Census 2011 output on population estimates at ward level. Tables are presented for each Local Authority by broad age band."
-POP03,Census 2001 – 2011 population West Sussex Local Authorities,05/09/2013,Excel,core,census_2001_2011_population_west_sussex_LAs.xls,"The table and graphs in this document display the population counts (adjusted for non-respondents) from the 2001 and 2011 censuses by age and sex at local authority level and for West Sussex as a whole. Other statistics such as percentage falling into certain categories and dependency ratios are also calculated. The West Sussex population increased by over 53,000 usually resident people between 2001 and 2011."
-POP04,2011 Census - Usual resident population at Lower Super Output Area level,05/09/2013,Excel,core,2011_census_usual_resident_population_by_resident_type_sex_and_5_year_age_groups_at_lsoa_level.xls,"These spreadsheets provide population estimates at LSOA level by resident type, sex and 5 year age groups. Estimates are based on usual resident population."
-POP05,2011 Census - Ethnic group at local authority and ward level,05/09/2013,Excel,core,2011_census_ethnic_group_LA_ward.xls,"This file provides the ethnic composition of residents at Local Authority and ward level. A new addition to the census is detailed ethnic group, which has been included in this file at local authority level."
-POP06,Carers data – Census 2011,16/08/2013,Excel,core,general_health_census_2011.xlsx,"Census data of unpaid carers within West Sussex at district level; categorised by hours work and by self assessed general health."
-POP07,General health - Census 2011,16/08/2013,Excel,core,general_health_census_2011.xlsx,"2011 Census data on self assessed quality of health by age and sex."
-POP08,Access to cars or vans,12/08/2013,Excel,core,access_vans_cars.xlsx,"Census data from 2001 and 2011 on a households access to a van or a car, alongside dynamic comparison pie charts."
-POP09,Central heating,07/08/2012,Excel,core,central_heating.xlsx,"Central heating data from the 2011 census at ward level for West Sussex. Presented with a two drop down boxes linked to pie charts for easy comparison."
-POP10,Economic activity,07/08/2013,Excel,core,economic_activity.xlsx,"Economic activity by lower super output area (LSOA) for West Sussex. All data collected from the 2001-2011 census."
-POP11,Employment and disability,05/08/2013,Excel,core,employment_disability.xls,"Economic activity by Long term limiting disability or illness. A comparison between 2001-2011 census data."
-POP12,Ethnic composition 2001 and 2011: Arun and Chichester,17/12/2012,Word,core,local_authority_ethnic_composition_2001_and_2011_arun_and_chichester.doc,"Document outlining detailed ethnic composition for Adur and Chichester, taken from the 2011 Census. Ethnic composition is also compared with the 2001 census, highlighting the changes over the last 10 years. For both areas, there has been an increase in ethnic minority groups, particular in the other White group."
-POP13,Household structure by ward (2001 – 2011),31/01/2011,Excel,core,household_structure_ward_2001_2011.xls,"Numbers and percentages of households by census structure category (e.g. One Person: Pensioner, Married couple households: with dependent children etc.)"
+This was presented to the West Sussex Health and Wellbeing Board on 8th September 2014.",
+POP01,Census 2011 headline population statistics,16/07/2012,Word,core,census_2011_headline_population_stats1.doc,"Single page document showing the overall population of West Sussex as of the March 2011 Census. Breaks population down into household residents, residents of communal establishments and short term migrants. Figures are inflated to take into account non-respondent rates.",
+POP02,Census 2011 population estimates ward level,23/11/2012,Word,core,census_2011_population_estimates_ward_level.doc,Census 2011 output on population estimates at ward level. Tables are presented for each Local Authority by broad age band.,
+POP03,Census 2001 – 2011 population West Sussex Local Authorities,05/09/2013,Excel,core,census_2001_2011_population_west_sussex_LAs.xls,"The table and graphs in this document display the population counts (adjusted for non-respondents) from the 2001 and 2011 censuses by age and sex at local authority level and for West Sussex as a whole. Other statistics such as percentage falling into certain categories and dependency ratios are also calculated. The West Sussex population increased by over 53,000 usually resident people between 2001 and 2011.",
+POP04,2011 Census - Usual resident population at Lower Super Output Area level,05/09/2013,Excel,core,2011_census_usual_resident_population_by_resident_type_sex_and_5_year_age_groups_at_lsoa_level.xls,"These spreadsheets provide population estimates at LSOA level by resident type, sex and 5 year age groups. Estimates are based on usual resident population.",
+POP05,2011 Census - Ethnic group at local authority and ward level,05/09/2013,Excel,core,2011_census_ethnic_group_LA_ward.xls,"This file provides the ethnic composition of residents at Local Authority and ward level. A new addition to the census is detailed ethnic group, which has been included in this file at local authority level.",
+POP06,Carers data – Census 2011,16/08/2013,Excel,core,general_health_census_2011.xlsx,Census data of unpaid carers within West Sussex at district level; categorised by hours work and by self assessed general health.,
+POP07,General health - Census 2011,16/08/2013,Excel,core,general_health_census_2011.xlsx,2011 Census data on self assessed quality of health by age and sex.,
+POP08,Access to cars or vans,12/08/2013,Excel,core,access_vans_cars.xlsx,"Census data from 2001 and 2011 on a households access to a van or a car, alongside dynamic comparison pie charts.",
+POP09,Central heating,07/08/2012,Excel,core,central_heating.xlsx,Central heating data from the 2011 census at ward level for West Sussex. Presented with a two drop down boxes linked to pie charts for easy comparison.,
+POP10,Economic activity,07/08/2013,Excel,core,economic_activity.xlsx,Economic activity by lower super output area (LSOA) for West Sussex. All data collected from the 2001-2011 census.,
+POP11,Employment and disability,05/08/2013,Excel,core,employment_disability.xls,Economic activity by Long term limiting disability or illness. A comparison between 2001-2011 census data.,
+POP12,Ethnic composition 2001 and 2011: Arun and Chichester,17/12/2012,Word,core,local_authority_ethnic_composition_2001_and_2011_arun_and_chichester.doc,"Document outlining detailed ethnic composition for Adur and Chichester, taken from the 2011 Census. Ethnic composition is also compared with the 2001 census, highlighting the changes over the last 10 years. For both areas, there has been an increase in ethnic minority groups, particular in the other White group.",
+POP13,Household structure by ward (2001 – 2011),31/01/2011,Excel,core,household_structure_ward_2001_2011.xls,"Numbers and percentages of households by census structure category (e.g. One Person: Pensioner, Married couple households: with dependent children etc.)",
 POP14,ONS census output 2012,05/04/2012,Word,core,ons_census_output_2012.doc,"Census 2011 data will be released in 4 stages between July 2012 and October 2013.
 
 Please see the link below for further information on census output release dates.
 
-The prospectus table and schedule on the bottom right hand corner of the link has further details on the data that will be released."
-POP15,Population in care homes by local authority census 2011,08/01/2014,Excel,core,population_in_care_homes_by_local_authority_census_2011.xls,"This document shows West Sussex having the 4th highest proportion of population aged 75+ of all counties in England and the 2nd highest proportion of people living in care homes."
+The prospectus table and schedule on the bottom right hand corner of the link has further details on the data that will be released.",
+POP15,Population in care homes by local authority census 2011,08/01/2014,Excel,core,population_in_care_homes_by_local_authority_census_2011.xls,This document shows West Sussex having the 4th highest proportion of population aged 75+ of all counties in England and the 2nd highest proportion of people living in care homes.,
 POP16,Housing tenure,07/08/2012,Excel,core,housing_tenure.xlsx,"Tenure data for West Sussex at ward level for all households and those over 65.
 
-Presented with visual breakdown of each type of tenure. All data collected from the 2011 Census."
-POP17,Industry of occupation by ward and district 2001 – 2011,24/07/2013,Excel,core,industry_occupation_by_ward_district_2001_2011.xlsx,"Self reported industry of occupation, numbers and percentages by ward and district from the 2001 and 2011 census."
-POP18,Long term limiting illness and good health by ward,31/01/2011,Excel,core,long_term_limiting_illness_and_good_health_by_ward_2001.xls,"Answers to the health and long term limiting illness questions on the 2001 census by age group by ward, percentages applied to mid year population estimates 2007."
-POP19,Method of travel to work (2001 – 2011),13/11/2011,Excel,core,method_travel_work_2001_2011.xlsx,"Comparison of the 2001 and 2011 Census data on method of travel to work at ward and local authority level."
+Presented with visual breakdown of each type of tenure. All data collected from the 2011 Census.",
+POP17,Industry of occupation by ward and district 2001 – 2011,24/07/2013,Excel,core,industry_occupation_by_ward_district_2001_2011.xlsx,"Self reported industry of occupation, numbers and percentages by ward and district from the 2001 and 2011 census.",
+POP18,Long term limiting illness and good health by ward,31/01/2011,Excel,core,long_term_limiting_illness_and_good_health_by_ward_2001.xls,"Answers to the health and long term limiting illness questions on the 2001 census by age group by ward, percentages applied to mid year population estimates 2007.",
+POP19,Method of travel to work (2001 – 2011),13/11/2011,Excel,core,method_travel_work_2001_2011.xlsx,Comparison of the 2001 and 2011 Census data on method of travel to work at ward and local authority level.,
 POP20,Method of travel to school 2010,07/02/2011,Excel,core,method_travel_school_2010.xls,"Numbers of students by each method of travel to school from the School Census 2010.
 
-Data is broken down for each statutory nursery, primary and secondary school within the county."
-POP21,Overcrowding,14/08/2013,Excel,core,overcrowding.xlsx,"Comparison for 2001-2011 census data on household overcrowding at ward level."
-POP22,Registered school pupils by ethnic group 2012,21/06/2012,Excel,core,registered_school_pupils_ethnic_group_2012.xls,"Data collected from the school census on the ethnic group of pupils at different academic stages."
-POP23,Religion at ward and local authority level 2001 – 2011,24/07/2013,Excel,core,religion_at_ward_LA_2001_2011.xlsx,"Dataset showing religion status from 2001 and 2011 census. Responses are self reported."
-POP24,Unpaid carers (2001 – 2011),10/09/2013,Excel,core,unpaid_carers_2001_2011.xlsx,"Census data regarding unpaid care, this spreadsheet includes ward level counts for unpaid care by hours given, it also includes confidence intervals, to be used to show statistical significance."
+Data is broken down for each statutory nursery, primary and secondary school within the county.",
+POP21,Overcrowding,14/08/2013,Excel,core,overcrowding.xlsx,Comparison for 2001-2011 census data on household overcrowding at ward level.,
+POP22,Registered school pupils by ethnic group 2012,21/06/2012,Excel,core,registered_school_pupils_ethnic_group_2012.xls,Data collected from the school census on the ethnic group of pupils at different academic stages.,
+POP23,Religion at ward and local authority level 2001 – 2011,24/07/2013,Excel,core,religion_at_ward_LA_2001_2011.xlsx,Dataset showing religion status from 2001 and 2011 census. Responses are self reported.,
+POP24,Unpaid carers (2001 – 2011),10/09/2013,Excel,core,unpaid_carers_2001_2011.xlsx,"Census data regarding unpaid care, this spreadsheet includes ward level counts for unpaid care by hours given, it also includes confidence intervals, to be used to show statistical significance.",
 PC01,Equality Act update 2013,07/02/2014,Word,core,equality_act_update_2013.docx,"The Equality Act 2010 identified nine protected characteristics; age, sex, disability, race, religion and belief, gender re-assignment, marriage and civil partnership, sexual orientation and pregnancy and maternity.
 
-The attached report is an update on population level data sources relating to these characteristics."
-MAP01,Maps of licenced (alcohol/tobacco) premises in West Sussex against school location,26/05/2010,PDF,core,mapping_licensed_premises_and_schools.pdf,"These maps show premises licenced for the sale of tobacco and alcohol in relation to school locations."
-MAP02,Map of Worthing Lower Super Output Areas (LSOAs) by index of multiple deprivation (IMD)2010,28/08/2012,PDF,core,worthing_lsoa_imd_2010.pdf,"A high resolution Ordnance Survey map of Worthing Borough with areas of multiple deprivation shown by West Sussex decile."
-MAP03,Map of Crawley Lower Super Output Areas (LSOAs) by index of multiple deprivation (IMD) 2010,04/10/2012,PDF,core,crawley_lsoa_imd_2010.pdf,""
-MAP04,Map of Adur Lower Super Output Areas (LSOAs) by index of multiple deprivation (IMD) 2010,04/10/2012,PDF,core,adur_lsoa_imd_2010.pdf,""
+The attached report is an update on population level data sources relating to these characteristics.",
+MAP01,Maps of licenced (alcohol/tobacco) premises in West Sussex against school location,26/05/2010,PDF,core,mapping_licensed_premises_and_schools.pdf,These maps show premises licenced for the sale of tobacco and alcohol in relation to school locations.,
+MAP02,Map of Worthing Lower Super Output Areas (LSOAs) by index of multiple deprivation (IMD)2010,28/08/2012,PDF,core,worthing_lsoa_imd_2010.pdf,A high resolution Ordnance Survey map of Worthing Borough with areas of multiple deprivation shown by West Sussex decile.,
+MAP03,Map of Crawley Lower Super Output Areas (LSOAs) by index of multiple deprivation (IMD) 2010,04/10/2012,PDF,core,crawley_lsoa_imd_2010.pdf,,
+MAP04,Map of Adur Lower Super Output Areas (LSOAs) by index of multiple deprivation (IMD) 2010,04/10/2012,PDF,core,adur_lsoa_imd_2010.pdf,,
 Map of Burgess Hill and Haywards Heath Lower Super Output Areas (LSOAs) by index of multiple deprivation (IMD) 2010,04/10/2012,PDF,core,high_res_haywards_heath_and_burgess_hill_lsoas_imd_2010_2_.pdf,"High resolution map of Burgess Hill and Haywards Heath Lower Super Output Areas coloured by national deprivation decile (IMD 2010).
 
-The darker areas indicate higher levels of deprivation."
+The darker areas indicate higher levels of deprivation.",,
 TOOL01,Postcode Lookup Tool,01/07/2016,Excel,core,PHSRU-Postcode-Lookup-Tool-Update-with-IMD2015.xlsx,"A Postcode Lookup Tool has been created to allow users to match a set of inputted postcodes to a range of geographies (e.g. LSOA, ward, district, CCG boundaries) as well as information around deprivation, which has been collated from various secondary sources. This file contains approximately 59,000 postcodes in the West Sussex area and was last updated in June 2016.
 
 **Please note:** postcodes and other boundaries change regularly and as a result some postcodes may be not be the most up to date, and some postcodes may be missing or terminated. As such the tool should be used with these caveats in mind.",
 TOOL02,Children’s Workforce Public Health Dashboard,01/01/2017,Excel,core,West-Sussex-Childrens-Workforce-JSNA-Data-Profiles-2016-Supporting-the-Health4Families-Programme-1.xlsx,"The Children’s Workforce Public Health Profile (2016) is an interactive dashboard that summarises a wide range of data (e.g. demographic, socioeconomic, health and early years) at Children and Family Centre level. This profile aims to help the Children’s Workforce monitor changes in the under 5 population within their centre area. This profile supports the West Sussex Health4Families Programme.",
-TOOL03,"Adult health, disabilities and mental health projections",01/02/2017,Excel,core,PANSI-With-2015-MYE.xlsx,"This workbook has been drafted to adapt the Projecting Adult Needs and Service Information (PANSI) model developed by the Institute of Public Care (commissioned by the Department of Health). This resource brought together the various research and prevalence assumptions relating to health and social care needs of working age adults (in this work in the main referring to 18-64 year olds). This has been locally adapted to use WSCC population projections are used (as opposed to ONS projections).",
-TOOL04,"Adult health, disabilities and mental health projections for older people",01/02/2017,Excel,core,POPPI-with-2015-MYE.xlsx,"This workbook has been drafted to adapt the Projecting Older People Population Information System (POPPI) model developed by the Institute of Public Care (commissioned by the Department of Health). This resource brings together various prevalence assumptions relating to health and social care needs of older people – people aged 65 years or over. There is a corresponding model for working aged adults called PANSI. This has been locally adapted to use WSCC population projections are used (as opposed to ONS projections).",
-PE1,"West Sussex District Population Profile 2014 and 2015",01/02/2017,Excel,core,West-Sussex-District-Population-Profile-2014-and-2015.xlsx,"Population tables for West Sussex Districts.",
-PE2,"West Sussex CCG Population Profile",01/02/2017,Excel,core,West-Sussex-CCG-Population-Profile.xlsx,"Population tables for West Sussex Clinical Commissioning Groups.",
-PROJ1,"Year on year population projections, 2011-2021",01/10/2015,Excel,core,population_projections_year_on_year_2011_2021.xlsx,"Year on year population projections for the years 2011 to 2021 based on 2011 Census data. Produced by ONS.",
-LEX01,"Life expectancy tables for West Sussex districts",01/02/2017,Excel,core,West-Sussex-LAs-Life-Expectancy.xlsx,"Tables of life expectancy for West Sussex districts.",
-LEX02,"Briefing - Life Expectancy in West Sussex June 2016",01/01/2017,PDF,core,Briefing-Life-Expectancy-in-West-Sussex-June-2016.pdf,"This briefing outlines the life expectancy at birth and at age 65 years for West Sussex Males and Females as well as estimates for smaller areas.
+TOOL03,"Adult health, disabilities and mental health projections",01/02/2017,Excel,core,PANSI-With-2015-MYE.xlsx,This workbook has been drafted to adapt the Projecting Adult Needs and Service Information (PANSI) model developed by the Institute of Public Care (commissioned by the Department of Health). This resource brought together the various research and prevalence assumptions relating to health and social care needs of working age adults (in this work in the main referring to 18-64 year olds). This has been locally adapted to use WSCC population projections are used (as opposed to ONS projections).,
+TOOL04,"Adult health, disabilities and mental health projections for older people",01/02/2017,Excel,core,POPPI-with-2015-MYE.xlsx,This workbook has been drafted to adapt the Projecting Older People Population Information System (POPPI) model developed by the Institute of Public Care (commissioned by the Department of Health). This resource brings together various prevalence assumptions relating to health and social care needs of older people – people aged 65 years or over. There is a corresponding model for working aged adults called PANSI. This has been locally adapted to use WSCC population projections are used (as opposed to ONS projections).,
+PE1,West Sussex District Population Profile 2014 and 2015,01/02/2017,Excel,core,West-Sussex-District-Population-Profile-2014-and-2015.xlsx,Population tables for West Sussex Districts.,
+PE2,West Sussex CCG Population Profile,01/02/2017,Excel,core,West-Sussex-CCG-Population-Profile.xlsx,Population tables for West Sussex Clinical Commissioning Groups.,
+PROJ1,"Year on year population projections, 2011-2021",01/10/2015,Excel,core,population_projections_year_on_year_2011_2021.xlsx,Year on year population projections for the years 2011 to 2021 based on 2011 Census data. Produced by ONS.,
+LEX01,Life expectancy tables for West Sussex districts,01/02/2017,Excel,core,West-Sussex-LAs-Life-Expectancy.xlsx,Tables of life expectancy for West Sussex districts.,
+LEX02,Briefing - Life Expectancy in West Sussex June 2016,01/01/2017,PDF,core,Briefing-Life-Expectancy-in-West-Sussex-June-2016.pdf,"This briefing outlines the life expectancy at birth and at age 65 years for West Sussex Males and Females as well as estimates for smaller areas.
 
 At county level, life expectancy for men and women in West Sussex is good and has remained consistently (and significantly) above that of England, although remains in line with the SE region.
 
 Life expectancy at 65 years is also higher compared to England the SE region.
 
 At District and Borough level ‐ for males LE ranges from 79.2 years (Worthing) to 81.4 years (Horsham and Mid Sussex); for women again Worthing has the lowest life expectancy 83.2 years, with the highest in Chichester and Mid Sussex (85.0 years).",
-LEX03,"West Sussex Local Authorities - Life Expectancy",01/02/2017,Excel,core,West-Sussex-LAs-Life-Expectancy.xlsx,"This spreadsheet summarises data from ONS on the life expectancy at birth and at age 65 by local authorities in West Sussex, 2009-2011 to 2012-2014.",
-LEX04,"Life expectancy at birth in West Sussex 2001-2012: data briefing",01/10/2015,Word,core,life_expectancy_at_birth_in_west_sussex_2001_2012_data_briefing.docx,"An analysis of ward, district, county and deprivation decile level life expectancy estimates over time.
+LEX03,West Sussex Local Authorities - Life Expectancy,01/02/2017,Excel,core,West-Sussex-LAs-Life-Expectancy.xlsx,"This spreadsheet summarises data from ONS on the life expectancy at birth and at age 65 by local authorities in West Sussex, 2009-2011 to 2012-2014.",
+LEX04,Life expectancy at birth in West Sussex 2001-2012: data briefing,01/10/2015,Word,core,life_expectancy_at_birth_in_west_sussex_2001_2012_data_briefing.docx,"An analysis of ward, district, county and deprivation decile level life expectancy estimates over time.
 
 Evidence indicates that inequality has been rising and that older person poverty is highly associated with decreases in life expectancy values.",
-LEX05,"Ward Level Life Expectancy Estimates 2001-2012",01/10/2015,Excel,core,ward_level_life_expectancy_estimates_2001_12.xlsx,"Three and six years pooled 2001-12. Using population data based on 2001-2012 mid-year population estimates. Calculated using SEPHO life expectancy calculator.
+LEX05,Ward Level Life Expectancy Estimates 2001-2012,01/10/2015,Excel,core,ward_level_life_expectancy_estimates_2001_12.xlsx,"Three and six years pooled 2001-12. Using population data based on 2001-2012 mid-year population estimates. Calculated using SEPHO life expectancy calculator.
 
 Life expectancy for each area is compared to the West Sussex expectancy for that period and coloured red if significantly lower and green if significantly higher.",
-LEX06,"Local Authority Life Expectancy Estimates 2001 - 2012",01/10/2015,Excel,core,local_authority_life_expectancy_estimates_2001_12.xlsx,"Life expectancy estimates in years by gender for West Sussex local authorities.
+LEX06,Local Authority Life Expectancy Estimates 2001 - 2012,01/10/2015,Excel,core,local_authority_life_expectancy_estimates_2001_12.xlsx,"Life expectancy estimates in years by gender for West Sussex local authorities.
 
 Three and six years pooled 2001 - 2012. Using population data based on 2001-2012 mid-year population estimates from the Office of National Statistics (ONS).
 
 Calculated using South East Public Health Observatory (now part of Public Health England [PHE]) life expectancy calculator.
 
 Life expectancy for each district is compared to the West Sussex expectancy for that period and coloured red if significantly lower and green if significantly higher.",
-LEX07,"Deprivation decile life expectancy estimates 2001 - 2012",01/10/2015,Excel,core,deprivation_decile_life_expectancy_estimates_2001_2012.xlsx,"Life expectancy estimates in years by gender by Index of Multiple Deprivation (IMD) 2010 decile.
+LEX07,Deprivation decile life expectancy estimates 2001 - 2012,01/10/2015,Excel,core,deprivation_decile_life_expectancy_estimates_2001_2012.xlsx,"Life expectancy estimates in years by gender by Index of Multiple Deprivation (IMD) 2010 decile.
 
 Three and six years pooled 2001-2012. Using population data based on 2001-2012 mid-year population estimates from the Office of National Statistics (ONS). Calculated using South East Public Health Observatory (now Public Health England [PHE]) life expectancy calculator. 
 
 Life expectancy for each decile is compared to the West Sussex expectancy for that period and coloured red if significantly lower and green if significantly higher.",
-LEX08,"Life Expectancy at birth and age 65 1993-2011",01/11/2015,Excel,core,Life-Expectancy-at-birth-and-age-65-1993-2011.xls,"Life Expectancy at birth and age 65 1993-2011.",
+LEX08,Life Expectancy at birth and age 65 1993-2011,01/11/2015,Excel,core,Life-Expectancy-at-birth-and-age-65-1993-2011.xls,Life Expectancy at birth and age 65 1993-2011.,
 LEX09,"Disability free life expectancy by ward, 2001",01/10/2015,Excel,core,disability_free_life_expectancy_by_ward__2001_.xls,"Number of years a person can expect to live without developing a long term limiting illness by electoral ward based on data from the 2001 Census.
 
 These data have been downloaded from the Office of National Statistics (ONS) rather than locally calculated. It is based on a combination of life expectancy by ward calculations for the period 1999-2003 inclusive and self reported assessments of limiting long term illness from the census (not medical diagnosis).
@@ -730,8 +730,8 @@ These data have been downloaded from the Office of National Statistics (ONS) rat
 Further notes on the methodology are included within the document.
 
 Disability free life expectancy is very strongly correlated with deprivation and varies even more than life expectancy.",
-LEX10,"Healthy life expectancy by ward 2001",01/11/2015,Excel,core,Healthy-life-expectancy-by-ward-2001.xls,"Healthy life expectancy by ward based on 2001 figures.",
-MRT01,"Briefing - Mortality in West Sussex 2014-15",01/01/2017,PDF,core,Briefing-Mortality-in-West-Sussex-2014-15.pdf,"This briefing summarises mortality data (number of deaths, age at death and cause of death) for West Sussex in 2014 and 2015.
+LEX10,Healthy life expectancy by ward 2001,01/11/2015,Excel,core,Healthy-life-expectancy-by-ward-2001.xls,Healthy life expectancy by ward based on 2001 figures.,
+MRT01,Briefing - Mortality in West Sussex 2014-15,01/01/2017,PDF,core,Briefing-Mortality-in-West-Sussex-2014-15.pdf,"This briefing summarises mortality data (number of deaths, age at death and cause of death) for West Sussex in 2014 and 2015.
 
 In January 2015 there were 1,125 deaths registered in West Sussex, this was 34% higher than January 2014 registrations (837).
 
@@ -742,37 +742,38 @@ The week commencing 2nd January 2015 saw a particularly high number of deaths (2
 In terms of age at death, a higher proportion of deaths in January 2015 were of people aged 85 years or over (54%), this was higher than the percentage in 2014 (47%).
 
 Local analysis found that respiratory causes were listed as the cause of death, or listed as a contributory factor, in 42% of deaths in West Sussex in January 2015, again higher than 2014.",
-MRT02,"West Sussex - Infant and Child Mortality",03/02/2017,Excel,core,West-Sussex-Infant-and-Child-Mortality.xlsx,"This spreadsheet summarises information on infant mortality at West Sussex geographies. The data in this file is reproduced from the Public Health England Public Health Profiles (Children and Young People&#8217;s Health Benchmarking Tool for Local Authority level data and Child Health Profiles for Clinical Commissioning Group level data).",
-MRT03,"All cause mortality rates 1993 - 2008",24/02/2011,Excel,core,all_cause_mortality_rates-1993_to_2008.xls,"Direct age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
+MRT02,West Sussex - Infant and Child Mortality,03/02/2017,Excel,core,West-Sussex-Infant-and-Child-Mortality.xlsx,This spreadsheet summarises information on infant mortality at West Sussex geographies. The data in this file is reproduced from the Public Health England Public Health Profiles (Children and Young People&#8217;s Health Benchmarking Tool for Local Authority level data and Child Health Profiles for Clinical Commissioning Group level data).,
+MRT03,All cause mortality rates 1993 - 2008,24/02/2011,Excel,core,all_cause_mortality_rates-1993_to_2008.xls,"Direct age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
 
 This is a way of controlling for biases in age structure between different populations.
 
 This spreadsheet contains a 15 year trend and the ability to compare between local authorities.",
-MRT04,"Years of life lost crude rates all causes","03/02/2012",Excel,core,years_of_life_lost_crude_rates_all_causes.xls,"Data on years of life lost at Local Authority level and by sex.
+MRT04,Years of life lost crude rates all causes,03/02/2012,Excel,core,years_of_life_lost_crude_rates_all_causes.xls,"Data on years of life lost at Local Authority level and by sex.
 
 The data is a 3 year average between 2008 and 2010 with an assumption is made that individuals live up to 75 years of age.",
-MRT05,"Number of deaths 2003 - 2007 ward level",03/02/2012,Excel,core,number_of_deaths_2003_2007_ward_level.xls,"Data from the West Sussex Child Health Bureau on the number of deaths at ward level between 2003 and 2007.",
-MRT06,"Ward and district level death rates 2000 - 2007",07/02/2011,Excel,core,ward_and_district_level_death_rates_2000___2007.xls,"Directly Age Standardised Death Rates per 1000 people, per year for Wards and Districts.",
-MRT07,"Mortality for all cancers (direct standardised rates) 1993 - 2008",24/02/2011,Excel,core,"mortality_all_cancers_dsr_1993_to_2008.xls","Direct age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population. This is a way of controlling for biases in age structure between different populations.",
-MRT08,"Mortality for all circulatory diseases (direct standardised rates) 1993 - 2008",03/03/2011,Excel,core,mortality_all_circulatory_diseases_dsr_1993_to_2008.xls,"Directly age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
+MRT05,Number of deaths 2003 - 2007 ward level,03/02/2012,Excel,core,number_of_deaths_2003_2007_ward_level.xls,Data from the West Sussex Child Health Bureau on the number of deaths at ward level between 2003 and 2007.,
+MRT06,Ward and district level death rates 2000 - 2007,07/02/2011,Excel,core,ward_and_district_level_death_rates_2000___2007.xls,"Directly Age Standardised Death Rates per 1000 people, per year for Wards and Districts.",
+MRT07,Mortality for all cancers (direct standardised rates) 1993 - 2008,24/02/2011,Excel,core,mortality_all_cancers_dsr_1993_to_2008.xls,Direct age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population. This is a way of controlling for biases in age structure between different populations.,
+MRT08,Mortality for all circulatory diseases (direct standardised rates) 1993 - 2008,03/03/2011,Excel,core,mortality_all_circulatory_diseases_dsr_1993_to_2008.xls,"Directly age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
 
 This is a way of controlling for biases in age structure between different populations.
 
 Circulatory diseases are defined as those with an ICD-10 code of I00 -I99, for more information see http://www.nchod.nhs.uk
 
 This spreadsheet contains a 15 year trend and the ability to compare between local authorities.",
-MRT09,"Mortality from suicide and undetermined injury direct standardised rates (DSR) 1993 - 2010",25/07/2013,Excel,core,mortality_suicide_and_injury_undetermined_dsr_1993_to_2010.xls,"Directly Age Standardised Rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
+MRT09,Mortality from suicide and undetermined injury direct standardised rates (DSR) 1993 - 2010,25/07/2013,Excel,core,mortality_suicide_and_injury_undetermined_dsr_1993_to_2010.xls,"Directly Age Standardised Rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
 
 This is a way of controlling for biases in age structure between different population.
 
 Suicide and undetermined injury are calculated from deaths with primary cause codes (ICD9 E950-E959, E980-E989 excl. E988.8; ICD10 X60-X84, Y10-Y34 excl. Y33.9), for more information on these codes see http://www.nchod.nhs.uk.
 
 This spreadsheet contains a 15 year trend and the ability to compare between local authorities.",
-SSNA01,"Carers Health Needs Assessment report 2013",17/11/2015,Word,core,"CHNA-report.doc","No description",
-JSNA3,"Annual Public Health Report – Foundations for Wellbeing",27/10/2014,PDF,core,"foundations_for_wellbeing__2014__final_pdf_13_10_2014.pdf","Director of Public Health Report 2014.
+SSNA01,Carers Health Needs Assessment report 2013,17/11/2015,Word,core,CHNA-report.doc,No description,
+JSNA3,Annual Public Health Report – Foundations for Wellbeing,27/10/2014,PDF,core,foundations_for_wellbeing__2014__final_pdf_13_10_2014.pdf,"Director of Public Health Report 2014.
 
 The Director’s report is focused on housing and its impact on health; the findings are linked to the three key WSCC priorities of Start of Life, Economy and Later Life.
 
 Housing is fundamental to our health and wellbeing. Different stages in life present different challenges to individuals, families, communities, planners and services; some challenges require nationally led solutions, others can be tackled locally.
 
 In this report, three main challenges have been identified for each life stage and are broadly grouped into issues relating to supply, condition and the mitigation of adverse effects.",
+APHR18,Annual Public Health Report 2018,18/02/2019,PDF,core,,,
