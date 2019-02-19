@@ -4,7 +4,7 @@ title: "Partners"
 permalink: "/partners/"
 toc: true
 toc_sticky: true
-header: 
+header:
   overlay_color: "#1976d2"
   overlay_filter: 0.5
 excerpt: "More information about PHSRU and its partners."
@@ -20,11 +20,11 @@ More information about the JSNA.
 
 ## West Sussex Health and Wellbeing Board
 
-More information about the Health and Wellbeing Board.
+More information about the [West Sussex Health and Wellbeing Board](https://westsussex.moderngov.co.uk/mgCommitteeMailingList.aspx?ID=185).
 
-## West Sussex Healthwatch
+## Healthwatch West Sussex
 
-More information about West Sussex Healthwatch.
+More information about [Healthwatch West Sussex](http://www.healthwatchwestsussex.co.uk/).
 
 ## About Research Governance
 

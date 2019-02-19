@@ -12,12 +12,11 @@ sidebar:
   nav: "starting"
 last_modified_at: 2017-12-20 15:22:55
 excerpt: "This section contains information about women in West Sussex before, during and after childbirth."
-downloads:
- - MAF01
- - MAF02
+downloads: ["MAF01", "MAF02"]
 ---
 
 {% include downloads_from_db ids=page.downloads %}
 
-**Please note:** we are currently updating the West Sussex JSNA site so please check back soon for updates.
+{% include wip_notice %}
+
 {: .notice--danger}

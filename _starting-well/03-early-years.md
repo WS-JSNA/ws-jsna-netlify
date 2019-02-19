@@ -10,20 +10,10 @@ header:
 permalink: "/starting-well/early-years/"
 toc: true
 toc_sticky: true
-downloads:
- - EY01
- - EY02
- - EY03
- - EY04
- - EY05
- - EY06
- - EY07
- - EY08
- - EY09
- - EY10
+downloads: ["EY01", "EY02", "EY03", "EY04", "EY05", "EY06", "EY07", "EY08", "EY09", "EY10", "EY11"]
 ---
 
 {% include downloads_from_db ids=page.downloads %}
 
-**Please note:** we are currently updating the West Sussex JSNA site so please check back soon for updates.
+{% include wip_notice %}
 {: .notice--danger}

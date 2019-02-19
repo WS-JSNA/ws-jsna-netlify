@@ -1,6 +1,6 @@
 ---
-permalink: /ccgs/additional-resources/quality-outcomes-framework-201516/
-title: "Quality Outcomes Framework 2015/16"
+permalink: /ccgs/additional-resources/quality-outcomes-framework/
+title: "Quality Outcomes Framework"
 layout: single
 ---
 
@@ -36,5 +36,6 @@ For further details and data for all GP practices, visit [NHS Digital](http://qo
 
 We apologise for the dead links on this page. This content is a work in progress and will be updated shortly.
 {% endcapture %}
+
 
 <div class="notice--warning">{{ notice-2 | markdownify }}</div>

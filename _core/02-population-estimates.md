@@ -17,6 +17,7 @@ toc_sticky: true
 
 Annual estimates of the population living in West Sussex are provided for a range of geographies (e.g. output area, ward, district, CCG, county, region, and country). National and local authority estimates are usually updated in June each year by the Office for National Statistics for the previous year (e.g. mid-2016 estimates were released in June 2017), with small area population estimates released later in the year, usually in November.
 
+<!-- md link -->
 [Click here to download a short briefing document.](/assets/core/Public-Health-Briefing-MYE-2016.pdf)
 
 In 2016 **843,765** people were estimated to be resident in West Sussex. This was 7,509 more than in 2015, an increase of approximately 0.9%. There were 8,953 births and 8,915 deaths and net internal migration (from/to elsewhere in the UK) was 4,968, slightly down from 5,541 in 2015. Net international migration in West Sussex, in 2016, was 2,435, similar to 2015 (2,440). This means that population increase resulted largely from net internal migration.
@@ -27,11 +28,13 @@ The median age provides a useful summary measure of the age structure of the pop
 
 The figure below shows that for most districts, the median age has increased over the last decade although there is more fluctuation in Crawley district. Moreover, Crawley has consistently maintained a lower median age for its population compared to the rest of the county. In 2016, the median age for residents in Crawley was 36.6 years compared to Arun which had a median age of 48.9 years.
 
+<!-- Embed documents -->
 {% include embedpdf file_path="/assets/core/Median_age_wsx_districts_2016.pdf" width="650" height="525" %}
 
 The West Sussex population by age band and sex compared to England is presented in the population pyramid below. The figure shows that West Sussex has a considerably older age profile compared to England with higher proportion of over 65s and relatively fewer residents aged 15-39.
 
-{% include figure file_path="/assets/core/Resident-MYE-2016-WSx-England.png" alt="Population Pyramid Mid 2016 estimates West Sussex and England" caption="Population Pyramid Mid 2016 estimates West Sussex and England" %}
+<!-- Embed figure -->
+{% include figure image_path="/assets/core/Resident-MYE-2016-WSx-England.png" alt="Population Pyramid Mid 2016 estimates West Sussex and England" caption="Population Pyramid Mid 2016 estimates West Sussex and England" %}
 
 ## Internal Migration
 

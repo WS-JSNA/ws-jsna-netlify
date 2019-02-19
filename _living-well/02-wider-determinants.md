@@ -12,5 +12,5 @@ This section contains data sets, needs assessments and other documents which pro
 
 Although presented in the working and living well section, these factors are relevant across the life course.
 
-**Please note:** We are currently updating the West Sussex JSNA site so please check back soon for updates.
+{% include wip_notice %}
 {: .notice--danger}

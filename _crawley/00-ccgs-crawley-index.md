@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Crawley CCG"
+title: "NHS Crawley CCG"
 permalink: "/ccgs/crawley/"
 sidebar:
   nav: "crawley-PRO-selected"
