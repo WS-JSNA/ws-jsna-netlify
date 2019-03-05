@@ -24,6 +24,6 @@ The West Sussex Public Health and Social Research Unit have completed a [data br
 
 + Within local authorities, the prevalence of overweight and obesity is varied. Worthing had the highest prevalence of overweight and obesity among reception children (23.0%) and Arun had the highest prevalence among year 6 children (32.1%)
 
-+ Inequalities in childhood obesity persist. For both school years, prevalence of excess weight among children living in the most deprived areas of West Sussex is greater than those living in the least deprived areas.
++ **Inequalities in childhood obesity persist**. For both school years, prevalence of excess weight among children living in the most deprived areas of West Sussex is greater than those living in the least deprived areas.
 
 {% include embedpdf file_path="/assets/starting-well/Final-Briefing-NCMP-West Sussex-201718.pdf" width="650" height="525" %}
