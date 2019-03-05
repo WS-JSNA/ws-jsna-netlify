@@ -52,4 +52,4 @@ It recommends the following:
   * Ensure support for outreach work on HIV, especially for harder to find cases such as ethnic minorities and cases of heterosexual transmission.
   
   ## Downloads
-  [West Sussex Sexual Health Needs Assessment 2019 (PDF, 2.4Mb)](/uploads/living-well/West-Sussex-Sexual-Health-Needs-Assessment-2019.pdf)
+  [West Sussex Sexual Health Needs Assessment 2019 (PDF, 2.4Mb)](/assets/living-well/West-Sussex-Sexual-Health-Needs-Assessment-2019.pdf)
