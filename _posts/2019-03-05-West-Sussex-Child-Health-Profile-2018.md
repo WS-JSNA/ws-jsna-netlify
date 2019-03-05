@@ -6,7 +6,7 @@ header:
   overlay_color: "#1976d2"
   overlay_filter: 0.5
 excerpt: "The West Sussex Child Health Profile 2018 summarises the health and wellbeing of children (aged 0 to 19/24 years) in West Sussex."
-category: needs-assessment
+category: data
 permalink: /updates/child-health-profile-2018/
 ---
 
