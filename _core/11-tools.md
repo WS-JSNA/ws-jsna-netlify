@@ -2,7 +2,7 @@
 layout: single
 title: Tools
 permalink: /core/tools/
-downloads: ["TOOL01","TOOL02","TOOL03","TOOL04"]
+downloads: ["TOOL01","TOOL03","TOOL04"]
 toc: true
 sidebar:
   nav: "core"
