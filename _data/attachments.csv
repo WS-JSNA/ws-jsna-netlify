@@ -1,20 +1,20 @@
 id,title,date,format,theme,filename,description,nix
-CFC14,Children and Family Centre Profile 2014,02/12/2014,Excel,starting-well,West-Sussex-CFC-Profile-2014.xlsm,"The 2014 Children and Family Centre (CFC) Profile provides a summary of the health and wellbeing of children under the age of 5 in West Sussex by small geographies (CFCs). Comparisons with West Sussex and England can also be made.
+CFC18,Child Health Profile 2018,05/03/2019,Excel,starting-well,West-Sussex-Child-Health-Profile-2018.xlsx,"The Child Health Profile 2018 summarises data on the health and wellbeing of the child population (0 to 19/24 years) in West Sussex.
 
-Note. This is not the latest release.",0
-CFC15,Children and Family Centre Profile 2015,18/12/2015,Excel,starting-well,West-Sussex-CFC-Profile-2015.xlsx,"The 2015 Children and Family Centre (CFC) Profile is a new interactive profile that aims to provide a more user-friendly interface than the 2014 profile. Child health and wellbeing data is presented at small geographies (CFC boundaries). Comparisons can be made between CFCs and with national and regional estimates.
+Note. This is the lastest release and supersedes the 2017 profile.",0
+CFC17,Child Health Profile 2017,19/01/2018,Excel,starting-well,West-Sussex-Child-Health-Profile-2017.xlsx,"The Public Health and Social Research Unit have created a new child health profile for West Sussex. This brings together health and wellbeing data for children of all ages (aged 0-19/24). This supersedes the Children and Family Centre profiles, which focused on children under the age of 5.
 
 Note. This is not the latest release.",0
 CFC16,Children and Family Centre Profile 2016,05/01/2017,Excel,starting-well,West-Sussex-CFC-Profile-2016.xlsx,"The 2016 Children and Family Centre (CFC) Profile brings together health and wellbeing data about children under the age of 5 in West Sussex. Users can compare two CFCs with West Sussex and England.
 
 Note. This is not the latest release.",0
-CFC17,Child Health Profile 2017,19/01/2018,Excel,starting-well,West-Sussex-Child-Health-Profile-2017.xlsx,"The Public Health and Social Research Unit have created a new child health profile for West Sussex. This brings together health and wellbeing data for children of all ages (aged 0-19/24). This supersedes the Children and Family Centre profiles, which focused on children under the age of 5.
+CFC15,Children and Family Centre Profile 2015,18/12/2015,Excel,starting-well,West-Sussex-CFC-Profile-2015.xlsx,"The 2015 Children and Family Centre (CFC) Profile is a new interactive profile that aims to provide a more user-friendly interface than the 2014 profile. Child health and wellbeing data is presented at small geographies (CFC boundaries). Comparisons can be made between CFCs and with national and regional estimates.
+
+Note. This is not the latest release.",0
+CFC14,Children and Family Centre Profile 2014,02/12/2014,Excel,starting-well,West-Sussex-CFC-Profile-2014.xlsm,"The 2014 Children and Family Centre (CFC) Profile provides a summary of the health and wellbeing of children under the age of 5 in West Sussex by small geographies (CFCs). Comparisons with West Sussex and England can also be made.
 
 Note. This is not the latest release.",0
 SHNA19,Sexual Health Needs Assessment 2019,25/02/2019,PDF,living-well,West-Sussex-Sexual-Health-Needs-Assessment-2019.pdf,"This needs assessment consider the sexual health needs of people living in West Sussex. This 2019 edition considers additional issues arising after the transition of sexual health commissioning to the local authority in 2013, issues concerning the integration of services, and an update on the incidence and prevalence of STIs and HIV in West Sussex.",0
-CFC18,Child Health Profile 2018,05/03/2019,Excel,starting-well,West-Sussex-Child-Health-Profile-2018.xlsx,"The Child Health Profile 2018 summarises data on the health and wellbeing of the child population (0 to 19/24 years) in West Sussex.
-
-Note. This is the lastest release and supersedes the 2017 profile.",0
 MAF01,General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012,30/07/2013,Excel,starting-well,General_fertility_rates_total_fertility_rates_births_2001_2012.xlsx,"This file includes births, general fertility rate and total fertility rate for all local authorities in West Sussex.
 
 Graphs allow the comparison of trends over time.",0
