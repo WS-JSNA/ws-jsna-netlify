@@ -12,7 +12,7 @@ header:
   overlay_color: "#ca4993"
 permalink: "/starting-well/child-health-profiles/"
 excerpt: "The Child Health Profiles summarise the health and wellbeing of the child population of West Sussex"
-downloads: ["CFC18", "CFC17", "CFC16", "CFC15", "CFC14"]
+downloads: ["CFC14", "CFC15", "CFC16", "CFC17", "CFC18"]
 ---
 
 The Public Health and Social Research Unit have updated the West Sussex Child Health Profile. 
