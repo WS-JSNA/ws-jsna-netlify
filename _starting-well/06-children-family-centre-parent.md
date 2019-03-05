@@ -10,7 +10,7 @@ tags:
 - under 5's
 header:
   overlay_color: "#ca4993"
-permalink: "/starting-well/children-family-centre-profiles/"
+permalink: "/starting-well/child-health-profiles/"
 excerpt: "The Child Health Profiles summarise the health and wellbeing of the child population of West Sussex"
 downloads: ["CFC01"]
 ---
