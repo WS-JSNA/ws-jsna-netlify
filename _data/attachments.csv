@@ -1,4 +1,6 @@
 id,title,date,format,theme,filename,description,nix
+CFC01,Child Health Profile 2018,05/03/2019,Excel,starting-well,West-Sussex-Child-Health-Profile-2018.xlsx,"The Child Health Profile 2018 summarises data on the health and wellbeing of the child population (0 to 19/24 years) in West Sussex.
+This supersedes the 2017 profile.",0
 MAF01,General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012,30/07/2013,Excel,starting-well,General_fertility_rates_total_fertility_rates_births_2001_2012.xlsx,"This file includes births, general fertility rate and total fertility rate for all local authorities in West Sussex.
 
 Graphs allow the comparison of trends over time.",0
