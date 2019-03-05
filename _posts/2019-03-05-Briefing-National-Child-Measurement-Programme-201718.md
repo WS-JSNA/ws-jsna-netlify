@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Release: National Child Measurement Programme (NCMP) 2017/18 data briefing"
+title: "National Child Measurement Programme (NCMP) 2017/18 data briefing"
 date: 2019-03-05
 header: 
   overlay_color: "#1976d2"
