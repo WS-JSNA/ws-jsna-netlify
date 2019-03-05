@@ -81,12 +81,8 @@ starting:
       - title: "Young People"
         url: /starting-well/young-people/
       - title: "Child Health Profiles (formerly Children and Family Centre Profiles)"
-        url: /starting-well/children-family-centre-profiles/
-      - title: "Children and Family Centre Profiles"
-        url: /starting-well/child-health-profiles-2017/
-      - title: "Children and Family Centre Profiles (Previous version)"
-        url: /starting-well/child-health-profiles-2016/
-
+        url: /starting-well/child-health-profiles/
+   
 living:
   - title: Living and Working Well
     url: /living-well/
