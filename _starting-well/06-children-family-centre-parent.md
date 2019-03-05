@@ -23,6 +23,6 @@ The profile presents a wealth of data at the geographical area of the user’s c
 
 The newest Child Health Profile **supersedes** those for previous years and former Children and Family Centre Profiles.
 
-{% include downloads_from_db ids=page.downloads %}
-
 {% include embedpdf file_path="/assets/starting-well/Child-Health-Profile-2018-Summary.pdf" width="700" height="525" %}
+
+{% include downloads_from_db ids=page.downloads %}
