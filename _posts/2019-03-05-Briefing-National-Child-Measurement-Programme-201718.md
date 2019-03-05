@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 'Release: National Child Measurement Programme (NCMP) 2017/18 data briefing'
-date: 2019-05-03
+date: 2019-03-05
 header: 
   overlay_color: "#1976d2"
   overlay_filter: 0.5
@@ -14,7 +14,7 @@ NHS Digital have released the [National Child Measurement Programme (NCMP)](http
 
 Children in reception class (aged 4 to 5 years) and year 6 (aged 10 to 11 years) have their height and weight measured to assess overweight and obesity levels in children within state-maintained primary schools. This data is used at a national level to support local public health initiatives and inform the local planning and delivery of services for children.
 
-The West Sussex Public Health and Social Research Unit have completed a [data briefing](/assets/starting-well/Final-Briefing-NCMP-West Sussex-201718.pdf) to summarise childhood obesity prevalence at a local level.
+The West Sussex Public Health and Social Research Unit have completed a [data briefing](/assets/starting-well/FINAL-Briefing-NCMP-West Sussex-201718.pdf) to summarise childhood obesity prevalence at a local level.
 
 ### Key Facts
 
@@ -26,4 +26,4 @@ The West Sussex Public Health and Social Research Unit have completed a [data br
 
 + **Inequalities in childhood obesity persist**. For both school years, prevalence of excess weight among children living in the most deprived areas of West Sussex is greater than those living in the least deprived areas.
 
-{% include embedpdf file_path="/assets/starting-well/Final-Briefing-NCMP-West Sussex-201718.pdf" width="650" height="525" %}
+{% include embedpdf file_path="/assets/starting-well/FINAL-Briefing-NCMP-West Sussex-201718.pdf" width="650" height="525" %}
