@@ -5,9 +5,7 @@ date: 2019-02-25
 header: 
   overlay_color: "#1976d2"
   overlay_filter: 0.5
-excerpt: "The aim of this document is to inform the Director of Public Health and the Health and Wellbeing
-Board about the scale and impact of air quality in West Sussex, and, during its development, to
-contribute to the West Sussex Air Quality Plan."
+excerpt: "This needs assessment considers the sexual health needs of people living in West Sussex"
 category: needs-assessment
 permalink: /updates/sexual-health-needs-assessment-2019/
 ---
@@ -19,7 +17,7 @@ Good sexual health is an intrinsic part of good overall physical, mental and emo
 * men who have sex with men;
 * younger adults;
 * people from black and ethnic minority groups;
-*people in prisons and immigration removal centres (IRCs).
+* people in prisons and immigration removal centres (IRCs).
 
 There is also an association between STIs and deprivation.
 
@@ -51,5 +49,6 @@ It recommends the following:
   * Follow the UNAIDS 90:90:90 strategy implemented in England by PHE. This focusses on achieving the 90:90:90 target, which has implications for both minimising onward transmission and maximising quality of life for people living with HIV.
   * Ensure support for outreach work on HIV, especially for harder to find cases such as ethnic minorities and cases of heterosexual transmission.
   
-  ## Downloads
-  [West Sussex Sexual Health Needs Assessment 2019 (PDF, 2.4Mb)](/assets/living-well/West-Sussex-Sexual-Health-Needs-Assessment-2019.pdf)
+## Downloads
+
+[West Sussex Sexual Health Needs Assessment 2019 (PDF, 2.4Mb)](/assets/living-well/West-Sussex-Sexual-Health-Needs-Assessment-2019.pdf)
