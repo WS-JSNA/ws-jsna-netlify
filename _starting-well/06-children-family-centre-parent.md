@@ -15,7 +15,7 @@ excerpt: "The Child Health Profiles summarise the health and wellbeing of the ch
 downloads: ["CFC01"]
 ---
 
-The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health Profile. The new profile aims to extend the former Children and Family Centre Profiles, and will include data on children aged 0-19, rather than focussing on the early years only.
+The Public Health and Social Research Unit have updated the West Sussex Child Health Profile. 
 
 The profile is an interactive dashboard that summarises a wide range of data including demographics (e.g. population estimates, births), deprivation (e.g. index of multiple deprivation), health and wellbeing (e.g. hospital admissions, obesity) and education (e.g. absence and exclusion, Early Years Foundation stage).
 
