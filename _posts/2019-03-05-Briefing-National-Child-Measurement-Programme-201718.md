@@ -1,10 +1,15 @@
 ---
 layout: single
 title: 'Release: National Child Measurement Programme (NCMP) 2017/18 data briefing'
-date: 2019-05-03 09:12:52.000000000 +00:00
-category: data
+date: 2019-05-03
+header: 
+  overlay_color: "#1976d2"
+  overlay_filter: 0.5
+excerpt: "The National Child Measurement Programme (NCMP) is an annual record of the height and weight of primary school children in reception and year 6. This briefing summarises body mass index (BMI) classifications for children resident in West Sussex."
+category: briefing
 permalink: /updates/ncmp-2017-18/
 ---
+
 NHS Digital have released the [National Child Measurement Programme (NCMP)](https://digital.nhs.uk/data-and-information/publications/statistical/national-child-measurement-programme/2017-18-school-year) results for the 2017/18 school year.
 
 Children in reception class (aged 4 to 5 years) and year 6 (aged 10 to 11 years) have their height and weight measured to assess overweight and obesity levels in children within state-maintained primary schools. This data is used at a national level to support local public health initiatives and inform the local planning and delivery of services for children.
