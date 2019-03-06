@@ -15,9 +15,9 @@
     {% endif %}
 
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
-      {% if f.url %}<a href="{{f.url}}">{% endif %}
       <div class="archive__item">
         {% if f.image_path %}
+        {% if f.url %}<a href="{{f.url}}">{% endif %}
           <div class="archive__item-teaser">
             <img src=
               {% if f.image_path contains "://" %}
@@ -29,7 +29,7 @@
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}
-          </div>
+          </div>{% if f.url %}</a>{% endif %}
         {% endif %}
 
         <div class="archive__item-body">
@@ -45,7 +45,6 @@
           
         </div>
       </div>
-      {% if f.url %}</a>{% endif %}
     </div>
   {% endfor %}
 
