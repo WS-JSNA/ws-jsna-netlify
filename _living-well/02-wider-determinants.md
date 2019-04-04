@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 sidebar:
-  nav: "topics"
+  nav: "living"
 title: "Wider Determinants of Health"
 header:
   overlay_color: "#00a776"
