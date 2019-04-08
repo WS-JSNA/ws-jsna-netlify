@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 sidebar:
-  nav: "topics"
+  nav: "starting"
 title: "Young People"
 excerpt: "This section contains information and data sets about the young people living in West Sussex."
 header:

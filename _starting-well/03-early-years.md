@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 sidebar:
-  nav: "topics"
+  nav: "starting"
 title: "0-4 years of age"
 excerpt: "This page contains documents about the early years of the lives of children living in West Sussex."
 header:

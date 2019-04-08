@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 sidebar:
-  nav: "topics"
+  nav: "living"
 title: "Environment"
 permalink: "/living-well/environment/"
 header:
