@@ -1,5 +1,4 @@
 <div class="feature__wrapper">
-<h2 class="archive__item-title">Recent updates</h2>
 {% for post in site.posts limit:2 %}
     <div class="feature__item">
         <div class="archive__item">
