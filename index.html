@@ -69,7 +69,7 @@ feature_row4:
     <h2 class="archive__item-title">Recent updates</h2>
     <div class="entries-{{ page.entries_layout | default: 'list' }}">
       {% for post in site.posts limit:3 %}
-        {% include archive-single.html type=page.entries_layout %}
+        <div class="notice--report">{% include archive-single.html type=page.entries_layout %}</div>
       {% endfor %}
     </div>
 </section>
