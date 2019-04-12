@@ -22,4 +22,4 @@ Special thanks to the engagement-leads for Adults’ services, Children’s serv
 
 ## Downloads
 
-[West Sussex JSNA Voice Summary 2018 (PDF, 3.3Mb)](/assets/core/west-sussex-jsna-voice-summary-2018.pdf)
+[West Sussex JSNA Voice Summary 2018 (PDF, 494Kb)](/assets/core/west-sussex-jsna-voice-summary-2018.pdf)
