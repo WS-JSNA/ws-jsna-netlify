@@ -1,15 +1,17 @@
-<h2 class="archive__item-title">Recent updates</h2>
-{% for post in site.posts limit:3 %}
-    <div class="feature__item">
-      <div class="archive__item">
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">{{ post.title }}</h2>
-              {% if post.excerpt %}
-                <div class="archive__item-excerpt">
-                  {{ post.excerpt | markdownify }}
-                </div>
-              {% endif %}
+<div id="updates" class="notice--reports">
+    <h2 class="archive__item-title">Recent updates</h2>
+    {% for post in site.posts limit:3 %}
+        <div class="feature__item">
+        <div class="archive__item">
+            <div class="archive__item-body">
+                <h2 class="archive__item-title">{{ post.title }}</h2>
+                {% if post.excerpt %}
+                    <div class="archive__item-excerpt">
+                    {{ post.excerpt | markdownify }}
+                    </div>
+                {% endif %}
+            </div>
         </div>
-      </div>
-    </div>
-{% endfor %}
+        </div>
+    {% endfor %}
+</div>
