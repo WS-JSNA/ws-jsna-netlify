@@ -10,10 +10,10 @@
                             {{ post.excerpt | markdownify }}
                         </div>
                     {% endif %}
-                    <a href="{{ post.url }}" class="btn btn--report">Read more &rarr;</a>
+                    <br /><a href="{{ post.url }}" class="btn btn--report">Read more &rarr;</a>
             </div>
         </div>
     </div>
-{% endfor %} <br/>
+{% endfor %}
 <a href="/updates/" class="back-to-top">See more &rarr;</a>
 </div>
