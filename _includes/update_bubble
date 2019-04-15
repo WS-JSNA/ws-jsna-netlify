@@ -14,6 +14,6 @@
             </div>
         </div>
     </div>
-{% endfor %}
+{% endfor %} <br/>
 <a href="/updates/" class="back-to-top">See more &rarr;</a>
 </div>
