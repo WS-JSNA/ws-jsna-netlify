@@ -5,7 +5,7 @@ date: 2019-02-18
 header:
   overlay_color: "#1976d2"
   overlay_filter: 0.5
-excerpt: "The Director of Public Health (DPH) has a statutory duty to publish an Annual Public Health Report that details the state of health within the local population. This year's Annual Public Health Report outlines a joined up approach to health and wellbeing across the public, voluntary, community and private sector to promote health and wellbeing and prevent ill health across West Sussex."
+excerpt: "This year's Annual Public Health Report outlines a joined up approach to health and wellbeing across the public, voluntary, community and private sector to promote health and wellbeing and prevent ill health across West Sussex."
 category: reports
 downloads: ["APHR18"]
 toc: true
@@ -26,7 +26,13 @@ Key messages from the report are:
 
 
 <!-- This will include all assets and a card that describes them (including the file format) -->
-{% include downloads_from_db ids=page.downloads %}
+<!--{% include downloads_from_db ids=page.downloads %} -->
 
-<!-- This will add in the work in progress notice from the include folder -->
-{% include wip_notice %}
+## Downloads
+
+[Annual Public Health Report 2018 (PDF, 2.17Mb)](/assets/core/APHR-2018-Final.pdf)
+
+## Additional Resources
+
+* [Annual Public Health Report 2018, presentation slides (Microsoft Powerpoint, 15Mb)](/assets/core/APHR-2018-Presentation-Slides.pptx)
+* [Annual Public Health Report 2018, presentation slides and additional resources (Microsoft Powerpoint, 15Mb)](/assets/core/APHR-2018-Presentation-Slides-Resource.pptx)
