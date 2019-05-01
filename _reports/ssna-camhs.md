@@ -39,7 +39,7 @@ This comprehensive needs assessment provides a huge amount of data and informati
 
 ## Downloads
 
-* [Background Evidence Professionals](Background-Evidence-Professionals-FINAL.pdf) (PDF, Mb)
-* [Background Evidence Children and Young People](Background-Evidence-Children-and-young-people-FINAL.pdf) (PDF, Mb)
-* [Background Evidence Parents](Background-Evidence-Parents-FINAL.pdf) (PDF, Mb)
-* [Children and Young People Emotional and Wellbeing Needs Assessment](WEST-SUSSEX-Children-and-Young-People-Emotional-and-Well-Being-Needs-Assessment-June-2014.pdf) (PDF, Mb)
+* [Background Evidence Professionals](Background-Evidence-Professionals-FINAL.pdf) (PDF, 948Kb)
+* [Background Evidence Children and Young People](Background-Evidence-Children-and-young-people-FINAL.pdf) (PDF, 737Kb)
+* [Background Evidence Parents](Background-Evidence-Parents-FINAL.pdf) (PDF, 764Kb)
+* [Children and Young People Emotional and Wellbeing Needs Assessment](WEST-SUSSEX-Children-and-Young-People-Emotional-and-Well-Being-Needs-Assessment-June-2014.pdf) (PDF, 1.4Mb)
