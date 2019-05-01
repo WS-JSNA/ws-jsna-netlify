@@ -6,7 +6,7 @@ sidebar:
 title: "Children and Young People's Emotional Wellbeing and Mental Health Needs Assessment"
 header:
   overlay_color: "#038cd0"
-permalink: "/reports/subject-specific-needs-assessments/black-and-minority-ethnic-needs-assessment/"
+permalink: "/reports/subject-specific-needs-assessments/camhs-needs-assessment/"
 excerpt: "Community engagement and a needs assessment about the emotional wellbeing and mental health of children and young people within West Sussex."
 toc: true
 toc_sticky: true
