@@ -125,8 +125,12 @@ reports:
   - title: "Subject specific Needs Assessments, Evaluations, Briefing Notes, and Equity Audits"
     url: "/reports/subject-specific-needs-assessments/"
     children:
+      - title: Black and Minority Ethnic Groups
+        url: "/reports/subject-specific-needs-assessments/black-and-minority-ethnic-needs-assessment"
       - title: Carers and caring
         url: "/reports/subject-specific-needs-assessments/carers-and-caring/"
+      - title: Children and Young People's Emotional Wellbeing and Mental Health
+        url: "/reports/subject-specific-needs-assessments/black-and-minority-ethnic-needs-assessment/"
       - title: Falls Prevention
         url: "/reports/subject-specific-needs-assessments/falls-prevention/"
       - title: Pharmaceutical Needs Assessment (PNA)
