@@ -5,7 +5,7 @@ date: 2019-05-03
 header: 
   overlay_color: "#1976d2"
   overlay_filter: 0.5
-excerpt: 
+excerpt: "This document sets out the vision of the Health and Wellbeing Board, its goals and the ways in which it will work to improve the health and wellbeing for all residents in West Sussex."
 category: HWB
 permalink: /updates/west-sussex-jhwbs/
 ---
