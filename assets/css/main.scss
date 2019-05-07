@@ -10,5 +10,18 @@ $living-well-color            : #00a776 !default;
 $ageing-well-color            : #9464b3 !default;
 $report-color                 : #038cd0 !default;
 
+/* update bubble */
+.update--bubble a {
+  color: #fff !important;
+}
+
+.update--bubble a:visited {
+  color: #fff !important;
+}
+
+.update--bubble a:hover {
+  color: #fff !important;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
