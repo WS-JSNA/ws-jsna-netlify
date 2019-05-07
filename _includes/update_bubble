@@ -1,4 +1,4 @@
-<h2 class="archive__item-title">Recent updates</h2>
+<h4 class="archive__item-title">Recent updates</h4>
 <div class="feature__wrapper">
 {% for post in site.posts limit:3 %}
     <div class="feature__item">
