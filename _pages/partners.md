@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Partners"
+title: "Health and Wellbeing Board and Partners"
 permalink: "/partners/"
 toc: true
 toc_sticky: true
