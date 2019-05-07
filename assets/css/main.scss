@@ -12,14 +12,14 @@ $report-color                 : #038cd0 !default;
 
 /* update bubble */
 .update--bubble a {
-  color: #fff !important;
-}
+    color: #fff !important;
+
+    &:hover {
+      color: #fff !important;
+    }
+  }
 
 .update--bubble a:visited {
-  color: #fff !important;
-}
-
-.update--bubble a:hover {
   color: #fff !important;
 }
 
