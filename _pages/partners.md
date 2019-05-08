@@ -9,6 +9,7 @@ header:
   overlay_filter: 0.5
 excerpt: "More information about the West Sussex Health and Wellbeing Board and its partners."
 ---
+{% include figure image_path="/assets/images/HWBlogo.jpg" %}
 
 ## West Sussex Health and Wellbeing Board
 
