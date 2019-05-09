@@ -17,7 +17,7 @@ The Health and Wellbeing Board is a forum where key leaders from the health and 
 
 ## Board membership
 
-{% include figure image_path="/assets/image/HWBmembership.jpg" caption="Members of the West Sussex Health and Wellbeing Board" %}
+{% include figure image_path="/assets/images/HWBmembership.jpg" caption="Members of the West Sussex Health and Wellbeing Board" %}
 
 Members of the West Sussex Health and Wellbeing Board include:
 
