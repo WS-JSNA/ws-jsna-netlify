@@ -13,11 +13,54 @@ excerpt: "More information about the West Sussex Health and Wellbeing Board and 
 
 ## West Sussex Health and Wellbeing Board
 
-More information about the [West Sussex Health and Wellbeing Board](https://westsussex.moderngov.co.uk/mgCommitteeMailingList.aspx?ID=185).
+The Health and Wellbeing Board is a forum where key leaders from the health and care system across West Sussex work together to improve the health and wellbeing of the local population and reduce health inequalities. 
 
-## What is the JSNA?
+## Board membership
 
-More information about the JSNA.
+{% include figure image_path="/assets/image/HWBmembership.jpg" caption="Members of the West Sussex Health and Wellbeing Board" %}
+
+Members of the West Sussex Health and Wellbeing Board include:
+
+ + West Sussex County Council
+ + NHS Crawley CCG
+ + NHS Coastal West Sussex CCG
+ + NHS Horsham and Mid Sussex CCG
+ + Healthwatch 
+ + District and borough council representatives
+ + Voluntary sector representatives 
+
+## The Board's vision and responsibilities
+
+> ‘West Sussex is a great place in which to grow up, achieve, raise a family and grow old, in strong, safe and sustainable communities – it is a place where improved health and wellbeing is experienced by all our residents, and the health and wellbeing gap between communities is reducing.’
+
+The Board is responsible for: 
+ 
++ Assessing the health and wellbeing needs of local residents. This is known as the Joint Strategic Needs Assessment (JSNA).
++ Developing a Joint Health and Wellbeing Strategy (JHWS) to meet the health and wellbeing needs identified in the JSNA.
++ Reducing the gap in health and wellbeing between communities.
++ Promoting integration of health and care services
++ Reviewing and approving key health and wellbeing plans and strategies such as the Better Care Fund plan, and Clinical Commissioning Group commissioning plans
++ Producing and publishing the Pharmaceutical Needs Assessment
+
+For more information about the Board, please visit [https://westsussex.gov.uk/hwb](https://westsussex.gov.uk/hwb "Link to West Sussex Health and Wellbeing Board web page").
+
+## What is the Joint Strategic Needs Assessment?
+
+The Joint Strategic Needs Assessment is an assessment of the needs and assets of the local population. It provides a summary of the current and future health and wellbeing needs of the people of West Sussex and uses a broad range of indicators to monitor outcomes. It uses national and local data to build a comprehensive picture of the local population.  The JSNA provides an analysis of national and local data including:
+
++ demographic data about the local population (such as age, gender and ethnicity)
++ wider determinants of health such as education, housing, crime and employment
++ data on health behaviours such as smoking, physical activity, alcohol use and dietary habits 
++ Data on the distribution of health  and determinants of health related states and events in the local population  such as life expectancy, quality of life, and prevalence of diseases and conditions
++ access and use of services  such as hospital admissions, discharge, GP service usage data
++ evidence of effectiveness such as guidelines of the NICE, quality standards, good practice examples
++ Resident and service user views 
+
+The JSNA is used by the Health and Wellbeing Board to develop the Joint Health and Wellbeing Strategy, which sets out how the HWB will meet the needs identified in the JSNA Both the JSNA and JHWS are used by decision makers, commissioners, and providers in planning, commissioning and providing services that address local needs and improve outcomes for residents.
+
+## JSNA and JHWS process
+
+{% include figure image_path="/assets/images/HWBprocess.jpg" caption="Outline of the JSNA and joint health and wellbeing strategy process." %}
 
 ## Who are the Public Health and Social Research Unit?
 
