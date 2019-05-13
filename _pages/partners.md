@@ -13,7 +13,7 @@ excerpt: "More information about the West Sussex Health and Wellbeing Board and 
 
 ## West Sussex Health and Wellbeing Board
 
-The Health and Wellbeing Board is a forum where key leaders from the health and care system across West Sussex work together to improve the health and wellbeing of the local population and reduce health inequalities. 
+The Health and Wellbeing Board is a forum where key leaders from the health and care system across West Sussex work together to improve the health and wellbeing of the local population and reduce health inequalities.
 
 ## Board membership
 
@@ -43,6 +43,8 @@ The Board is responsible for:
 + Producing and publishing the Pharmaceutical Needs Assessment
 
 For more information about the Board, please visit [https://westsussex.gov.uk/hwb](https://westsussex.gov.uk/hwb "Link to West Sussex Health and Wellbeing Board web page").
+
+For more information about the Wellbeing Board's strategy document, [please visit this page](https://jsna.westsussex.gov.uk/updates/west-sussex-jhwbs/).
 
 ## What is the Joint Strategic Needs Assessment?
 
