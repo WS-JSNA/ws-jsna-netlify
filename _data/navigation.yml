@@ -10,6 +10,8 @@ main:
     url: /contact/
   - title: "About"
     url: /about/
+  - title: "HWB"
+    url: /partners/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -82,7 +84,7 @@ starting:
         url: /starting-well/young-people/
       - title: "Child Health Profiles (formerly Children and Family Centre Profiles)"
         url: /starting-well/child-health-profiles/
-   
+
 living:
   - title: Living and Working Well
     url: /living-well/

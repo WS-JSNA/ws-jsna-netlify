@@ -275,6 +275,11 @@ collections:
     output: true
     permalink: /ccg/:collection/:path/
 
+# Add ICS collection
+  ics:
+    output: true
+    permalink: /
+
 # Defaults
 defaults:
   # _posts
