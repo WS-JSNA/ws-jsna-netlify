@@ -21,6 +21,7 @@ Data in this section are provided under five headings:
 * [Early years](/starting-well/early-years/)
 * [School age children and education](/starting-well/education-children/)
 * [Young people](/starting-well/young-people/)
+* [NCMP](/starting-well/ncmp/)
 
 {% include embedpdf file_path="/assets/uploads/starting-well/CYP-Outcomes-revised-August-2016.pdf" caption="A Walk Through the Outcomes for Children and Young People in West Sussex." %}
 
