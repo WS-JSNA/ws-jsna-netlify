@@ -25,10 +25,10 @@ The West Sussex Public Health and Social Research Unit have completed a data bri
 
 + **Inequalities in childhood obesity persist**. For both school years, prevalence of excess weight among children living in the most deprived areas of West Sussex is greater than those living in the least deprived areas.
 
-{% include embed_pdf file_path="/assets/starting-well/NCMP Slide Set for website 1718.pdf" width="650" height="525" %}
+{% include embed_pdf file_path="/assets/starting-well/NCMP-Slide-Set-for-website-1718.pdf" width="650" height="525" %}
 
 ## Downloads
 
 [NCMP West Sussex Data Briefing 2017/18 (PDF, 0.6Mb)](/assets/starting-well/FINAL-Briefing-NCMP-West Sussex-201718.pdf)
 
-[NCMP West Sussex Summary Slides Spring 2019 (PDF, 1.5Mb)](/assets/starting-well/NCMP Slide Set for website 1718.pdf)
+[NCMP West Sussex Summary Slides Spring 2019 (PDF, 1.5Mb)](/assets/starting-well/NCMP-Slide-Set-for-website-1718.pdf)
