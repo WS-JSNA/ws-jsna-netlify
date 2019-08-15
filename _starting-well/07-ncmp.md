@@ -6,6 +6,8 @@ header:
  overlay_color: "#ca4993"
  overlay_filter: 0.5
 permalink: /starting-well/ncmp/
+sidebar:
+  nav: "starting"
 excerpt: "The National Child Measurement Programme (NCMP) is an annual record of the height and weight of primary school children in reception and year 6, and a key source of robust data for Public Health indicators."
 ---
 
