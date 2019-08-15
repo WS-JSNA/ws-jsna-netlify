@@ -13,7 +13,7 @@ downloads: ["JSNA1", "JSNA2"]
 This section contains our published reports, including short reports and briefing nots as well as formal comprehensive needs assessments and the statutory Director of Public Health Annual reports, and the subject specific needs assessments.
 
 * [Joint Strategic Needs Assessments](/reports/jsna-reports/ "JSNA Reports")
-* [Director of Public Health's Annual Reports](/reports/director-public-health-annual-report/ "Director of Public Health Annual Reports")
+* [Director of Public Health's Annual Reports](/reports/annual-public-health-report-2018/ "Director of Public Health Annual Reports")
 * [Subject specific needs assessments](/reports/subject-specific-needs-assessments/ "Subject Specific Needs Assesments, Briefing Notes etc")
 
 {% include downloads_from_db ids=page.downloads %}
