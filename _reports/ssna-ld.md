@@ -23,7 +23,7 @@ As part of the ‘discover’ phase of a longer-term project to redesign of serv
 
 The project was carried out in five stages: epidemiological analysis, evidence review, mapping of current needs and services, comparison with other local authorities, and the preparation of this final report and recommendations.
 
-The overall [Needs Assessment](/assets/core/West-Sussex-County-Council-Needs-Assessment-Final-Report-May-2016.pdf), plus four component reports can be found by clicking on the links below:
+The overall Needs Assessment, plus four component reports can be found by clicking on the links below:
 
 + [Comprehensive Needs Assessment of the Life Pathway for People with Disabilities](/assets/core/West-Sussex-County-Council-Needs-Assessment-Final-Report-May-2016.pdf)
 + [Policy and Literature Review](/assets/core/West-Sussex-1-Policy-and-Literature-Review-Life-Pathways-May-2016.pdf)
