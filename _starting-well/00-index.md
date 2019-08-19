@@ -15,13 +15,14 @@ From 1 October 2015, the responsibility for commissioning some public health ser
 
 This section of the website provides key data and analyses relating to these young populations as well as school age children and young people in West Sussex to enable planning and support to ensure West Sussex populations are starting and developing well.
 
-Data in this section are provided under five headings:
+Data in this section are provided under seven headings:
 * [Maternity and fertility](/starting-well/maternity-and-fertility/)
 * [Birth and the newborn](/starting-well/birth-newborn/)
 * [Early years](/starting-well/early-years/)
 * [School age children and education](/starting-well/education-children/)
 * [Young people](/starting-well/young-people/)
-* [NCMP](/starting-well/ncmp/)
+* [Child Health Profiles (formerly Children and Family Centre Profiles)](/starting-well/child-health-profiles/)
+* [National Child Measurement Programme](/starting-well/ncmp/)
 
 {% include embedpdf file_path="/assets/uploads/starting-well/CYP-Outcomes-revised-August-2016.pdf" caption="A Walk Through the Outcomes for Children and Young People in West Sussex." %}
 
