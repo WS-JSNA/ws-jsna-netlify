@@ -24,7 +24,7 @@ Data in this section are provided under seven headings:
 * [Child Health Profiles (formerly Children and Family Centre Profiles)](/starting-well/child-health-profiles/)
 * [National Child Measurement Programme](/starting-well/ncmp/)
 
-{% include embedpdf file_path="/assets/uploads/starting-well/CYP-Outcomes-revised-August-2016.pdf" caption="A Walk Through the Outcomes for Children and Young People in West Sussex." %}
+{% include embedpdf file_path="/assets/uploads/starting-well/CYP-Outcomes-revised-August-2016.pdf" width="700" height="525" caption="A Walk Through the Outcomes for Children and Young People in West Sussex." %}
 
 {% include wip_notice %}
 
