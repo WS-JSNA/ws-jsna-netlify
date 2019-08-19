@@ -15,7 +15,7 @@ This section contains data sets and information about school aged children and e
 
 ### Special Educational Needs and Disability (SEND) outcomes in West Sussex
 
-{% include embedpdf file_path="/assets/starting-well/SEND-Infographic.pdf" caption="SEND Infographic" %}
+{% include embedpdf file_path="/assets/starting-well/SEND-Infographic.pdf" width="700" height="550" caption="SEND Infographic" %}
 
 {% include downloads_from_db ids=page.downloads %}
 
