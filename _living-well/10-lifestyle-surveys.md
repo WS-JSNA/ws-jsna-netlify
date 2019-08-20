@@ -6,6 +6,8 @@ header:
  overlay_color: "#00a776"
  overlay_filter: 0.5
 permalink: /living-well/lifestyle-surveys/
+sidebar:
+  nav: "living"
 excerpt: "We have undertaken research to learn more about lifestyles of specific age-groups in West Sussex."
 ---
 
@@ -14,9 +16,13 @@ Lifestyle surveys are undertaken at regular intervals to give a better understan
 
 ## Younger People 
 
-In the younger age-groups, these lifestyle surveys also aim to estimate the prevalence of high-risk behaviours and to give insight into the attitudes young people have towards them. The results of the surveys have been made available to schools, local residents, governing bodies and other relevant agencies to inform and improve the development and commissioning of appropriate health promotion interventions. 
+In the younger age-groups, these lifestyle surveys also aim to estimate the prevalence of high-risk behaviours and to give insight into the attitudes young people have towards them. 
 
-These surveys fill in a knowledge gap, in the lifestyles, health and attitudes of an age-range that is often overlooked. This is especially true of the 16-24 age-group, who, often no longer being in school and with a poor response to postal surveys, are a difficult group to reach. Adolescence and early adult life is a key time of transition, however, when behaviour, thinking and beliefs are undergoing rapid change. It is important that services understand the needs of these groups so that appropriate policies and services can be developed and the gap between child and adult services be bridged.
+The results of the surveys have been made available to schools, local residents, governing bodies and other relevant agencies to inform and improve the development and commissioning of appropriate health promotion interventions. 
+
+These surveys fill in a knowledge gap, in the lifestyles, health and attitudes of an age-range that is often overlooked. This is especially true of the 16-24 age-group, who, often no longer being in school and with a poor response to postal surveys, are a difficult group to reach. 
+
+Adolescence and early adult life is a key time of transition, when behaviour, thinking and beliefs are undergoing rapid change. It is important that services understand the needs of these groups so that appropriate policies and services can be developed and the gap between child and adult services be bridged.
 
 ### Downloads
 
@@ -38,7 +44,8 @@ Lifestyle surveys for this age-group were designed to collect information on dem
 ### Downloads
 
 A telephone survey of 2,803 randomly selected residents aged 65+ was conducted to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle.
-[Lives of Older People in West Sussex Survey. Summary Report 2013 (PDF, 0.3Mb)](/assets/living-well/lives_of_older_people_in_west_sussex_survey_summary_report_2013_final.pdf)
+
+[Lives of Older People in West Sussex Survey. Summary Report 2013 (PDF, 0.3Mb)](/assets/living-well/lives_of_older_people_in_west_sussex_survey_summary_report_2013_final_.pdf)
 
 The [Lifestyles of Older People in West Sussex 2006 (PDF, 5.7Mb)](/assets/living-well/lifestyles_of_older_people_in_west_sussex_2006.pdf) report was conducted in 2006 and covers smoking and alcohol, carers, contact with health services, home, anti-social behaviour and vulnerability of 48,202 people aged 60+ in West Sussex.
 
