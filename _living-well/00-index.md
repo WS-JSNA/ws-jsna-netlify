@@ -17,7 +17,9 @@ Poor health may lead to reduced productivity and withdrawal from the labour forc
 
 Many of the risk factors associated with poor health among the working age population are avoidable and can be prevented in some way by adopting healthy lifestyles such as engaging in physical activity, reducing and quitting tobacco use, healthy eating and reducing and quitting drug and alcohol use.
 
-This section is presented under three headings, reflecting the available [demographics of the workforce in West Sussex]({{"/living-well/workforce-health/" | absolute_url}}), data on [housing]({{"/living-well/housing/" | absolute_url}}), [environment]({{"/living-well/environment/" | absolute_url}}) and [wider determinants of health]({{"/living-well/wider-determinants/" | absolute_url}}) and data on the health behaviours of the working age population, including:
+This section is presented under several headings, reflecting the available [demographics of the workforce in West Sussex]({{"/living-well/workforce-health/" | absolute_url}}), data on [housing]({{"/living-well/housing/" | absolute_url}}), [environment]({{"/living-well/environment/" | absolute_url}}), [lifestyles](/living-well/lifestyle-surveys/) and [wider determinants of health]({{"/living-well/wider-determinants/" | absolute_url}}). 
+
+Data on the health behaviours of the working age population are also included:
 
 * [Drugs and Alcohol]({{"/living-well/drugs-and-alcohol/" | absolute_url}})
 * [Weight Management]({{"/living-well/weight-management/" | absolute_url}})
