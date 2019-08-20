@@ -58,6 +58,8 @@ topics:
         url: /living-well/sexual-health/
       - title: "Smoking and Tobacco Use"
         url: /living-well/smoking-and-tobacco/
+      - title: "Lifestyle Surveys"
+        url: /living-well/lifestyle-surveys/
   - title: Ageing Well
     url: /ageing-well/
     children:
@@ -107,6 +109,8 @@ living:
         url: /living-well/sexual-health/
       - title: "Smoking and Tobacco Use"
         url: /living-well/smoking-and-tobacco/
+      - title: "Lifestyle Surveys"
+        url: /living-well/lifestyle-surveys/
 
 ageing:
   - title: Ageing Well
