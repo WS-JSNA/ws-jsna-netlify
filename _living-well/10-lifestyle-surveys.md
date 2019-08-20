@@ -18,7 +18,6 @@ In the younger age-groups, these lifestyle surveys also aim to estimate the prev
 
 These surveys fill in a knowledge gap, in the lifestyles, health and attitudes of an age-range that is often overlooked. This is especially true of the 16-24 age-group, who, often no longer being in school and with a poor response to postal surveys, are a difficult group to reach. Adolescence and early adult life is a key time of transition, however, when behaviour, thinking and beliefs are undergoing rapid change. It is important that services understand the needs of these groups so that appropriate policies and services can be developed and the gap between child and adult services be bridged.
 
-
 ### Downloads
 
 These reports provide information on the demographics, lifestyles, high-risk and sexual behaviours, attitudes and emotional wellbeing of young people in West Sussex.
@@ -35,7 +34,6 @@ The [Lifestyles of 16 to 24 year olds in West Sussex 2008 (PDF, 4.4Mb)](/assets/
 There has also been a lack of robust local information on lifestyle factors which impact on older people’s health and well-being. 
 
 Lifestyle surveys for this age-group were designed to collect information on demographics, social and health factors and vulnerability of older people in West Sussex. The information collected here aims to help health and social caring services in meeting the specific needs of the older population in West Sussex.
-
 
 ### Downloads
 
