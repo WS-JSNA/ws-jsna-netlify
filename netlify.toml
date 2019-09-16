@@ -3,3 +3,11 @@
 [build]
   command = "jekyll build && jekyll algolia"
   publish = "_site"
+# Redirect old interactive documents to their new address (november)
+[[redirects]]
+  from = "/wp-content/uploads/2017/11/*"
+  to = "/assets/htmlwidgets/:splat"
+# Redirect old interactive documents to their new address (october)
+[[redirects]]
+  from = "/wp-content/uploads/2017/11/*"
+  to = "/assets/htmlwidgets/:splat"
