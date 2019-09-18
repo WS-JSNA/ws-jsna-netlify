@@ -13,6 +13,6 @@ The West Sussex Public Health and Social Research Unit have now completed the an
 
 These profiles are a powerful tool to examine variations in the health and wellbeing of people across West Sussex, and can help commissioners identify potential priorities for change.
 
-The 2015/16 profiles have been redesigned to help users access information as quickly as possible on the web. To view the pages please click [here](/ccgs/) or use the links above.
+The 2015/16 profiles have been redesigned to help users access information as quickly as possible on the web. [You can view the West Sussex CCG pages here](/ccgs/) or use the links above.
 
 {% include figure image_path="/assets/images/ccg-profiles/CCG-boundaries-and-localities-mix-colours-1024x725.jpg" class="full" %}
