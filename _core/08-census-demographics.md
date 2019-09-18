@@ -15,7 +15,7 @@ The 2011 census statistics capture a detailed snapshot of the population and its
 
 You can [read more on the 2011 census on the Office for National Statistics census pages](https://www.ons.gov.uk/census/2011census/2011censusdata).
 
-In this section of the JSNA website, we have collated a number of key outputs from the 2011 census for West Sussex and specific populations within the county. [For more recent population estimates click here](/core/population-data/estimates/).
+In this section of the JSNA website, we have collated a number of key outputs from the 2011 census for West Sussex and specific populations within the county. [You can read more recent population estimates here](/core/population-data/estimates/).
 
 {% include downloads_from_db ids=page.downloads %}
 
