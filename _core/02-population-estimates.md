@@ -18,7 +18,7 @@ toc_sticky: true
 Annual estimates of the population living in West Sussex are provided for a range of geographies (e.g. output area, ward, district, CCG, county, region, and country). National and local authority estimates are usually updated in June each year by the Office for National Statistics for the previous year (e.g. mid-2016 estimates were released in June 2017), with small area population estimates released later in the year, usually in November.
 
 <!-- md link -->
-[Click here to download a short briefing document.](/assets/core/Public-Health-Briefing-MYE-2016.pdf)
+[Population Estimates 2016 Briefing (PDF, 0.3Mb)](/assets/core/Public-Health-Briefing-MYE-2016.pdf). This short pdf summarises the 2016 population estimates. More detail can be read below:
 
 In 2016 **843,765** people were estimated to be resident in West Sussex. This was 7,509 more than in 2015, an increase of approximately 0.9%. There were 8,953 births and 8,915 deaths and net internal migration (from/to elsewhere in the UK) was 4,968, slightly down from 5,541 in 2015. Net international migration in West Sussex, in 2016, was 2,435, similar to 2015 (2,440). This means that population increase resulted largely from net internal migration.
 
