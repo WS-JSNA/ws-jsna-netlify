@@ -1,10 +1,8 @@
 ---
 layout: single
-title: "Accessibility"
+title: Accessibility 
 permalink: "/help/"
 ---
-
-# Accessibility 
 
 This website is maintained by the West Sussex County Council Public Health and Social Research Unit. 
 
