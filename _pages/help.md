@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Help"
+title: "Accessibility"
 permalink: "/help/"
 ---
 
