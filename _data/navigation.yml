@@ -4,8 +4,8 @@ main:
     url: /updates/
   - title: "CCGs"
     url: /ccgs/
-  - title: "Help"
-    url: /help/
+  - title: "Accessibility"
+    url: /accessibility/
   - title: "Contact"
     url: /contact/
   - title: "About"
