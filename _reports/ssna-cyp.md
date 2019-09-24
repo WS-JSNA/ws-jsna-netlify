@@ -27,7 +27,7 @@ Local and national evidence  was reviewed by the Public Health and Social Reseac
 + [Early Years NA 2016 Infographics (PDF, 1Mb)](/assets/starting-well/West-Sussex-Early-Years-Needs-Assessment-Infographics.pdf)
 
 
-## West Sussex Children Looked After Needs Assessment 2017
+## Children Looked After Needs Assessment 2017
 
 In 2015, OFSTED inspected services for children in need of help and protection, children looked after (CLA) and care leavers, and produced a review of the effectiveness of the Local Safeguarding Children Board. Services for children provided and delivered by the council, including for those in need of help and protection and CLA, were judged to "require improvement". This led to the development of the [West Sussex OFSTED Improvement Plan 2016 – 2017](http://www2.westsussex.gov.uk/ds/edd/ch/ch03a_16-17.pdf), which identified the need to produce a needs assessment for CLA. 
 
@@ -40,5 +40,3 @@ The CLA Needs Assessment was produced using national and local datasets and the 
 ### Downloads 
 
 + [West Sussex Children Looked After Needs Assessment 2017 (PDF, 8.5Mb)](/assets/core/West-Sussex-Children-Looked-After-Needs-Assessment-2017.pdf)
-
-
