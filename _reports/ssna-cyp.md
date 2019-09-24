@@ -11,7 +11,6 @@ sidebar:
 excerpt: "Looking at the needs of West Sussex's young people, from the early years to the teenage years"
 
 ---
-
 ## Early Years Needs Assessment
 
 A good start in life is fundamental to lay the foundations for good health and wellbeing in later life. Investment in well-designed, targeted early years interventions produce returns which consistently outweigh their cost and often exceed the benefits of interventions delivered during the later stages of life.
