@@ -135,6 +135,8 @@ reports:
         url: "/reports/subject-specific-needs-assessments/black-and-minority-ethnic-needs-assessment"
       - title: Carers and caring
         url: "/reports/subject-specific-needs-assessments/carers-and-caring/"
+      - title: Children and Young People (including Children Looked After)
+        url: "/reports/subject-specific-needs-assessments/cyp/"
       - title: Children and Young People's Emotional Wellbeing and Mental Health
         url: "/reports/subject-specific-needs-assessments/camhs-needs-assessment/"
       - title: Falls Prevention
