@@ -15,4 +15,4 @@ A full list of the recommendations from the report are presented in a summary in
 
 This slide set is available to download here: [West Sussex Early Years Needs Assessment (2015) - Infographics](/assets/starting-well/West-Sussex-Early-Years-Needs-Assessment-Infographics.pdf) 
 
-For more information please see the [full report](/assets/starting-well/West-Sussex-Early-Years-Needs-Assessment-Full-Report.pdf), [executive summary](/assets/starting-well/West-Sussex-Early-Years-Needs-Assessment-Summary-Final-Version.pdf) and [supporting chapters and appendices](/assets/starting-well/West-Sussex-Early-Years-Needs-Assessment-Supporting-Chapters-and-Appendices.pdf).
+For more information please see the full [Early Years Needs Assessment report](/assets/starting-well/West-Sussex-Early-Years-Needs-Assessment-Full-Report.pdf), [Early Years NA Executive Summary](/assets/starting-well/West-Sussex-Early-Years-Needs-Assessment-Summary-Final-Version.pdf) and [Early Years NA supporting chapters and appendices](/assets/starting-well/West-Sussex-Early-Years-Needs-Assessment-Supporting-Chapters-and-Appendices.pdf).
