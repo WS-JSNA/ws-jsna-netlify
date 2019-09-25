@@ -35,4 +35,4 @@ If you have any queries or wish to request a free of charge paper copy of the dr
 
 + [Ryan Walkley](mailto:ACDJSNA@westsussex.gov.uk?subject=West Sussex Pharmaceutical Needs Assessment (SEPT17)), (Telephone: 0330 222 7586).
 
-If you wish to access the previous PNA and supplementary statements, these can be found [here](https://www.westsussex.gov.uk/pna).
+You can access the [previous PNA and supplementary statements on the West Sussex County Council website](https://www.westsussex.gov.uk/pna).
