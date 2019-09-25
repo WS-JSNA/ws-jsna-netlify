@@ -10,11 +10,14 @@ category: HWB
 permalink: /updates/west-sussex-jhwbs/
 toc: true
 toc_sticky: true
+
 ---
 
-The West Sussex Health and Wellbeing Board has now published its new **Joint Health and Wellbeing Strategy 2019 – 2024: Start Well, Live Well, Age Well**, which sets out its vision, goals and ways in which it will work to improve the health and wellbeing for all residents in West Sussex. This five year Strategy was developed in consultation and collaboration with local residents, service users, multi-disciplinary professionals and partners, and it draws on evidence of health and wellbeing needs from the JSNA.  It is not a stand-alone document, but sets the direction of travel for health and social care services in West Sussex. Decision makers, commissioners and service providers across the County Council, CCGs, NHS Trusts, district and borough councils, the voluntary sector and other partners are expected to consider the Strategy when planning, commissioning and providing services that impact on health and wellbeing. 
+The West Sussex [Health and Wellbeing Board](/partners/) has now published its new **[Joint Health and Wellbeing Strategy 2019 – 2024: Start Well, Live Well, Age Well](/assets/core/FINAL-JHWS-2019-2024.pdf)** (JHWS). The strategy sets out the Health and Wellbeing Board's vision, goals and ways in which it will work to improve the health and wellbeing for all residents in West Sussex. It was developed in consultation and collaboration with local residents, service users, multi-disciplinary professionals and partners. It draws on evidence of West Sussex's health and wellbeing needs from the joint strategic needs assessment (JSNA).  
 
-The Strategy identifies the following goals to meet the health and wellbeing needs of the residents of West Sussex: 
+The JHWS is not a stand-alone document, but sets the direction of travel for health and social care services in West Sussex. Decision makers, commissioners and service providers across the County Council, CCGs, NHS Trusts, district and borough councils, the voluntary sector and other partners are expected to consider the JHWS when planning, commissioning and providing services that impact on health and wellbeing. 
+
+The JHWS identifies the following goals to meet the health and wellbeing needs of the residents of West Sussex: 
 
 ## Starting Well
  * Improved infant and maternal outcomes especially in deprived areas
@@ -34,7 +37,7 @@ The Strategy identifies the following goals to meet the health and wellbeing nee
 * There is a reduction in the number of older people having falls 
 * People receive good quality end of life care and have a good death
 
-The Strategy can be downloaded here.  Further information about the Health and Wellbeing Board is also available on the HWB website www.westsussex.gov.uk/hwb
+The strategy and supporting documents can be downloaded below.  [Further information about the West Sussex Health and Wellbeing Board](www.westsussex.gov.uk/hwb) is also available on its website.
 
 ## Downloads
 * [West Sussex Joint Health and Wellbeing Strategy 2019 – 2024 pdf](/assets/core/FINAL-JHWS-2019-2024.pdf)
