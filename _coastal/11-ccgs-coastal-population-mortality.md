@@ -71,7 +71,7 @@ The map below shows the variation in Life Expectancy at birth for females in MSO
 
 ## Premature mortality
 
-**In England, in 2012-14, one in three people died before the age of 75**. Deaths before this age are considered to be premature. Longer Lives is a web tool from Public Health England (<a href="http://healthierlives.phe.org.uk/topic/mortality" target="_blank">available here</a>) to higher premature mortality across Local Authority districts and counties in England. Data are drawn from records of deaths reported each year by the Office for National Statistics and are available in the Public Health Outcomes Framework (PHOF).
+**In England, in 2012-14, one in three people died before the age of 75**. Deaths before this age are considered to be premature. (<a href="http://healthierlives.phe.org.uk/topic/mortality" target="_blank">Longer Lives is a web tool from Public Health England</a>) to higher premature mortality across Local Authority districts and counties in England. Data are drawn from records of deaths reported each year by the Office for National Statistics and are available in the Public Health Outcomes Framework (PHOF).
 
 Premature mortality data in the Longer Lives tool are given as directly standardised rates per 100,000 (using the European Standard Population, ESP 2013) to enable comparisons across areas which have dissimilar population age structures. Standardising takes into account that death rates are higher in older populations. Data are pooled across three year periods to ensure that there are a sufficient number of deaths in each area to enable robust calculation of rates
 
