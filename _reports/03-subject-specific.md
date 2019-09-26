@@ -24,6 +24,6 @@ Subject specific needs assessments, evaluations, briefing notes and equity audit
 + [Lifelong Disabilities](/reports/subject-specific-needs-assessments/lifelong-disabilities/)
 + [Oral Health](/reports/subject-specific-needs-assessments/oral-health/)
 + [Sexual Health](/reports/subject-specific-needs-assessments/sexual-health/)
-+ [Substance Abuse](/reports/subject-specific-needs-assessments/substance-abuse/)
++ [Substance Abuse(including Dual Diagnosis)](/reports/subject-specific-needs-assessments/substance-abuse/)
 
 {% include downloads_from_db %}
