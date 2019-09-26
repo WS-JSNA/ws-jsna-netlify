@@ -1,6 +1,6 @@
 ---
 layout: single 
-title: Alcohol and Substance Abuse Needs Assessment 
+title: Substance Abuse and Mental Health Needs Assessments
 date: 2019-09-26
 header:
   overlay_color: "#038cd0"
