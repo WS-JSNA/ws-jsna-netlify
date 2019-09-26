@@ -9,7 +9,7 @@ The GP patient survey asks patients about their experience of their own GP pract
 
 In terms of methodology, previously surveys were sent out every quarter; surveys are now sent out twice a year (January to March and July to September) and weightings have been refined to take into account the age and deprivation levels of the local community. Given the changes in methodology, it is not possible to compare the results of the revised survey with previous years.
 
-The survey is administered by Ipsos MORI on behalf of the Department of Health (DH). Background reports and individual practice results are published and freely available here.
+The survey is administered by Ipsos MORI on behalf of the Department of Health (DH). [Background reports and individual practice results are published and freely available here](https://www.gp-patient.co.uk/).
 
 Graphs on the following pages provide practice, CCG locality, and overall England results for a sample of the questions from the key areas identified in the 2015 survey (released in January 2016).
 
