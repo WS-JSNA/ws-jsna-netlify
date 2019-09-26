@@ -12,6 +12,8 @@ excerpt: "Examining the needs of those who abuse harmful substances in West Suss
 
 ---
 
+# Drugs and Alcohol Needs Assessment 
+
 Drug Action Teams were established by the Government in 1995 to ensure the strategic co-ordination of local action on drug misuse. In 2012, the West Sussex Drug & Alcohol Action Team (WSDAAT) was incorporated into Public Health England (PHE) with a view to transfer to the management of West Sussex County Council in April 2013. 
 
 The government’s 2010 Drug Strategy sets out to tackle drugs and address alcohol dependence, which it identifies as key causes of societal harm, including crime, family breakdown and poverty. This strategy aims to:
@@ -21,7 +23,7 @@ The government’s 2010 Drug Strategy sets out to tackle drugs and address alcoh
 
 The government’s 2012 Alcohol Strategy similarly plans to crackdown on the UK’s ‘binge drinking’ culture, cut alcohol-fuelled violence and disorder and reduce the number of people drinking to damaging levels.
 
-The 2014 Drugs and Alcohol needs assessment was externally commissioned by WSCC and focuses on the diverse needs of West Sussex communities and considers the changing trends and market forces related to alcohol and substance misuse. It was designed to reflect proposals to restructure the current adult treatment model i.e. to streamline pathways into a more person-centric treatment and support provision across specific geographical areas throughout West Sussex. 
+The 2014 Drugs and Alcohol Needs Assessment was externally commissioned by WSCC and focuses on the diverse needs of West Sussex communities and considers the changing trends and market forces related to alcohol and substance misuse. It was designed to reflect proposals to restructure the current adult treatment model i.e. to streamline pathways into a more person-centric treatment and support provision across specific geographical areas throughout West Sussex. 
 
 The report noted the need for:
 + stronger integration and links to other services, such as maternity, mental health, specialist inpatient and specialist adult social care services  
@@ -35,3 +37,17 @@ The report noted the need for:
 
 + [West Sussex Drugs and Alcohol Needs Assessment 2014 (PDF, 4.1Mb)](/assets/living-well/west_sussex_alcohol_and_drugs_needs_assessment___final_report.pdf)
 + [West Sussex Drugs and Alcohol Needs Assessment 2014 Summary (PDF, 0.5Mb)](/assets/living-well/west_sussex_alcohol_and_drugs_needs_assessment_summary.pdf)
+
+# Dual Diagnosis Needs Assessment 
+
+Dual diagnosis refers to the co-existence of mental health and substance misuse problems. People with a dual diagnosis can have complex needs relating to health, social, economic and emotional stressors/circumstances, which can often be exacerbated by their substance misuse. They are a vulnerable group that are more likely to have experienced difficulties with education, employment, housing, personal relationships and physical health. They are also more likely to have suffered trauma or abuse.
+
+Problematic substance use is one of the most common co-morbidities among people with a major mental illness, yet detection of the problem remains low. Historically, individuals with a dual diagnosis have experienced difficulties in accessing services which meet all their needs. 
+
+The complex nature of dually diagnosed patients suggests a need for an integrated approach to treatment, which addresses both issues, and coherent pathways of joint working.
+
+The 2014 Dual Diagnosis needs assessment builds on the 2014 West Sussex Drug and Alcohol Needs Assessment. The prevalence rates for those experiencing co-occurring substance misuse and mental health disorders, and the needs, gaps and issues in the current treatment system are identified.
+
+## Downloads
+
++ [West Sussex Dual Diagnosis Needs Assessment 2014 (PDF, 3Mb)](/assets/living-well/dual_diagnosis_needs_assessment.pdf)
