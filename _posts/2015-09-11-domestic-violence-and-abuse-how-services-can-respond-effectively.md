@@ -6,6 +6,6 @@ category: guidance
 permalink: /updates/domestic-violence-and-abuse-services/
 ---
 
-Public Health guidance on the handling of domestic violence and abuse by a range of health and social care professionals. Recommendations cover the broad spectrum of domestic violence and abuse, including violence perpetrated on men, on those in same-sex relationships and on young people.
+NICE has produced [Public Health guidance on the handling of domestic violence and abuse](http://guidance.nice.org.uk/PH50) by a range of health and social care professionals. 
 
-[Link to the report](http://guidance.nice.org.uk/PH50)
+Recommendations cover the broad spectrum of domestic violence and abuse, including violence perpetrated on men, on those in same-sex relationships and on young people.
