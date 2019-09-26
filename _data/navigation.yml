@@ -139,8 +139,6 @@ reports:
         url: "/reports/subject-specific-needs-assessments/cyp/"
       - title: Children and Young People's Emotional Wellbeing and Mental Health
         url: "/reports/subject-specific-needs-assessments/camhs-needs-assessment/"
-      - title: Substance Abuse  
-        url: "/reports/subject-specific-needs-assessments/substance-abuse/"
       - title: Falls Prevention
         url: "/reports/subject-specific-needs-assessments/falls-prevention/"
       - title: Pharmaceutical Needs Assessment (PNA)
@@ -155,6 +153,8 @@ reports:
         url: "/reports/subject-specific-needs-assessments/oral-health/"
       - title: Sexual Health 
         url: "/reports/subject-specific-needs-assessments/sexual-health/"
+      - title: Substance Abuse  
+        url: "/reports/subject-specific-needs-assessments/substance-abuse/"      
   - title: Starting and Developing Well
     url: /starting-well/
   - title: Living and Working Well
