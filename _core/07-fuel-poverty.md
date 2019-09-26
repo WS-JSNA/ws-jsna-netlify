@@ -4,9 +4,10 @@ title: "Fuel Poverty"
 header:
   overlay_color: "#1976d2"
 permalink: "/core/population-data/fuel-poverty/"
-excerpt: "The post excerpt goes here"
+excerpt: "Data on fuel poor households in West Sussex"
 sidebar:
   nav: "core"
+  
 ---
 In England, in 2014, around 10% of all households (2.4 million households) were estimated to be in fuel poverty. In West Sussex, the percentage of fuel poor households was estimated to be 7.7% (27,400 fuel poor households).
 
@@ -23,9 +24,9 @@ There are three key elements in determining whether a household is fuel poor:
 2. Household Energy Requirements
 3. Fuel Prices
 
-The Department for Business, Energy & Industrial Strategy also publishes annual statistics on the number and proportion of households that are fuel poor in local authorities, lower super outputs areas (LSOA), parliamentary constituencies, counties and regions. The sub-regional statistics aim to complement these National Statistics, by estimating the proportion of fuel poor households at smaller geographical areas, for example Lower Super Output Area (LSOA).
+The Department for Business, Energy & Industrial Strategy also publishes [annual statistics on the number and proportion of households that are fuel poor](https://www.gov.uk/government/collections/fuel-poverty-statistics) in local authorities, lower super outputs areas (LSOA), parliamentary constituencies, counties and regions. The sub-regional statistics aim to complement these National Statistics, by estimating the proportion of fuel poor households at smaller geographical areas, for example Lower Super Output Area (LSOA).
 
-The sub-regional fuel poverty analyses are based on national data drawn from the English Housing Survey (EHS). To convert this analyses to numbers of fuel poor households, the percentage is applied to an estimate of household totals using the 2011 Census which are benchmarked to the national fuel poverty figures. For full details on the methodology used to calculate the estimates please go to the Department of Energy & Climate Change documentation by clicking here.
+The sub-regional fuel poverty analyses are based on national data drawn from the English Housing Survey (EHS). To convert these analyses to numbers of fuel poor households, the percentage is applied to an estimate of household totals using the 2011 Census which are benchmarked to the national fuel poverty figures. For full details on the [methodology used to calculate the estimates please go to the Department for Business, Energy & Industrial Strategy documentation](https://www.gov.uk/government/publications/fuel-poverty-statistics-methodology-handbook).
 
 The table below shows the estimated household fuel poverty for West Sussex districts. The proportion of households estimated to be fuel poor was lowest in Adur and Crawley (6.8%) and highest in Chichester (9.5%).
 
