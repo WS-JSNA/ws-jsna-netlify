@@ -18,7 +18,7 @@ To give a more in-depth and accurate understanding of the issues discussed in th
 
 Some of the most important features of a needs assessment are the recommendations they provide. These bring together all the data and views collected and identify how health outcomes can be improved. The recommendations can be used to develop local priorities and guide effective and efficient commissioning. 
 
-Below, you’ll find pages housing our recent subject specific needs assessments, along with relevant evaluations, briefing notes and equity audits.
+Below, you’ll find pages housing all our recent subject specific needs assessments, along with relevant evaluations, briefing notes and equity audits. These needs assessments can also be found on other relevant pages (e.g. needs assessments relating to children and young people will also be found in Starting Well).  
 
 + [Black and Minority Ethnic Groups](/reports/subject-specific-needs-assessments/black-and-minority-ethnic-needs-assessment/)
 + [Carers and caring](/reports/subject-specific-needs-assessments/carers-and-caring/)
