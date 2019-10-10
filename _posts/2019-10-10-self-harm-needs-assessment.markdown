@@ -5,7 +5,7 @@ date: 2019-10-10
 header: 
   overlay_color: "#1976d2"
   overlay_filter: 0.5
-excerpt: "We have undertaken research to learn more self-harm in West Sussex."
+excerpt: "We have undertaken research to learn more about self-harm in West Sussex."
 category: reports
 permalink: /updates/self-harm-needs-assessment/
 toc: true
