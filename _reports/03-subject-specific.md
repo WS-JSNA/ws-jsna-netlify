@@ -26,7 +26,7 @@ Below, you’ll find pages housing all our recent subject specific needs assessm
 + [Children and Young People's Emotional Health and Wellbeing](/reports/subject-specific-needs-assessments/camhs-needs-assessment/)
 + [Falls Prevention](/reports/subject-specific-needs-assessments/falls-prevention/)
 + [Pharmaceutical Needs Assessment (PNA)](/reports/subject-specific-needs-assessments/pharmaceutical-needs-assessment-pna/)
-+ [Suicide Prevention](/reports/subject-specific-needs-assessments/suicide-prevention/)
++ [Self-Harm and Suicide Prevention](/reports/subject-specific-needs-assessments/suicide-prevention/)
 + [Tobacco Control](/reports/subject-specific-needs-assessments/tobacco-control-needs-assessment/)
 + [Lifelong Disabilities](/reports/subject-specific-needs-assessments/lifelong-disabilities/)
 + [Oral Health](/reports/subject-specific-needs-assessments/oral-health/)
