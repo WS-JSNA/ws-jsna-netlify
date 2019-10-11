@@ -12,7 +12,7 @@ downloads: []
 
 ---
 
-A subject specific needs assessment provides data and information on either the health needs of a particular population group or around an important health issue. These needs assessments usually give an overview of the population or health issue in question, discuss the risk factors and wider determinants affecting this and describe the service provision for this group or issue. 
+A subject specific needs assessment provides data and information on the health needs of either a particular population group or around an important health issue. These needs assessments usually give an overview of the population or health issue in question, discuss the risk factors and wider determinants affecting this and describe the service provision for this group or issue. 
 
 To give a more in-depth and accurate understanding of the issues discussed in these needs assessments, the public and professionals are often asked to give their views. Engaging with these groups may highlight issues not identifiable from the numeric data and provide insight into the factors affecting problems, such as lack of uptake of a service.
 
