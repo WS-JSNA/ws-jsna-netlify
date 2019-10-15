@@ -1,6 +1,6 @@
 ---
 layout: single 
-title: Substance Abuse and Mental Health Needs Assessments
+title: Substance Abuse and Mental Health
 date: 2019-09-26
 header:
   overlay_color: "#038cd0"
@@ -8,11 +8,23 @@ header:
 permalink: /reports/subject-specific-needs-assessments/substance-abuse/
 sidebar:
   nav: "reports"
-excerpt: "Examining the needs of those who abuse harmful substances in West Sussex"
+excerpt: "Examining the needs of those who abuse harmful substances in West Sussex."
 
 ---
 
-# Drugs and Alcohol Needs Assessment 
+# Drug Related Deaths Audit (2019)
+
+Deaths from drug poisoning affect a wide spectrum of residents in West Sussex. Whilst younger men account for a larger proportion, deaths are not attributable to a single cohort or demographic and as such, efforts to reduce early death require attention in many different areas. 
+
+This newly designed audit covers a three-year period (2015 to 2017) of all deaths from drug poisonings registered by the West Sussex coroner. It examines personal details; information relating to death; toxicology; mental health and social disorders; contact with services in the community; and thematic summaries of contexts and mechanisms leading to death. 
+
+Geographic areas have been identified as more concentrated areas of drug misuse deaths and outreach work can be targeted to these areas. Resolving the issues of compounding mental health problems appear to be a primary issue in reducing deaths from drug poisonings across a full spectrum of West Sussex residents. Messages around dangers of alcohol mixed with medications or other substances may need to be reconsidered or refocused.
+
+## Downloads 
+
++ [West Sussex Drug Related Deaths Audit 2019 (PDF, 1Mb)](/assets/living-well/west-sussex-drug-related-deaths-audit-2019.pdf)
+
+# Drugs and Alcohol Needs Assessment (2014) 
 
 Drug Action Teams were established by the Government in 1995 to ensure the strategic co-ordination of local action on drug misuse. In 2012, the West Sussex Drug & Alcohol Action Team (WSDAAT) was incorporated into Public Health England (PHE) with a view to transfer to the management of West Sussex County Council in April 2013. 
 
@@ -38,7 +50,7 @@ The report noted the need for:
 + [West Sussex Drugs and Alcohol Needs Assessment 2014 (PDF, 4.1Mb)](/assets/living-well/west_sussex_alcohol_and_drugs_needs_assessment___final_report.pdf)
 + [West Sussex Drugs and Alcohol Needs Assessment 2014 Summary (PDF, 0.5Mb)](/assets/living-well/west_sussex_alcohol_and_drugs_needs_assessment_summary.pdf)
 
-# Dual Diagnosis Needs Assessment 
+# Dual Diagnosis Needs Assessment (2014)
 
 Dual diagnosis refers to the co-existence of mental health and substance misuse problems. People with a dual diagnosis can have complex needs relating to health, social, economic and emotional stressors/circumstances, which can often be exacerbated by their substance misuse. They are a vulnerable group that are more likely to have experienced difficulties with education, employment, housing, personal relationships and physical health. They are also more likely to have suffered trauma or abuse.
 
