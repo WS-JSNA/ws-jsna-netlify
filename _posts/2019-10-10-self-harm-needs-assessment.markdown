@@ -18,4 +18,4 @@ A set of recommendations are made and the document aims to frame the response re
 
 ## Downloads
 
-[West Sussex Self-harm Needs Assessment 2019 (MS Word, 3Mb)](/assets/living-well/West-Sussex-Self-Harm-Needs-Assessment-2019.docx)
+[West Sussex Self-harm Needs Assessment 2019 (PDF, 0.8Mb)](/assets/living-well/west-sussex-self-harm-needs-assessment-2019.pdf)
