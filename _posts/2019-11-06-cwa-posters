@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.5
 excerpt: "We have undertaken research to learn more about ....."
 category: reports
-permalink: /updates//
+permalink:
 toc: true
 toc_sticky: true
 ---
