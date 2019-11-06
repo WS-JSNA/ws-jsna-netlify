@@ -141,20 +141,22 @@ reports:
         url: "/reports/subject-specific-needs-assessments/camhs-needs-assessment/"
       - title: Falls Prevention
         url: "/reports/subject-specific-needs-assessments/falls-prevention/"
+      - title: Lifelong Disabilities
+        url: "/reports/subject-specific-needs-assessments/lifelong-disabilities/"
+      - title: Military Veterans' Health
+        url: "/reports/subject-specific-needs-assessments/military-veterans/"
+      - title: Oral Health
+        url: "/reports/subject-specific-needs-assessments/oral-health/"
       - title: Pharmaceutical Needs Assessment (PNA)
         url: "/reports/subject-specific-needs-assessments/pharmaceutical-needs-assessment-pna/"
       - title: Self-Harm and Suicide Prevention
         url: "/reports/subject-specific-needs-assessments/suicide-prevention/"
-      - title: Tobacco Control Needs Assessment
-        url: "/reports/subject-specific-needs-assessments/tobacco-control-needs-assessment/"
-      - title: Lifelong Disabilities
-        url: "/reports/subject-specific-needs-assessments/lifelong-disabilities/"
-      - title: Oral Health
-        url: "/reports/subject-specific-needs-assessments/oral-health/"
       - title: Sexual Health 
         url: "/reports/subject-specific-needs-assessments/sexual-health/"
       - title: Substance Abuse  
-        url: "/reports/subject-specific-needs-assessments/substance-abuse/"      
+        url: "/reports/subject-specific-needs-assessments/substance-abuse/"
+      - title: Tobacco Control Needs Assessment
+        url: "/reports/subject-specific-needs-assessments/tobacco-control-needs-assessment/"
   - title: Starting and Developing Well
     url: /starting-well/
   - title: Living and Working Well
