@@ -21,4 +21,4 @@ You can download the 2010 health needs assessment of Gypsies and Travellers in W
 
 ## Downloads
 
-[Gypsies and Travellers Needs Assessment 2010 (PDF, 1.5Mb)](/assets/core gypsies-and-travellers-needs-assessment-2010.pdf)
+[Gypsies and Travellers Needs Assessment 2010 (PDF, 1.5Mb)](/assets/core/gypsies-and-travellers-needs-assessment-2010.pdf)
