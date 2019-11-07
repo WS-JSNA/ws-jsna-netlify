@@ -18,4 +18,8 @@ West Sussex has a large and growing population of older adults. If population gr
 
 This data commentary summarises key data sources regarding falls and fractures among older adults in West Sussex. This will help inform the development of a falls and fractures prevention strategy to address this growing need.
 
-Click to download the [Falls Commentary – Summer 2017](/assets/core/Falls-Summer-2017-v3.pdf).
+## Downloads 
++ [Falls Commentary – Summer 2017](/assets/core/Falls-Summer-2017-v3.pdf).
++ [Falls and fractures infographic poster](/assets/core/cwa-posters/falls-and-fractures-poster-october-2019.pdf)
+
+{% include embedpdf file_path="/assets/core/cwa-posters/falls-and-fractures-poster-october-2019.pdf" width="593" height="840" alt="An infographic poster showing our work on preventing falls and fractures." caption="Source: PHSRU." class="full" %}
