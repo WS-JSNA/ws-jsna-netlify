@@ -54,6 +54,9 @@ The report noted the need for:
 
 + [West Sussex Drugs and Alcohol Needs Assessment 2014 (PDF, 4.1Mb)](/assets/living-well/west_sussex_alcohol_and_drugs_needs_assessment___final_report.pdf)
 + [West Sussex Drugs and Alcohol Needs Assessment 2014 Summary (PDF, 0.5Mb)](/assets/living-well/west_sussex_alcohol_and_drugs_needs_assessment_summary.pdf)
++ [Alcohol licensing in West Sussex infographic poster](/assets/core/cwa-posters/alcohol-licensing-poster-october-2019.pdf)
+
+{% include embedpdf file_path="/assets/core/cwa-posters/alcohol-licensing-poster-october-2019.pdf" width="593" height="840" alt="An infographic poster showing the public health approach to alcohol licensing." caption="Source: PHSRU." class="full" %}
 
 # Dual Diagnosis Needs Assessment (2014)
 
