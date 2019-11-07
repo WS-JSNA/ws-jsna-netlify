@@ -42,9 +42,9 @@ The Board is responsible for:
 + Reviewing and approving key health and wellbeing plans and strategies such as the Better Care Fund plan, and Clinical Commissioning Group commissioning plans
 + Producing and publishing the Pharmaceutical Needs Assessment
 
-For more information about the Board, please visit [https://westsussex.gov.uk/hwb](https://westsussex.gov.uk/hwb "Link to West Sussex Health and Wellbeing Board web page").
+For more information about the Board, please visit [the West Sussex Health and Wellbeing Board's web page](https://westsussex.gov.uk/hwb "Link to West Sussex Health and Wellbeing Board web page").
 
-For more information about the Wellbeing Board's strategy document, [please visit this page](https://jsna.westsussex.gov.uk/updates/west-sussex-jhwbs/).
+[For more information about the Wellbeing Board's strategy document, please visit this page](https://jsna.westsussex.gov.uk/updates/west-sussex-jhwbs/).
 
 ## What is the Joint Strategic Needs Assessment?
 
