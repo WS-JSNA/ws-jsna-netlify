@@ -9,6 +9,7 @@ permalink: /reports/subject-specific-needs-assessments/substance-abuse/
 sidebar:
   nav: "reports"
 excerpt: "Examining the needs of those who abuse harmful substances in West Sussex."
+toc: true 
 
 ---
 
@@ -23,6 +24,10 @@ Geographic areas have been identified as more concentrated areas of drug misuse 
 ## Downloads 
 
 + [West Sussex Drug Related Deaths Audit 2019 (PDF, 1Mb)](/assets/living-well/west-sussex-drug-related-deaths-audit-2019.pdf)
+
++ [Drug-relate deaths infographic poster](/assets/core/cwa-posters/drug-related-deaths-poster-october-2019.pdf)
+
+{% include embedpdf file_path="/assets/core/cwa-posters/drug-related-deaths-poster-october-2019.pdf" width="593" height="840" alt="An infographic poster showing the work of the drug-related deaths audit." caption="Source: PHSRU." class="full" %}
 
 # Drugs and Alcohol Needs Assessment (2014) 
 
