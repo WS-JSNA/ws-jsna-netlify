@@ -11,11 +11,11 @@ sidebar:
   nav: "core"
 ---
 
-The most recently available deprivation data are from the 2015 English Indices of Deprivation and this shows relative deprivation at small areas (LSOAs). Data on household deprivation comes from the 2011 census and can be found in the census demographics section of the JSNA website.
+The most recently available deprivation data are from the [2019 English Indices of Deprivation](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019). These show relative deprivation at small areas (LSOAs). Data on household deprivation comes from the 2011 census and can be found in the census demographics section of the JSNA website.
 
-The Indices of Deprivation is an area-based measure of *relative* levels of deprivation in small areas, (Lower Super Output Areas (LSOAs), which contain approximately 1,500 people). It can be used to compare the deprivation across different areas, identify the most deprived areas within a larger geography (for example in the CCG), and to examine which domains of deprivation are more or less prominent in an area. The Indices cannot be used to quantify how deprived an area is (nor can it say by how much one area is more deprived than another), and there are different indices of deprivation for Wales, Scotland and Northern Ireland (so comparisons cannot be made across countries).
+The Indices of Deprivation are an area-based measure of *relative* levels of deprivation in small areas, (Lower Super Output Areas (LSOAs), which contain approximately 1,500 people). It can be used to compare the deprivation across different areas, identify the most deprived areas within a larger geography (for example in the CCG), and to examine which domains of deprivation are more or less prominent in an area. The Indices cannot be used to quantify how deprived an area is (nor can it say by how much one area is more deprived than another), and there are different indices of deprivation for Wales, Scotland and Northern Ireland (so comparisons cannot be made across countries).
 
-The indices are published by the Department for Communities and Local Government every 3-4 years and are widely used, notably in funding allocations and targeting. The most recent update is the ID2015, released in September 2015 using data mostly from 2012/13. ID2015 is made up of seven domains of deprivation, although each domain is not given equal weighting. From these, an overall score of small area deprivation is calculated; these are then ranked from most deprived (1) to least deprived (32,844). It is important to note that the indices measure deprivation and not affluence (the least deprived area may not necessarily be the most affluent).
+The indices are published by the Department for Communities and Local Government every 3-4 years and are widely used, notably in funding allocations and targeting. The most recent update is the ID2019, released in October 2019. ID2019 is made up of seven domains of deprivation, although each domain is not given equal weighting. From these, an overall score of small area deprivation is calculated; these are then ranked from most deprived (1) to least deprived (32,844). It is important to note that the indices measure deprivation and not affluence (the least deprived area may not necessarily be the most affluent).
 
 Domains contributing[^1] to the overall Index of multiple deprivation:
 
@@ -27,21 +27,30 @@ Domains contributing[^1] to the overall Index of multiple deprivation:
 * Barriers to Housing and Services (9.3%)
 * Living Environment (9.3%)
 
-[^1]: The weights used to calculate how much each domain contributes to the overall score is included in brackets
+[^1]: The figures shown in brackets are weights for how much each domain contributes to the overall score.
 
-[Click here for the West Sussex 2015 IMD briefing.](/assets/core/Briefing-Indices-of-Deprivation-2015.pdf)
+[Click here for the West Sussex 2019 IMD briefing.](/assets/core/Briefing-West-Sussex-IMD-2019.pdf)
 
-Maps for each of the districts in West Sussex are available in the list below:
+### Map
 
+The map below summarises the 2019 IMD rankings for LSOAs in West Sussex. You can also toggle between the different subdomains.
+
+{% include htmlwidget_map html_path="/assets/maps/2019_imd_west_sussex/" %}
+
+<!--Maps for each of the districts in West Sussex are available in the list below:
 * [Adur IMD 2015 maps](/assets/pdf/maps/Adur-IMD-2015.pdf)
 * [Arun IMD 2015 maps](/assets/pdf/maps/Arun-IMD-2015.pdf)
 * [Chichester IMD 2015 maps](/assets/pdf/maps/Chichester-IMD-2015.pdf)
 * [Crawley IMD 2015 maps](/assets/pdf/maps/Crawley-IMD-2015.pdf)
 * [Horsham IMD 2015 maps](/assets/pdf/maps/Horsham-IMD-2015.pdf)
 * [Mid Sussex IMD 2015 maps](/assets/pdf/maps/Mid-Sussex-IMD-2015.pdf)
-* [Worthing IMD 2015 maps](/assets/pdf/maps/Worthing-IMD-2015.pdf)
+* [Worthing IMD 2015 maps](/assets/pdf/maps/Worthing-IMD-2015.pdf)-->
 
-### Indices of multiple deprivation at GP practice level
+### Indices of multiple deprivation at GP practice level (2019)
+
+This information will be updated in due course. 
+
+### Indices of multiple deprivation at GP practice level (2015)
 
 GP practices do not have established geographical boundaries (e.g. people residing in one area may be registered to GP practices outside of their local area and more than one GP practice may operate in a single area). However, using the January 2016 release of residential location of GP registered patients, it is possible to create a deprivation score for each GP practice ‘reach’.
 
@@ -55,7 +64,7 @@ The table below shows the number of practices in each deprivation decile for Wes
 
 | Deciles | NHS Crawley CCG | NHS Coastal West Sussex CCG | NHS Horsham and Mid Sussex CCG | All West Sussex GPs |
 |:---|---:|---:|---:|---:|---:|
-| 10% most deprived GP practices | 0 | 0 | 0 | 0 |
+| 10% most deprived GP practices (ID 2015) | 0 | 0 | 0 | 0 |
 | 2nd decile | 0 | 0 | 0 | 0 |
 | 3rd decile | 0 | 1 | 0 | 1 |
 | 4th decile | 1 | 1 | 0 | 2 |
