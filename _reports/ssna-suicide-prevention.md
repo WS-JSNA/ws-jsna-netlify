@@ -25,7 +25,7 @@ This needs assessment considers the risks, protective factors and drivers for se
 
 ## Downloads
 
-[West Sussex Self-harm Needs Assessment 2019 (PDF, 0.8Mb)](/assets/living-well/west-sussex-self-harm-needs-assessment-2019.pdf)
+[West Sussex Self-harm Needs Assessment 2019 (PDF, 0.85Mb)](/assets/living-well/ws-self-harm-na-final-2019.pdf)
 
 
 
