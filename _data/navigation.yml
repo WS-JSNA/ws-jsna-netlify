@@ -4,14 +4,12 @@ main:
     url: /updates/
   - title: "CCGs"
     url: /ccgs/
-  - title: "Accessibility"
-    url: /accessibility/
-  - title: "Contact"
-    url: /contact/
   - title: "About"
     url: /about/
-  - title: "HWB"
-    url: /partners/
+  - title: "Contact"
+    url: /contact/
+  - title: "Accessibility"
+    url: /accessibility/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
