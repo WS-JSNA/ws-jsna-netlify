@@ -1,8 +1,10 @@
 ---
 layout: single
-title: "About"
 permalink: "/about/"
 ---
+
+{% include figure image_path="/assets/images/HWBlogo.jpg" %}
+
 ## West Sussex Health and Wellbeing Board
 
 The Health and Wellbeing Board is a forum where key leaders from the health and care system across West Sussex work together to improve the health and wellbeing of the local population and reduce health inequalities.
