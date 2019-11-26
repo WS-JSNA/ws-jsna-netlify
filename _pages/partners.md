@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
 excerpt: "More information about the West Sussex Health and Wellbeing Board and its partners."
 ---
-{% include figure image_path="/assets/images/HWBlogo.jpg" %}
+{% include figure image_path="/assets/images/HWBlogo.jpg" alt="The Health and Wellbeing Board logo." %}
 
 ## West Sussex Health and Wellbeing Board
 
@@ -17,7 +17,7 @@ The Health and Wellbeing Board is a forum where key leaders from the health and 
 
 ## Board membership
 
-{% include figure image_path="/assets/images/HWBmembership.jpg" caption="Members of the West Sussex Health and Wellbeing Board" %}
+{% include figure image_path="/assets/images/HWBmembership.jpg" alt="An infographic of the seven members of the Health and Wellbeing board." caption="Members of the West Sussex Health and Wellbeing Board" %}
 
 Members of the West Sussex Health and Wellbeing Board include:
 
@@ -62,7 +62,7 @@ The JSNA is used by the Health and Wellbeing Board to develop the Joint Health a
 
 ## JSNA and JHWS process
 
-{% include figure image_path="/assets/images/HWBprocess.jpg" caption="Outline of the JSNA and joint health and wellbeing strategy process." %}
+{% include figure image_path="/assets/images/HWBprocess.jpg" alt="The process from the JSNA to improved health outcomes in residents." caption="Outline of the JSNA and joint health and wellbeing strategy process." %}
 
 ## Who are the Public Health and Social Research Unit?
 
