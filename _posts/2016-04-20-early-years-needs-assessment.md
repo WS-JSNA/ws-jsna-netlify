@@ -11,7 +11,7 @@ The West Sussex Public Health and Social Research Unit have reviewed local and n
 
 A full list of the recommendations from the report are presented in a summary infographic:
 
-{% include embedpdf file_path="/assets/starting-well/West-Sussex-Early-Years-Needs-Assessment-Infographics.pdf" width="700" height="525" %}
+{% include embedpdf file_path="/assets/starting-well/West-Sussex-Early-Years-Needs-Assessment-Infographics.pdf" alt="An infographic overview and recommendations from the Early Years Needs Assessment." width="700" height="525" %}
 
 This slide set is available to download here: [West Sussex Early Years Needs Assessment (2015) - Infographics](/assets/starting-well/West-Sussex-Early-Years-Needs-Assessment-Infographics.pdf) 
 
