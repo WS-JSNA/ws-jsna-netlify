@@ -2,8 +2,9 @@
 layout: single
 permalink: "/about/"
 ---
+# About 
 
-{% include figure image_path="/assets/images/HWBlogo.jpg" %}
+{% include figure image_path="/assets/images/HWBlogo.jpg" alt="The Health and Wellbeing Board logo." %}
 
 ## West Sussex Health and Wellbeing Board
 
@@ -11,7 +12,7 @@ The Health and Wellbeing Board is a forum where key leaders from the health and 
 
 ## Board membership
 
-{% include figure image_path="/assets/images/HWBmembership.jpg" caption="Members of the West Sussex Health and Wellbeing Board" %}
+{% include figure image_path="/assets/images/HWBmembership.jpg" alt="An infographic of the seven members of the Health and Wellbeing Board." caption="Members of the West Sussex Health and Wellbeing Board" %}
 
 Members of the West Sussex Health and Wellbeing Board include:
 
@@ -54,7 +55,7 @@ To build this comprehensive picture, the needs and assets of the local populatio
 
 The needs and inequalities identified in the JSNA are used by the Health and Wellbeing Board to inform the JHWS. This strategy outlines how these needs will be met and outlines a framework for the planning, commissioning and provision of services to improve outcomes for residents. 
 
-{% include figure image_path="/assets/images/HWBprocess.jpg" caption="Outline of the JSNA and joint health and wellbeing strategy process." %}
+{% include figure image_path="/assets/images/HWBprocess.jpg" alt="The process from the JSNA to improved health outcomes in residents." caption="Outline of the JSNA and joint health and wellbeing strategy process." %}
 
 ## Who produces the West Sussex JSNA?
 
@@ -90,7 +91,7 @@ Much of the West Sussex JSNA data has been sorted into a â€œLifecourse Approachâ
 + [Living and Working Well](/living-well/)
 + [Ageing Well](/ageing-well/)
 
-{% include figure image_path="/assets/images/lifecourse-transition-points-crop.png" caption="The Lifecourse Approach." %}
+{% include figure image_path="/assets/images/lifecourse-transition-points-crop.png" alt="The lifecourse approach to improving public health." caption="The Lifecourse Approach." %}
 
 Each of these sections provides reports, statistics and analyses on key indicators and issues in these broad groups. For example, data relating to the National Child Measurement Programme can be found in the Starting Well section. 
 
