@@ -28,7 +28,7 @@ Based on the evidence, the [Tobacco Control Needs Assessment](/assets/core/TCNA-
 
 The infographic summary below showcases the main facts and key actions identified in the Needs Assessment.
 
-{% include embedpdf file_path="/assets/core/TCNA-Briefing-Infographic-WSx-final.pdf" width="650" height="525" %}
+{% include embedpdf file_path="/assets/core/TCNA-Briefing-Infographic-WSx-final.pdf" width="650" height="525" alt="An infographic summary of the main facts and key actions identified in the needs assessment." %}
 
 ### Downloads
 
