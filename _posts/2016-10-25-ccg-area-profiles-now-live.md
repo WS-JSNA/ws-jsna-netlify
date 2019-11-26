@@ -15,4 +15,4 @@ These profiles are a powerful tool to examine variations in the health and wellb
 
 The 2015/16 profiles have been redesigned to help users access information as quickly as possible on the web. [You can view the West Sussex CCG pages here](/ccgs/) or use the links above.
 
-{% include figure image_path="/assets/images/ccg-profiles/CCG-boundaries-and-localities-mix-colours-1024x725.jpg" class="full" %}
+{% include figure image_path="/assets/images/ccg-profiles/CCG-boundaries-and-localities-mix-colours-1024x725.jpg" alt="The Coastal West Sussex CCG covers the Chichester, Chanctonbury, Regis, Littlehampton, Worthing, and Adur localities. The Horsham and Mid Sussex CCG covers the Horsham, Haywards Heath, East Grinsted and Burgess Hill localities. The Crawley CCG covers the Crawley locality." class="full" %}
