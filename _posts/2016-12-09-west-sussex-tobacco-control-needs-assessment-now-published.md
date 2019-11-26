@@ -21,7 +21,7 @@ The West Sussex Public Health and Social Research Unit have reviewed local and n
 
 The infographic summary below showcases the main facts and key actions identified in the Needs Assessment.
 
-{% include embedpdf file_path="/assets/core/TCNA-Briefing-Infographic-WSx-final.pdf" width="650" height="525" %}
+{% include embedpdf file_path="/assets/core/TCNA-Briefing-Infographic-WSx-final.pdf" alt="An infographic overview of the main facts and key actions identified in the tobacco control needs assessment." width="650" height="525" %}
 
 ### Downloads
 
