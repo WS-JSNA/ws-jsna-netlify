@@ -19,4 +19,4 @@ The West Sussex Public Health and Social Research Unit have completed a [data br
 
 + Within local authorities, the prevalence of overweight and obesity is varied. For both school years, there was no significant change in the percentage of overweight/obese children for any one local authority within West Sussex compared to the previous year.
 
-{% include embedpdf file_path="/assets/core/Final-Data-Briefing-1516-National-Child-Measurement-Programme.pdf" width="650" height="525" %}
+{% include embedpdf file_path="/assets/core/Final-Data-Briefing-1516-National-Child-Measurement-Programme.pdf" alt="The NCMP 2015/16 data briefing can be downloaded using the in-text link." width="650" height="525" %}
