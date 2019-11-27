@@ -29,7 +29,7 @@ The West Sussex Public Health and Social Research Unit have completed a data bri
 
 ## Slide set of infographics
 
-{% include embedpdf file_path="/assets/starting-well/NCMP Slide Set for website 1718.pdf" width="700" height="525" %}
+{% include embedpdf file_path="/assets/starting-well/NCMP Slide Set for website 1718.pdf" alt="You can download a summary slide set of the 2017 to 2018 West Sussex NCMP using the link below." width="700" height="525" %}
 
 ## Downloads
 
