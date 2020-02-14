@@ -35,7 +35,7 @@ To support this programme, the Public Health and Social Research Unit have produ
 [Mid Sussex](/assets/starting-well/H4F-2019-MidSussex-CYP-Local-Health-Profile.pdf)
 {% endcapture %}
 
-<div class="notice-info">{{ notice | markdownify }}</div>
+<div class="notice--info">{{ notice | markdownify }}</div>
 
 In previous years, the Public Health and Social Research Unit have also produced a Child Health Profile. This profile is an interactive dashboard that summarises a wide range of data including demographics (e.g. population estimates, births), deprivation (e.g. index of multiple deprivation), health and wellbeing (e.g. hospital admissions, obesity) and education (e.g. absence and exclusion, Early Years Foundation stage). The most recent version of the profile (2018) is available to download below.
 
