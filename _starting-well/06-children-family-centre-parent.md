@@ -15,14 +15,29 @@ excerpt: "The Child Health Profiles summarise the health and wellbeing of the ch
 downloads: ["CFC18", "CFC17", "CFC16", "CFC15", "CFC14"]
 ---
 
-The Public Health and Social Research Unit have updated the West Sussex Child Health Profile. 
+The Health4Families Programme (H4FP) is an evidence-based framework that supports the integrated children’s workforce (e.g. professionals working in health services, early years, and the private and voluntary sectors) to improve the health outcomes of children and families in West Sussex.  
 
-The profile is an interactive dashboard that summarises a wide range of data including demographics (e.g. population estimates, births), deprivation (e.g. index of multiple deprivation), health and wellbeing (e.g. hospital admissions, obesity) and education (e.g. absence and exclusion, Early Years Foundation stage).
+To support this programme, the Public Health and Social Research Unit have produced data summaries to describe the health and wellbeing of children in each Early Help area in West Sussex. The 2019 summaries bring together data relating to the 14 priority topics of the Health4Families Programme and provide links to relevant local and national data and resources. 
 
-The profile presents a wealth of data at the geographical area of the user’s choice (such as Children and Family Centre boundaries, Education Localities, Integrated Prevention and Earliest Help (IPEH) hubs, district and boroughs etc.).
+{% capture notice %}
+## H4FP Early Help Area Local Health Profiles 
 
-The newest Child Health Profile **supersedes** those for previous years and former Children and Family Centre Profiles. All previous versions can be downloaded below.
+[Adur and Worthing report](/assets/starting-well/H4F-2019-Adur-and-Worthing-CYP-Local-Health-Profile.pdf)
 
-{% include embedpdf file_path="/assets/starting-well/Child-Health-Profile-2018-Summary.pdf" alt="The West Sussex Child Health Profile presents data in five themes: population, deprivation, births, health and wellbeing, and education, attainment and work." width="700" height="550" %}
+[Arun report](/assets/starting-well/H4F-2019-Arun-CYP-Local-Health-Profile.pdf)
+
+[Chichester report](/assets/starting-well/H4F-2019-Chichester-CYP-Local-Health-Profile.pdf)
+
+[Crawley report](/assets/starting-well/H4F-2019-Crawley-CYP-Local-Health-Profile.pdf)
+
+[Horsham](/assets/starting-well/H4F-2019-Horsham-CYP-Local-Health-Profile.pdf)
+
+[Mid Sussex](/assets/starting-well/H4F-2019-MidSussex-CYP-Local-Health-Profile.pdf)
+{% endcapture %}
+
+<div class="notice-info">{{ notice | markdownify }}</div>
+
+In previous years, the Public Health and Social Research Unit have also produced a Child Health Profile. This profile is an interactive dashboard that summarises a wide range of data including demographics (e.g. population estimates, births), deprivation (e.g. index of multiple deprivation), health and wellbeing (e.g. hospital admissions, obesity) and education (e.g. absence and exclusion, Early Years Foundation stage). The most recent version of the profile (2018) is available to download below.
+
 
 {% include downloads_from_db ids=page.downloads %}
