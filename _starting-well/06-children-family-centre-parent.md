@@ -30,9 +30,9 @@ To support this programme, the Public Health and Social Research Unit have produ
 
 [Crawley report](/assets/starting-well/H4F-2019-Crawley-CYP-Local-Health-Profile.pdf)
 
-[Horsham](/assets/starting-well/H4F-2019-Horsham-CYP-Local-Health-Profile.pdf)
+[Horsham report](/assets/starting-well/H4F-2019-Horsham-CYP-Local-Health-Profile.pdf)
 
-[Mid Sussex](/assets/starting-well/H4F-2019-MidSussex-CYP-Local-Health-Profile.pdf)
+[Mid Sussex report](/assets/starting-well/H4F-2019-MidSussex-CYP-Local-Health-Profile.pdf)
 {% endcapture %}
 
 <div class="notice--info">{{ notice | markdownify }}</div>
