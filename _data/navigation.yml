@@ -141,6 +141,8 @@ reports:
         url: "/reports/subject-specific-needs-assessments/falls-prevention/"
       - title: Gypsies and Travellers
         url: "/reports/subject-specific-needs-assessments/gypsies-and-travellers/"
+      - title: Homelessness
+        url: "/reports/subject-specific-needs-assessments/homelessness/"
       - title: Lifelong Disabilities
         url: "/reports/subject-specific-needs-assessments/lifelong-disabilities/"
       - title: Military Veterans' Health
