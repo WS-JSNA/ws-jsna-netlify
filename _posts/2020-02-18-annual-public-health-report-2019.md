@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "West Sussex Annual Public Health Report"
+title: "West Sussex Annual Public Health Report 2019"
 date: 2020-02-18
 header:
   overlay_color: "#1976d2"
