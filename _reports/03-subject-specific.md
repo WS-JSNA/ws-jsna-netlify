@@ -33,7 +33,7 @@ Below, you’ll find pages housing all our recent subject specific needs assessm
 + [Pharmaceutical Needs Assessment (PNA)](/reports/subject-specific-needs-assessments/pharmaceutical-needs-assessment-pna/)
 + [Self-Harm and Suicide Prevention](/reports/subject-specific-needs-assessments/suicide-prevention/)
 + [Sexual Health](/reports/subject-specific-needs-assessments/sexual-health/)
-+ [Substance Abuse (including Dual Diagnosis)](/reports/subject-specific-needs-assessments/substance-abuse/)
++ [Substance Misuse (including Dual Diagnosis)](/reports/subject-specific-needs-assessments/substance-abuse/)
 + [Tobacco Control](/reports/subject-specific-needs-assessments/tobacco-control-needs-assessment/)
 
 {% include downloads_from_db %}
