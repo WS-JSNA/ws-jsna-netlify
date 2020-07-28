@@ -1,14 +1,14 @@
 ---
 layout: single 
-title: Substance Abuse and Mental Health
+title: Substance Misuse and Mental Health
 date: 2019-09-26
 header:
   overlay_color: "#038cd0"
   overlay_filter: 0.5
-permalink: /reports/subject-specific-needs-assessments/substance-abuse/
+permalink: /reports/subject-specific-needs-assessments/substance-misuse/
 sidebar:
   nav: "reports"
-excerpt: "Examining the needs of those who abuse harmful substances in West Sussex."
+excerpt: "Examining the needs of those who misuse harmful substances in West Sussex."
 toc: true 
 
 ---
@@ -25,7 +25,7 @@ Geographic areas have been identified as more concentrated areas of drug misuse 
 
 + [West Sussex Drug Related Deaths Audit 2019 (PDF, 1Mb)](/assets/living-well/west-sussex-drug-related-deaths-audit-2019.pdf)
 
-+ [Drug-relate deaths infographic poster](/assets/core/cwa-posters/drug-related-deaths-poster-october-2019.pdf)
++ [Drug-related deaths infographic poster](/assets/core/cwa-posters/drug-related-deaths-poster-october-2019.pdf)
 
 {% include embedpdf file_path="/assets/core/cwa-posters/drug-related-deaths-poster-october-2019.pdf" width="593" height="840" alt="An infographic poster showing the work of the drug-related deaths audit." caption="Source: PHSRU." class="full" %}
 
