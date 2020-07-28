@@ -19,5 +19,5 @@ Geographic areas have been identified as more concentrated areas of drug misuse 
 
 + [West Sussex Drug Related Deaths Audit 2019 (PDF, 1Mb)](/assets/living-well/west-sussex-drug-related-deaths-audit-2019.pdf)
 
-For other documents related to substance abuse and how it links to mental health, please visit our [substance abuse-related needs assessments page](/reports/subject-specific-needs-assessments/substance-abuse/).
+For other documents related to substance misuse and how it links to mental health, please visit our [substance misuse-related needs assessments page](/reports/subject-specific-needs-assessments/substance-misuse/).
 
