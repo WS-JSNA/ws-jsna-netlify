@@ -17,9 +17,10 @@ Moreover, the population of older adults is projected to increase nationally and
 
 Over the next 25 years, the number of adults aged 65+ admitted to hospital due to a fall is projected to nearly double, rising from 3,940 admissions in 2014 to 7,330 in 2039.
 
-The information for ageing well is presented under two headings: Population and service data – later life and Physical and mental health and wellbeing in later life.
+The information for ageing well is presented under several headings (which will increase as we update the website with more topic-specific pages over time). These are: 
 
 * [Population and service data – later life](/ageing-well/population-data/)
 * [Physical and mental health and wellbeing in later life](/ageing-well/physical-mental-health-later-life/)
+* [Dementia](/ageing-well/dementia/)
 
 {% include wip_notice %}
