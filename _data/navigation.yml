@@ -65,6 +65,8 @@ topics:
         url: "/ageing-well/population-data/"
       - title: "Physical and Mental Health in Later Life"
         url: "/ageing-well/physical-mental-health-later-life/"
+      - title: "Dementia"
+        url: "/ageing-well/dementia/"
 
 starting:
   - title: Starting and Developing Well
@@ -118,6 +120,8 @@ ageing:
         url: "/ageing-well/population-data/"
       - title: "Physical and Mental Health in Later Life"
         url: "/ageing-well/physical-mental-health-later-life/"
+      - title: "Dementia"
+        url: "/ageing-well/dementia/"        
 
 reports:
   - title: "Reports"
