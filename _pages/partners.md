@@ -76,4 +76,10 @@ More information about [Healthwatch West Sussex](http://www.healthwatchwestsusse
 
 More information about West Sussex County Council's Research Governance Process.
 
+## Downloads
+
+[Health and Wellbeing Board Newsletter (Summer 2020)](https://content.govdelivery.com/accounts/UKWSCC/bulletins/29225f5)
+
+[Health and Wellbeing Board Newsletter (Winter 2019)](/assets/core/hwb-newsletter-christmas-edition-2019.pdf)
+
 {% include wip_notice %}
