@@ -1,10 +1,8 @@
 ---
 layout: single
-title: Accessibility 
+title: Accessibility statement for the West Sussex Joint Strategic Needs Assessment (JSNA) website. 
 permalink: "/Accessibility/"
 ---
-
-# Accessibility statement for the West Sussex Joint Strategic Needs Assessment (JSNA) website. 
 
 This website is maintained by the West Sussex County Council Public Health and Social Research Unit. 
 
