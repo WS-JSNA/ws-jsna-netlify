@@ -13,6 +13,18 @@ toc: true
 
 ---
 
+# Substance Misuse Needs Assessment (2021)
+
+The misuse (or excessive use) of drugs and alcohol have been linked to a range of negative impacts for individuals, families and communities, including early death, long term health conditions, reduced quality of life and economic opportunities, and increased social issues, including homelessness, violence and exploitation, which require interventions from state and community-level service provision. National guidance and government policies outline potential actions for improving outcomes related to substance misuse. A necessary component for such action is a local-level examination of the facts, in the form of this health needs assessment. 
+
+This report is a part of the Joint Strategic Needs Assessment for West Sussex, so contains information for system-wide plans, including CCG commissioners, partnership leads, and all those concerned with drug and alcohol use, community safeguarding, population health, policing and adults' and children’s social care. Its purpose is to provide an up-to-date summary of substance misuse issues in West Sussex, including figures on vulnerable populations and health-outcomes, particularly pertaining to wider social determinants and other drivers of poor health seen in the literature, and has been requested by local substance misuse commissioners to support decisions taken in the planning, commissioning, and provision of services.
+
+## Downloads
+
++ [West Sussex Substance Misuse Needs Assessment (PDF, 2MB)](/assets/living-well/west-sussex-substance-misuse-needs-assessment-2021.pdf)
+
++ [West Sussex Substance Misuse Needs Assessment Executive Summary (PDF, 0.2MB)](/assets/living-well/west-sussex-substance-misuse-needs-assessment-2021-executive-summary.pdf)
+
 # Drug Related Deaths Audit (2019)
 
 Deaths from drug poisoning affect a wide spectrum of residents in West Sussex. Whilst younger men account for a larger proportion, deaths are not attributable to a single cohort or demographic and as such, efforts to reduce early death require attention in many different areas. 
@@ -23,7 +35,7 @@ Geographic areas have been identified as more concentrated areas of drug misuse 
 
 ## Downloads 
 
-+ [West Sussex Drug Related Deaths Audit 2019 (PDF, 1Mb)](/assets/living-well/west-sussex-drug-related-deaths-audit-2019.pdf)
++ [West Sussex Drug Related Deaths Audit 2019 (PDF, 1MB)](/assets/living-well/west-sussex-drug-related-deaths-audit-2019.pdf)
 
 + [Drug-related deaths infographic poster](/assets/core/cwa-posters/drug-related-deaths-poster-october-2019.pdf)
 
@@ -52,8 +64,8 @@ The report noted the need for:
 
 ## Downloads
 
-+ [West Sussex Drugs and Alcohol Needs Assessment 2014 (PDF, 4.1Mb)](/assets/living-well/west_sussex_alcohol_and_drugs_needs_assessment___final_report.pdf)
-+ [West Sussex Drugs and Alcohol Needs Assessment 2014 Summary (PDF, 0.5Mb)](/assets/living-well/west_sussex_alcohol_and_drugs_needs_assessment_summary.pdf)
++ [West Sussex Drugs and Alcohol Needs Assessment 2014 (PDF, 4.1MB)](/assets/living-well/west_sussex_alcohol_and_drugs_needs_assessment___final_report.pdf)
++ [West Sussex Drugs and Alcohol Needs Assessment 2014 Summary (PDF, 0.5MB)](/assets/living-well/west_sussex_alcohol_and_drugs_needs_assessment_summary.pdf)
 + [Alcohol licensing in West Sussex infographic poster](/assets/core/cwa-posters/alcohol-licensing-poster-october-2019.pdf)
 
 {% include embedpdf file_path="/assets/core/cwa-posters/alcohol-licensing-poster-october-2019.pdf" width="593" height="840" alt="An infographic poster showing the public health approach to alcohol licensing." caption="Source: PHSRU." class="full" %}
@@ -70,4 +82,4 @@ The 2014 Dual Diagnosis needs assessment builds on the 2014 West Sussex Drug and
 
 ## Downloads
 
-+ [West Sussex Dual Diagnosis Needs Assessment 2014 (PDF, 3Mb)](/assets/living-well/dual_diagnosis_needs_assessment.pdf)
++ [West Sussex Dual Diagnosis Needs Assessment 2014 (PDF, 3MB)](/assets/living-well/dual_diagnosis_needs_assessment.pdf)
