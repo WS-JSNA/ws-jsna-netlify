@@ -43,17 +43,17 @@ This website is designed to be viewable on all devices, using a “mobile first�
 
 We know some parts of this website are not fully accessible:
 + some older PDF documents are not fully accessible to screen reader software
-+ some PDF documents are produced using a programme that makes them inaccessible to screen reader software
++ some PDF documents are produced using a programme that makes them inaccessible to screen reader software.
 
 ## What to do if you can't access parts of this website 
 
-If you need information on this website in a different format, like accessible PDF, large print, easy read, audio recording or braille, [email ACDJSNA “at” westsussex.gov.uk](mailto:JSNA_at@westsussex.gov.uk).
+If you need information on this website in a different format, like accessible PDF, large print, easy read, audio recording or braille, email ACDJSNA “at” westsussex.gov.uk.
 
-We’ll consider your request and get back to you within 10 working days.
+We will consider your request and get back to you within 10 working days.
 
 ## Reporting accessibility problems with this website 
 
-We are always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, [email ACDJSNA “at” westsussex.gov.uk](mailto:JSNA_at@westsussex.gov.uk).
+We are always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, email ACDJSNA “at” westsussex.gov.uk.
 
 ## Enforcement procedure 
 
@@ -90,7 +90,7 @@ Any new PDFs or office file formats we publish will meet accessibility standards
 
 ### Maps
 
-The accessibility regulations [do not require us to fix maps that are not supplied for the purpose of navigation](https://www.legislation.gov.uk/uksi/2018/852/made). Maps for displaying data are not currently accessible but we will provide accessible alternatives when technology allows. In the meantime, please [contact us if you require assistance with our data maps](mailto:JSNA_at@westsussex.gov.uk).
+The accessibility regulations [do not require us to fix maps that are not supplied for the purpose of navigation](https://www.legislation.gov.uk/uksi/2018/852/made). Maps for displaying data are not currently accessible but we will provide accessible alternatives when technology allows. In the meantime, please contact us if you require assistance with our data maps.
 
 # Preparation of this accessibility statement
 
