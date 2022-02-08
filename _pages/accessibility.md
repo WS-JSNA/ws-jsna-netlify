@@ -94,4 +94,4 @@ The accessibility regulations [do not require us to fix maps that are not suppli
 
 # Preparation of this accessibility statement
 
-This statement was prepared on 23rd September 2019. It was last reviewed on 5th October 2020.
+This statement was prepared on 23rd September 2019. It was last reviewed on 8th February 2022.
