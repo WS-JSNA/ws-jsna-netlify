@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Needs Assessment - Visual Impairment in Adults
-date: 2015-09-11 10:21:20.000000000 +01:00
+date: 2022-06-23
 category: guidance
 permalink: /updates/visual-impairment-in-adults-needs-assessment/
 ---
