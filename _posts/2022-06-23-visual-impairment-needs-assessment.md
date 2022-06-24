@@ -20,9 +20,16 @@ Sight loss and hearing loss are strongly associated with age. As the population 
 
 In addition to age, we know that some groups have a higher risk of sight loss, including smokers, some ethnic groups, and people with a learning disability, and that there are links to other conditions such as stroke, diabetes and dementia.
 
-There are four main eye conditions: age-macular degeneration (AMD), glaucoma, cataracts, and diabetic eye disease. We know that many people in the community would benefit and avoid sight loss by early diagnosis and timely treatment. Some eye conditions. such as glaucoma, are asymptomatic in early stage. This means that regular eye tests are vital and should be widely promoted.
+There are four main eye conditions:
 
-Once a sight loss diagnosis has been made, considerable support is required. The UK Adult Sight Loss Pathway1 outlines the variety or organisations and sectors who can support someone to adjust, practically and emotionally. It is important that sight impairment is considered in all aspects o health and wellbeing, including support to remain physically fit, access to all health care, community services and facilities, and adaptations to maintain independence and employment for working age adults.
+* age-macular degeneration (AMD)
+* glaucoma
+* cataracts
+* diabetic eye disease
+ 
+We know that many people in the community would benefit and avoid sight loss by early diagnosis and timely treatment. Some eye conditions such as glaucoma, are asymptomatic in early stage. This means that regular eye tests are vital and should be widely promoted.
+
+Once a sight loss diagnosis has been made, considerable support is required. The UK Adult Sight Loss Pathway outlines the variety or organisations and sectors who can support someone to adjust, practically and emotionally. It is important that sight impairment is considered in all aspects of health and wellbeing, including support to remain physically fit, access to all health care, community services and facilities, and adaptations to maintain independence and employment for working age adults.
 
 ### Downloads
 
