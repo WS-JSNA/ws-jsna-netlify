@@ -6,11 +6,11 @@ category: guidance
 permalink: /updates/visual-impairment-in-adults-needs-assessment/
 ---
 
-This is a summary of the sight loss pathway and the provision of low vision services.
+This needs assessment is a summary of the sight loss pathway and the provision of low vision services.
 
-This is centred on the non-clinical aspects of provision; acute and specialist services are currently (2021) subject to a review by SHCP.
+It is centred on the non-clinical aspects of provision; acute and specialist services are currently (2021) subject to a review by Sussex Health and Care Partnership (SHCP).
 
-It is important that all elements within a care pathway, whether relating to a person's clinical or social needs are viewed together to ensure the range of needs and concerns are addressed. To this end an initial discussion has taken place with NHS commissioners.
+It is important that all elements within a care pathway, whether relating to a person's clinical or social needs, are viewed together to ensure the range of needs and concerns are addressed. To this end, an initial discussion has taken place with NHS commissioners.
 
 ### Executive Summary
 
@@ -27,11 +27,11 @@ There are four main eye conditions:
 * cataracts
 * diabetic eye disease
  
-We know that many people in the community would benefit and avoid sight loss by early diagnosis and timely treatment. Some eye conditions such as glaucoma, are asymptomatic in early stage. This means that regular eye tests are vital and should be widely promoted.
+We know that many people in the community would benefit and avoid sight loss by early diagnosis and timely treatment. Some eye conditions such as glaucoma, are asymptomatic in early stages. This means that regular eye tests are vital and should be widely promoted.
 
 Once a sight loss diagnosis has been made, considerable support is required. The UK Adult Sight Loss Pathway outlines the variety or organisations and sectors who can support someone to adjust, practically and emotionally. It is important that sight impairment is considered in all aspects of health and wellbeing, including support to remain physically fit, access to all health care, community services and facilities, and adaptations to maintain independence and employment for working age adults.
 
 ### Downloads
 
-* [Executive Summary (PDF, 196KB)](/assets/EXEC%20SUMMARY%20Visual%20Impairment%20(Adults)%20West%20Sussex%20PHSRU%20FINAL%20ACCESSIBILITY%20CHECKED.pdf)
-* [Main report (PDF, 7MB)](/assets/Visual%20Impairment%20(Adults)%20West%20Sussex%20PHSRU%20FINAL%20DRAFT%20-%20Accessible%20Checked.pdf)
+* [West Sussex Visual Impairment (Adults) Needs Assessment - Executive Summary (PDF, 196KB)](/assets/EXEC%20SUMMARY%20Visual%20Impairment%20(Adults)%20West%20Sussex%20PHSRU%20FINAL%20ACCESSIBILITY%20CHECKED.pdf)
+* [West Sussex Visual Impairment (Adults) Needs Assessment (PDF, 7MB)](/assets/Visual%20Impairment%20(Adults)%20West%20Sussex%20PHSRU%20FINAL%20DRAFT%20-%20Accessible%20Checked.pdf)
