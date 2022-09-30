@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Supporting Children and Young People of Alcohol Dependent Parents/Carers - Local Evaluation 2022
+title: 2022 West Sussex Pharmaceutical Needs Assessment (PNA) now published
 date: 2022-09-30
 category: needs assessment, PNA
 permalink: /updates/West-Sussex-PNA-2022/
