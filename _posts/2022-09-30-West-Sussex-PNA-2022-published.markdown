@@ -2,7 +2,7 @@
 layout: single
 title: 2022 West Sussex Pharmaceutical Needs Assessment (PNA) now published
 date: 2022-09-30
-category: needs assessment, PNA
+category: ["needs assessment","PNA"]
 permalink: /updates/West-Sussex-PNA-2022/
 ---
 
