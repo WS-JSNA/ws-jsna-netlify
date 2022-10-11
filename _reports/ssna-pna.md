@@ -21,7 +21,7 @@ The PNA concluded that current services are adequate to meet pharmaceutical need
 
 The 2022 PNA consists of the following documents:
 
-* [West Sussex PNA 2022 – Full report (PDF, 7MB)](/assets/pdf/West%20Sussex%20PNA%202022%2029.09.22.pdf)
+* [West Sussex PNA 2022 – Full report (PDF, 7MB)](/assets/pdf/West_Sussex_PNA_2022.pdf)
 * [West Sussex PNA 2022 – Appendix H: Equalities Assessment (PDF, 262KB)](/assets/pdf/WEST%20SUSSEX%20PNA%202022%20-%20APPENDIX%20H%20Equalities%20Assessment%2028.9.22.pdf)
 * [West Sussex PNA 2022 – Appendix I: Consultation Report (PDF, 260KB)](/assets/pdf/West%20Sussex%20PNA%202022%20CONSULTATION%20REPORT%20-%20Appendix%20I%2028.09.2022.pdf)
 
