@@ -23,12 +23,14 @@ To provide a clear picture of population-level health, care and wellbeing, we ha
 You can download the most recent comprehensive JSNA Summary report and Voice Summary below, alongside infographics describing the populations of each of the seven districts and boroughs in West Sussex and the health challenges they face.
 
 ## Downloads 
+[West Sussex JSNA Summary 2021/22 (PDF, 5.65Mb)](/assets/pdf/west_sussex_jsna_summary_2122.pdf)
 
+### Archive
 [West Sussex JSNA Summary 2019 (PDF, 9.65Mb)](/assets/core/west-sussex-jsna-summary-2019.pdf)
-
+[West Sussex JSNA Summary 2018 (PDF, 3.3Mb)](/assets/core/west-sussex-jsna-summary-2018.pdf)
 [West Sussex JSNA Voice Summary 2018 (PDF, 0.5Mb)](/assets/core/west-sussex-jsna-voice-summary-2018.pdf)
 
-### People and challenges infographics
+### People and challenges infographics (2019 versions)
 
 * [Adur People and Challenges infographic, April 2019 (PDF, 2 pages)](/assets/core/Adur-People-and-Challenges-JSNA-April-2019.pdf)
 * [Arun People and Challenges infographic, April 2019 (PDF, 2 pages)](/assets/core/Arun-People-and-Challenges-JSNA-April-2019.pdf)
@@ -37,10 +39,5 @@ You can download the most recent comprehensive JSNA Summary report and Voice Sum
 * [Horsham People and Challenges infographic, April 2019 (PDF, 2 pages)](/assets/core/Horsham-People-and-Challenges-JSNA-April-2019.pdf)
 * [Mid Sussex People and Challenges infographic, April 2019 (PDF, 2 pages)](/assets/core/Mid-Sussex-People-and-Challenges-JSNA-April-2019.pdf)
 * [Worthing People and Challenges infographic, April 2019 (PDF, 2 pages)](/assets/core/Worthing-People-and-Challenges-JSNA-April-2019.pdf)
-
-### Archive
-
-[West Sussex JSNA Summary 2018 (PDF, 3.3Mb)](/assets/core/west-sussex-jsna-summary-2018.pdf)
-
 
 {% include wip_notice %}
