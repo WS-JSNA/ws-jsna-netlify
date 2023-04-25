@@ -1,0 +1,72 @@
+I"V<p>Crawley Clinical Commissioning Group (CCG) is responsible for the health and wellbeing of approximately 110,000 residents living within the town and borough of Crawley. Crawley is located to the North East of the West Sussex county and borders neighbouring Surrey. Crawley is also in close proximity to Gatwick airport, which provides a main source of employment for local residents. The table and map below show the geographical locations of individual GP surgeries within Crawley CCG.</p>
+
+<p>The information in this profile is summarised to a small geography (e.g. lower super output area (LSOA), or GP practice) where possible. Data for the entirety of Crawley is presented where information at smaller geographies are not available.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Practice Name</th>
+      <th style="text-align: center">Practice Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Bewbush Medical Centre</td>
+      <td style="text-align: center">H82088</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Bridge Medical Centre</td>
+      <td style="text-align: center">H82047</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Coachmans Medical Practice</td>
+      <td style="text-align: center">H82098</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Furnace Green Surgery</td>
+      <td style="text-align: center">H82053</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Gossops Green Medical Ctr</td>
+      <td style="text-align: center">H82033</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Ifield Medical Practice</td>
+      <td style="text-align: center">H82050</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Langley Corner Surgery</td>
+      <td style="text-align: center">Y00351</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Leacroft Medical Practice</td>
+      <td style="text-align: center">H82012</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Pound Hill Medical Group</td>
+      <td style="text-align: center">H82052</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Saxonbrook Medical Centre</td>
+      <td style="text-align: center">H82026</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Southgate Medical Group</td>
+      <td style="text-align: center">H82064</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Woodlands&amp;clerklands Partnership</td>
+      <td style="text-align: center">H82025</td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="notice--primary">GP surgeries are often subject to changes in operation/management structure. Whilst these pages are reviewed regularly, recent changes in structure may not be reflected immediately in the maps and tables.</p>
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+  <iframe src="/assets/htmlwidgets/Crawley_GPs_Oct16.html" frameborder="0"></iframe>
+</div>
+<figcaption><p>If you cannot see the map, <a href="/assets/htmlwidgets/Crawley_GPs_Oct16.html">please click on this link</a> and use the back button of your browser to return to this page.</p>
+</figcaption>
+:ET

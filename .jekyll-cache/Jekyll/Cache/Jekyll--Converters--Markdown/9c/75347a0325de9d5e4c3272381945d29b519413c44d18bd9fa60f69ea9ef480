@@ -1,0 +1,32 @@
+I"h<p>This briefing details the information published by the Department of Communities and Local
+Government (DCLG). The Indices of Deprivation 2019 (ID2019) updates the 2015 indices.</p>
+
+<p>The ID2019 measures relative deprivation, i.e. how deprived one area is compared with another; it
+doesn’t measure absolute deprivation, i.e. how deprived an area is compared with how deprived it was
+a year ago.</p>
+
+<p>The overarching methodology for the IMD remains, with the seven domains of deprivation unchanged: -
+income, employment, education, health, crime, barriers to housing and services, and living
+environment.</p>
+
+<p>While the methodology for most of the domains has remained the same, some minor changes have
+been made to the Income domain due to the move towards Universal Credit.</p>
+
+<p>For each domain there is an individual score and ranking, information from the domains are weighted
+and combined to provide an overall score and ranking.</p>
+
+<h3 id="map">Map</h3>
+
+<p>The map below summarises the 2019 IMD rankings for LSOAs in West Sussex. You can also toggle between the different subdomains.</p>
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+  <iframe src="/assets/maps/2019_imd_west_sussex/" frameborder="0"></iframe>
+</div>
+<figcaption><p>If you cannot see the map, <a href="/assets/maps/2019_imd_west_sussex/">please click on this link</a> and use the back button of your browser to return to this page.</p>
+</figcaption>
+
+<h3 id="downloads">Downloads</h3>
+
+<p><a href="/assets/core/Briefing-West-Sussex-IMD-2019.pdf">Indices of Deprivation 2019, West Sussex (PDF, 526Kb)</a>.</p>
+:ET

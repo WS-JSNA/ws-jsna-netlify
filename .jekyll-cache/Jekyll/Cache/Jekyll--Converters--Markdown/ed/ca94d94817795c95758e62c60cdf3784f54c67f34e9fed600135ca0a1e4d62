@@ -1,0 +1,13 @@
+I"Û
+<h4 id="MRT08">Mortality for all circulatory diseases (direct standardised rates) 1993 - 2008</h4>
+<p><small>Date added: 03/03/2011</small></p>
+<p>Directly age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.</p>
+
+<p>This is a way of controlling for biases in age structure between different populations.</p>
+
+<p>Circulatory diseases are defined as those with an ICD-10 code of I00 -I99, for more information see http://www.nchod.nhs.uk</p>
+
+<p>This spreadsheet contains a 15 year trend and the ability to compare between local authorities.</p>
+
+<p><i class="fas fa-file-excel" aria-hidden="true"></i> <a href="/assets/core/mortality_all_circulatory_diseases_dsr_1993_to_2008.xls" title="Mortality for all circulatory diseases (direct standardised rates) 1993 - 2008">Mortality for all circulatory diseases (direct standardised rates) 1993 - 2008, Excel Spreadsheet.</a></p>
+:ET

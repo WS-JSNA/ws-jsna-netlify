@@ -1,0 +1,90 @@
+I"ý<p>In England, in 2014, around 10% of all households (2.4 million households) were estimated to be in fuel poverty. In West Sussex, the percentage of fuel poor households was estimated to be 7.7% (27,400 fuel poor households).</p>
+
+<p>Fuel poverty in England is measured using an indicator called Low Income High Costs. This accounts for the fact that fuel poverty is distinct from what we might consider to be poverty more generally. Not all poor households will be fuel poor, and some households that would not be considered poor, can be pushed into fuel poverty if energy costs are too high.</p>
+
+<p>Under the Low Income High Cost indicator, a household is considered to be fuel poor if:</p>
+
+<ul>
+  <li>The household requires fuel costs that are above average (the national median level)</li>
+  <li>Were the household to spend that amount, they would be left with a residual income below the official poverty line.</li>
+</ul>
+
+<p>There are three key elements in determining whether a household is fuel poor:</p>
+
+<ol>
+  <li>Household Income</li>
+  <li>Household Energy Requirements</li>
+  <li>Fuel Prices</li>
+</ol>
+
+<p>The Department for Business, Energy &amp; Industrial Strategy also publishes <a href="https://www.gov.uk/government/collections/fuel-poverty-statistics">annual statistics on the number and proportion of households that are fuel poor</a> in local authorities, lower super outputs areas (LSOA), parliamentary constituencies, counties and regions. The sub-regional statistics aim to complement these National Statistics, by estimating the proportion of fuel poor households at smaller geographical areas, for example Lower Super Output Area (LSOA).</p>
+
+<p>The sub-regional fuel poverty analyses are based on national data drawn from the English Housing Survey (EHS). To convert these analyses to numbers of fuel poor households, the percentage is applied to an estimate of household totals using the 2011 Census which are benchmarked to the national fuel poverty figures. For full details on the <a href="https://www.gov.uk/government/publications/fuel-poverty-statistics-methodology-handbook">methodology used to calculate the estimates please go to the Department for Business, Energy &amp; Industrial Strategy documentation</a>.</p>
+
+<p>The table below shows the estimated household fuel poverty for West Sussex districts. The proportion of households estimated to be fuel poor was lowest in Adur and Crawley (6.8%) and highest in Chichester (9.5%).</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">District</th>
+      <th style="text-align: right">Estimated number of Fuel Poor Households</th>
+      <th style="text-align: right">Proportion of households fuel poor (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Adur</td>
+      <td style="text-align: right">1,888</td>
+      <td style="text-align: right">6.8%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Arun</td>
+      <td style="text-align: right">4,942</td>
+      <td style="text-align: right">7.2%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Chichester</td>
+      <td style="text-align: right">4,867</td>
+      <td style="text-align: right">9.5%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Crawley</td>
+      <td style="text-align: right">2,991</td>
+      <td style="text-align: right">6.8%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Horsham</td>
+      <td style="text-align: right">4,330</td>
+      <td style="text-align: right">7.6%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Mid Sussex</td>
+      <td style="text-align: right">4,493</td>
+      <td style="text-align: right">7.6%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Worthing</td>
+      <td style="text-align: right">3,923</td>
+      <td style="text-align: right">8.1%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The maps below show the percentage and estimated number of Fuel Poor households in 2014, for each LSOA in West Sussex. These maps indicate wide variation across the county and that areas in the west of the county appear to have a higher proportion of households which are fuel poor according to the Low Income High Cost indicator compared to areas along the coast and Crawley. For example, in Chichester 007B (in the Funtington ward), one in four households was estimated to be in fuel poverty.</p>
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+  <iframe src="/assets/htmlwidgets/Fuel_poverty_LSOA_2014.html" frameborder="0"></iframe>
+</div>
+<figcaption><p>If you cannot see the map, <a href="/assets/htmlwidgets/Fuel_poverty_LSOA_2014.html">please click on this link</a> and use the back button of your browser to return to this page.</p>
+</figcaption>
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+  <iframe src="/assets/htmlwidgets/Fuel_poverty_LSOA_2014_estimated_numbers.html" frameborder="0"></iframe>
+</div>
+<figcaption><p>If you cannot see the map, <a href="/assets/htmlwidgets/Fuel_poverty_LSOA_2014_estimated_numbers.html">please click on this link</a> and use the back button of your browser to return to this page.</p>
+</figcaption>
+
+<p class="notice--danger"><strong>Please note:</strong> we are currently updating the West Sussex JSNA site so please check back soon for updates.</p>
+:ET
