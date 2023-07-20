@@ -14,12 +14,12 @@ permalink: /updates/west-sussex-lcn-data-packs-april-2023/
 These data packs form part of the JSNA and include information on population and population characteristics, the major disease burden in West Sussex, deprivation and health outcomes throughout the life course. Drafted in April 2023, they are provided as powerpoint slides.
 
 ## Downloads
-[Adur and Worthing LCN JSNA Data Pack April 2023 (PPTX, 22.4Mb)](/assets/Adur and Worthing LCN JSNA Data Pack April 2023.pptx)
-[Arun LCN JSNA Data Pack April 2023 (PPTX, 16.6Mb)](/assets/Arun LCN JSNA Data Pack April 2023.pptx)
-[Chichester LCN JSNA Data Pack April 2023 (PPTX, 16.7Mb)](/assets/Chichester LCN JSNA Data Pack April 2023.pptx)
-[Crawley LCN JSNA Data Pack April 2023 (PPTX, 16.6Mb)](/assets/Crawley LCN JSNA Data Pack April 2023.pptx)
-[Horsham LCN JSNA Data Pack April 2023 (PPTX, 16.6Mb)](/assets/Horsham LCN JSNA Data Pack April 2023.pptx)
-[Mid Sussex LCN JSNA Data Pack April 2023 (PPTX, 16.6Mb)](/assets/Mid Sussex LCN JSNA Data Pack April 2023.pptx)
+- [Adur and Worthing LCN JSNA Data Pack April 2023 (PPTX, 22.4Mb)](/assets/Adur and Worthing LCN JSNA Data Pack April 2023.pptx)
+- [Arun LCN JSNA Data Pack April 2023 (PPTX, 16.6Mb)](/assets/Arun LCN JSNA Data Pack April 2023.pptx)
+- [Chichester LCN JSNA Data Pack April 2023 (PPTX, 16.7Mb)](/assets/Chichester LCN JSNA Data Pack April 2023.pptx)
+- [Crawley LCN JSNA Data Pack April 2023 (PPTX, 16.6Mb)](/assets/Crawley LCN JSNA Data Pack April 2023.pptx)
+- [Horsham LCN JSNA Data Pack April 2023 (PPTX, 16.6Mb)](/assets/Horsham LCN JSNA Data Pack April 2023.pptx)
+- [Mid Sussex LCN JSNA Data Pack April 2023 (PPTX, 16.6Mb)](/assets/Mid Sussex LCN JSNA Data Pack April 2023.pptx)
 
 ## Presentation
 Adur and Worthing 12th July 2023
