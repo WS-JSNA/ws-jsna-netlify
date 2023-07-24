@@ -157,6 +157,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /archive_ccg_data
 keep_files:
   - .git
   - .svn
@@ -265,15 +266,7 @@ collections:
   core:
     output: true
     permalink: /:collection/:path/
-  coastal:
-    output: true
-    permalink: /ccg/:collection/:path/
-  crawley:
-    output: true
-    permalink: /ccg/:collection/:path/
-  horsham:
-    output: true
-    permalink: /ccg/:collection/:path/
+
 
 # Add ICS collection
   ics:
