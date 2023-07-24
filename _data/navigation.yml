@@ -2,7 +2,9 @@
 main:
   - title: "Updates"
     url: /updates/
- - title: "About"
+  - title: "CCGs"
+    url: /ccgs/
+  - title: "About"
     url: /about/
   - title: "Contact"
     url: /contact/
