@@ -2,8 +2,8 @@
 main:
   - title: "Updates"
     url: /updates/
-  #- title: "CCGs"
-  #  url: /ccgs/
+  - title: "CCGs"
+    url: /ccgs/
   - title: "About"
     url: /about/
   - title: "Contact"
@@ -202,7 +202,6 @@ core:
 # area:
 
 # There are five different sidebars for each of the three CCGS, making for 15 in total
-# Note these menus should not be needed after the removal of the CCG collections in July 2023
 coastal-PRO-selected:
   - title: "Coastal West Sussex CCG"
     url: "/ccgs/coastal/"

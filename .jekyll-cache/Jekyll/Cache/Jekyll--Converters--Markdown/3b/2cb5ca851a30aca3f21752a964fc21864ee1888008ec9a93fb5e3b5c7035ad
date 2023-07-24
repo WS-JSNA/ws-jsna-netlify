@@ -1,9 +1,0 @@
-I"¨
-<h4 id="TOOL01">Postcode Lookup Tool</h4>
-<p><small>Date added: 01/07/2016</small></p>
-<p>A Postcode Lookup Tool has been created to allow users to match a set of inputted postcodes to a range of geographies (e.g. LSOA, ward, district, CCG boundaries) as well as information around deprivation, which has been collated from various secondary sources. This file contains approximately 59,000 postcodes in the West Sussex area and was last updated in June 2016.</p>
-
-<p><strong>Please note:</strong> postcodes and other boundaries change regularly and as a result some postcodes may be not be the most up to date, and some postcodes may be missing or terminated. As such the tool should be used with these caveats in mind.</p>
-
-<p><i class="fas fa-file-excel" aria-hidden="true"></i> <a href="/assets/core/PHSRU-Postcode-Lookup-Tool-Update-with-IMD2015.xlsx" title="Postcode Lookup Tool">Postcode Lookup Tool, Excel Spreadsheet.</a></p>
-:ET

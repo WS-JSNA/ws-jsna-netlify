@@ -1,8 +1,0 @@
-I"f<p>Directly Age Standardised Rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.</p>
-
-<p>This is a way of controlling for biases in age structure between different population.</p>
-
-<p>Suicide and undetermined injury are calculated from deaths with primary cause codes (ICD9 E950-E959, E980-E989 excl. E988.8; ICD10 X60-X84, Y10-Y34 excl. Y33.9), for more information on these codes see http://www.nchod.nhs.uk.</p>
-
-<p>This spreadsheet contains a 15 year trend and the ability to compare between local authorities.</p>
-:ET

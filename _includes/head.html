@@ -41,14 +41,3 @@
     <script src="{{ script_path }}"></script>
   {% endfor %}
 {% endif %}
-
-{% if page.head_styles %}
-  {% for style in page.head_styles %}
-    {% if style contains "://" %}
-      {% capture style_path %}{{ style }}{% endcapture %}
-    {% else %}
-      {% capture style_path %}{{ style | relative_url}}{% endcapture %}
-    {% endif %}
-    <link rel = "stylesheet" href="{{ style_path }}", type="text/css">
-  {% endfor %}
-{% endif %}
