@@ -46,7 +46,7 @@ These goals reflect the breadth of the experience of people with dementia, and t
 
 There are four main challenges faced in West Sussex: 
 
-*	**An ageing population** – Although dementia is not a natural part of growing older, it is more prevalent in people over the age of 65. In 2020, it was estimated that 16,650 people have dementia in West Sussex; by 2030, this figure is estimated to rise to 22,450 people. Older people are also more likely to have other significant and life limiting chronic conditions, putting a huge demand on capacity within services. 
+*	**An ageing population** – Although dementia is not a natural part of growing older, it is more prevalent in people over the age of 65. In 2020, it was estimated that 13,870 people have dementia in West Sussex; by 2030, this figure is estimated to rise to 17,400 people. Older people are also more likely to have other significant and life limiting chronic conditions, putting a huge demand on capacity within services. 
 
     {% include embedpdf file_path="/assets/ageing-well/appendix-c-dementia-cartogram.pdf" width="593" height="830" alt="A cartogram map showing the estimated population over 65 years with dementia living in each ward in West Sussex. The Coastal area has the largest number of wards with high numbers of people over 65 years of age with dementia (over 150 people in these high numbers wards). North of the county has the largest number of wards with low numbers of people over 65 (under 149 people in low numbers wards). The wards with the largest population over 65 with dementia, with over 150 people, are as follows: Chichester District - Chichester North and South, Selsey North, and Southbourne; Arun District - Pagham, Ferring, Aldwick East and West, Arundel and Walberton, River, East Preston, Rustington East and West, Angmering, and Findon; Worthing Area – Goring, Marine (Worthing), Heene, Central, Offington, and Salvington; Horsham District – Billingshurst, Shipley, Chantry, and Chanctonbury; and Mid Sussex District – Lindfield, Hassocks. Crawley and Adur do not have any wards with a population of more than 150 people over 65 with dementia." caption="65+ Population with dementia: estimates by ward. Based on ONS mid-2018 population estimates combined with Dementia UK prevalence estimates" class="full" %}
 
@@ -73,8 +73,8 @@ Plain text accessible versions of these files, that are compatible with screen r
 * [Plain Text - West Sussex Joint Dementia Strategy 2020 – 2023 (PDF, 0.5MB)](/assets/ageing-well/dementia-strategy-2020-2023-plain-text.pdf)
 * [Plain Text - West Sussex Joint Dementia Strategy Executive Summary 2020 – 2023 (PDF, 0.25MB)](/assets/ageing-well/exec-summary-dementia-strategy-2020-2023-plain-text.pdf)
 
-  
-
+## Notice
+This information was updated in August 2023 to reflect changing prevalence estimates. 
 
 # Dementia Prevalence 
 
