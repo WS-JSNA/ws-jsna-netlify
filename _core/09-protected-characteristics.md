@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Protected Characteristics"
+title: "Protected Characteristics (2013)"
 header:
   overlay_color: "#1976d2"
 permalink: "/core/population-data/protected-characteristics/"
