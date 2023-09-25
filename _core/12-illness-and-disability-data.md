@@ -1,5 +1,5 @@
 ---
-title: "Illness and Disability Data"
+title: "Illness and Disability Data (Legacy data)"
 layout: single
 permalink: "/core/illness-and-disability-data/"
 sidebar:
