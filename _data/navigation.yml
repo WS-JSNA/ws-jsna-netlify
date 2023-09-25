@@ -173,6 +173,8 @@ reports:
 core:
   - title: "Core Datasets"
     url: "/core/"
+  - title: "Census 2021"
+    url: "/core/census-2021/"
   - title: "Population Data"
     url: "/core/population-data/"
     children:
