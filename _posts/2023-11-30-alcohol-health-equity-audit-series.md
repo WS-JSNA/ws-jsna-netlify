@@ -5,7 +5,7 @@ date: 2023-11-30
 header: 
   overlay_color: "#1976d2"
   overlay_filter: 0.5
-excerpt: ""
+excerpt: "The first two reports in a Health Equity Audit series of briefings exploring alcohol consumption and uptake of alcohol misuse services in West Sussex are available now. These describe the equity audit methodology and overview of findings."
 category: JSNA
 permalink: /updates/alcohol-health-equity-audit-series/
 draft: false
