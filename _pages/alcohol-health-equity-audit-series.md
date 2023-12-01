@@ -27,7 +27,8 @@ There are 10 questions around alcohol consumption, drinking behaviours and alcoh
 Based on an estimated population of 726,900 residents (aged 16 and over) and a national prevalence assumption of increasing or higher risk drinking (AUDIT score 8 and over) we estimated that approximately 133,600 people in West Sussex are consuming alcohol at levels risky to their health and may benefit from support.
 This includes more than 8,000 residents drinking at probable dependence levels (see table below).
 
-<!-- #### Estimates of drinking levels by AUDIT risk group among adults aged 16+; West Sussex (aggregating national age/sex specific prevalence at ward level)
+#### Estimates of drinking levels by AUDIT risk group among adults aged 16+; West Sussex (aggregating national age/sex specific prevalence at ward level)
+
 | Area      | Non-drinkers/low risk | Hazardous drinking | Harmful drinking /mild dependence | Probably dependence |
 | :---      |                ---:   |               ---: |                              ---: |                ---: |
 | West Sussex |  593,300 |113,200 | 12,300 | 8,100 |
@@ -37,7 +38,7 @@ This includes more than 8,000 residents drinking at probable dependence levels (
 | Crawley | 74,700 | 15,800 | 1,800 | 1,200 |
 | Horsham | 98,500 | 18,800 | 2,000 | 1,300 |
 | Mid Sussex | 100,400 | 19,400 | 2,210 | 1,400 |
-| Worthing | 75,300 | 14,400 | 1,600 | 1,000 | -->
+| Worthing | 75,300 | 14,400 | 1,600 | 1,000 |
 
 <!-- The map below summarises the 2019 IMD rankings for LSOAs in West Sussex. You can also toggle between the different subdomains.
 
