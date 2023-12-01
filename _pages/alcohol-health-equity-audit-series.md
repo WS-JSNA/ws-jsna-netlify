@@ -40,6 +40,10 @@ This includes more than 8,000 residents drinking at probable dependence levels (
 | Mid Sussex | 100,400 | 19,400 | 2,210 | 1,400 |
 | Worthing | 75,300 | 14,400 | 1,600 | 1,000 |
 
+The map below shows estimated numbers of people in the increasing risk (score of 8 or more) on the audit category by ward across West Sussex. Because these are prevalence assumptions applied to the demographics of each area, larger numbers of increasing risk drinkers largely correlate to areas that have larger populations. This information provides a visual representation of the areas where we might reasonably expect to see the most need.
+
+{% include htmlwidget_map html_path="/assets/htmlwidgets/alcohol-hea-increasing-risk/" %}
+
 ## Downloads
 - [1.1 Short Read HEA - HEA series December 2023 (PDF, 349Kb)](/assets/pdf/alcohol-hea-series/1.1 Short Read HEA - HEA series.pdf)
 - [1.2 Alcohol consumption and estimated need - HEA series December 2023 (PDF, 3.28Mb)](/assets/pdf/alcohol-hea-series/1.2 Alcohol consumption and estimated need - HEA series.pdf)
