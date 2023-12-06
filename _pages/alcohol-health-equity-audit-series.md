@@ -44,6 +44,12 @@ The map below shows estimated numbers of people in the increasing risk (score of
 
 {% include htmlwidget_map html_path="/assets/htmlwidgets/alcohol-hea-increasing-risk/" %}
 
+The second set of maps, below, show the different AUDIT risk categories. As with the previous map, these are not rates, but estimated numbers of people who might drink at each risk level. As such, there will be some areas which have a high number of people in all AUDIT categories simply because there are more people living in those areas. Nonetheless, the maps may be useful to highlight where across the county we might find higher or lower uptake of service use and identify areas for concentrating efforts.
+
+You can toggle each risk group using the check boxes on the right hand side, if you want to show the local authority boundaries uncheck, then check the box to bring the boundaries to the top of the map.
+
+{% include htmlwidget_map html_path="/assets/htmlwidgets/alcohol-hea-by-risk_1.html/" %}
+
 ## Downloads
 - [1.1 Short Read HEA - HEA series December 2023 (PDF, 349Kb)](/assets/pdf/alcohol-hea-series/1.1 Short Read HEA - HEA series.pdf)
 - [1.2 Alcohol consumption and estimated need - HEA series December 2023 (PDF, 3.28Mb)](/assets/pdf/alcohol-hea-series/1.2 Alcohol consumption and estimated need - HEA series.pdf)
