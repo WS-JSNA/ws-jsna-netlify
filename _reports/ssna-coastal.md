@@ -29,9 +29,9 @@ There will be ongoing opportunities to contribute or comment on the framework. W
 
 You are encouraged to start using the analyses in discussions about coastal West Sussex.
 
-## Downloads
+<!--## Downloads
 * [Background Evidence Professionals](/assets/core/Background-Evidence-Professionals-FINAL.pdf) (PDF, 948Kb)
 * [Background Evidence Children and Young People](/assets/core/Background-Evidence-Children-and-young-people-FINAL.pdf) (PDF, 737Kb)
 * [Background Evidence Parents](/assets/core/Background-Evidence-Parents-FINAL.pdf) (PDF, 764Kb)
-* [Children and Young People Emotional and Wellbeing Needs Assessment](/assets/core/WEST-SUSSEX-Children-and-Young-People-Emotional-and-Well-Being-Needs-Assessment-June-2014.pdf) (PDF, 1.4Mb)
-![image](https://github.com/WS-JSNA/ws-jsna-netlify/assets/34241625/02891410-e195-4d90-948e-501d3f2b6103)
+* [Children and Young People Emotional and Wellbeing Needs Assessment](/assets/core/WEST-SUSSEX-Children-and-Young-People-Emotional-and-Well-Being-Needs-Assessment-June-2014.pdf) (PDF, 1.4Mb)-->
+
