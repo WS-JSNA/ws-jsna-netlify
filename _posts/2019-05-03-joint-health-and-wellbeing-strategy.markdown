@@ -40,7 +40,7 @@ The JHWS identifies the following goals to meet the health and wellbeing needs o
 The strategy and supporting documents can be downloaded below.  [Further information about the West Sussex Health and Wellbeing Board](www.westsussex.gov.uk/hwb) is also available on its website.
 
 ## Update: Cost of Living Pressures Addendum
-This Cost of Living Pressures Addendum to the West Sussex Joint Health and Wellbeing Strategy 2019-2024 describes the high-level collaborative approach to tackling cost of living pressures across West Sussex and addressing some potential negative impacts on our local population’s health and wellbeing. The addendum is based on evidence reviewed to the end of November 2022.
+This Cost of Living Pressures Addendum to the West Sussex Joint Health and Wellbeing Strategy 2019-2024 describes the high-level collaborative approach to tackling cost of living pressures across West Sussex and addressing some potential negative impacts on our local population’s health and wellbeing. The addendum includes a review of evidence (as at November 2022).
 
 In summary, this Addendum:
 
