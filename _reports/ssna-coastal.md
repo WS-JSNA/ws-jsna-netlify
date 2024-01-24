@@ -23,7 +23,7 @@ As part of the development of a new West Sussex Joint Local Health and Wellbeing
 
 The ambition is that individuals, organisations, and partners use the framework and insight to improve health outcomes through their own activities or services.
 
-Individuals and organisations who deliver, plan and commission services in the coastal areas are invited to let us know if there is anything else they would like to see included; any questions they may have; or any suggestions on how the priorities could be achieved. Please contact us at publichealth@westsussex.gov.uk by 29 February 2024.
+Individuals and organisations who deliver, plan and commission services in the coastal areas are invited to let us know if there is anything else they would like to see included; any questions they may have; or any suggestions on how the priorities could be achieved. Please contact us at <a href="mailto:publichealth@westsussex.gov.uk?subject=Regarding Coastal Communities Framework">Email Us</a> by 29 February 2024.
 
 There will be ongoing opportunities to contribute or comment on the framework. We will continue to analyse key information and data, and work with others, including academics, on this important area to keep the framework updated.
 
