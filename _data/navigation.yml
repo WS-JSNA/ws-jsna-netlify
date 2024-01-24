@@ -141,6 +141,8 @@ reports:
         url: "/reports/subject-specific-needs-assessments/cyp/"
       - title: Children and Young People's Emotional Wellbeing and Mental Health
         url: "/reports/subject-specific-needs-assessments/camhs-needs-assessment/"
+      - title: Coastal Communities
+        url: "/reports/subject-specific-needs-assessments/coastal-health-inequalities/"
       - title: Falls Prevention
         url: "/reports/subject-specific-needs-assessments/falls-prevention/"
       - title: Gypsies and Travellers
