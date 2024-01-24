@@ -3,11 +3,11 @@ layout: single
 author_profile: false
 sidebar:
   nav: "reports"
-title: "Health and wellbeing of West Sussex coastal communities"
+title: "Health and Wellbeing of West Sussex Coastal Communities"
 header:
   overlay_color: "#038cd0"
 permalink: "/reports/subject-specific-needs-assessments/coastal-health-inequalities/"
-excerpt: "A framework for action to reduce coastal health inequalities "
+excerpt: "A framework for action to reduce coastal health inequalities"
 toc: true
 toc_sticky: true
 ---
