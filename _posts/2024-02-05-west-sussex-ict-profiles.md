@@ -18,7 +18,7 @@ It is anticipated that these documents will be revised over time as new data bec
 
 ## Downloads
 - [Adur ICT Datapack 1 December 2023 (PDF, 2,662Kb)](/assets/pdf/ict-datapacks/Adur_ICT_DataPack_2023.pdf)
-- [Arun ICT Datapack 1 December 2023 (PDF, 2,805Kb)](/assets/pdf/ict-datapacks/Adur_ICT_DataPack_2023.pdf)
+- [Arun ICT Datapack 1 December 2023 (PDF, 2,805Kb)](/assets/pdf/ict-datapacks/Arun_ICT_DataPack_2023.pdf)
 - [Chichester ICT Datapack 1 December 2023 (PDF, 3,012Kb)](/assets/pdf/ict-datapacks/Chichester_ICT_DataPack_2023.pdf)
 - [Crawley ICT Datapack 1 December 2023 (PDF, 2,750Kb)](/assets/pdf/ict-datapacks/Crawley_ICT_DataPack_2023.pdf)
 - [Horsham ICT Datapack 1 December 2023 (PDF, 2,751Kb)](/assets/pdf/ict-datapacks/Horsham_ICT_DataPack_2023.pdf)
