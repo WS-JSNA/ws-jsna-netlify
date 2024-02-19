@@ -11,7 +11,7 @@ excerpt: "A framework for action to reduce coastal health inequalities"
 toc: true
 toc_sticky: true
 ---
-With more than a third of West Sussex residents living in coastal towns, a new draft framework for action to reduce coastal inequalities in West Sussex has been developed. 
+With more than a third of West Sussex residents living in coastal towns, a new framework for action to reduce coastal inequalities in West Sussex has been developed. 
 
 Led by West Sussex County Council’s Public Health team, the framework is based on analyses shared in an accompanying data pack. The data pack shows how people who live in our coastal areas have poorer health outcomes than those in non-coastal areas. Both the data pack and the framework are intended to guide actions to reduce health inequalities on the coast.
 
@@ -25,14 +25,14 @@ As part of the development of a new West Sussex Joint Local Health and Wellbeing
 
 The ambition is that individuals, organisations, and partners use the framework and insight to improve health outcomes through their own activities or services. We encourage them to start using the findings from the analyses in discussions about coastal West Sussex.
 
-Individuals and organisations who deliver, plan, and commission services in the coastal areas are invited to let us know if there is anything else they would like to see included; any questions they may have; or any suggestions on how improved outcomes could be achieved. Please contact <a href="mailto:publichealth@westsussex.gov.uk?subject=Coastal Health Inequalities Framework">Public Health</a> by 16th February 2024.
+Individuals and organisations who deliver, plan, and commission services in the coastal areas are invited to let us know if there is anything else they would like to see included; any questions they may have; or any suggestions on how improved outcomes could be achieved. Please contact <a href="mailto:publichealth@westsussex.gov.uk?subject=Coastal Health Inequalities Framework">Public Health</a> to provide your thoughts.
 
 There will be ongoing opportunities to contribute or comment on the framework. We will continue to analyse key information and data, and work with others, including academics, on this important area to keep the framework updated.
 
 ## Downloads
 
 Health and wellbeing of West Sussex coastal communities: A framework for action to reduce coastal health inequalities.
-* [Framework Summary (DRAFT)](/assets/core/west-sussex-coastal-inequalities-framework-summary-DRAFT.pdf) (PDF, 994Kb)
-* [Framework (DRAFT)](/assets/core/west-sussex-coastal-inequalities-framework-DRAFT.pdf) (PDF, 7Mb)
-* [Infographic (DRAFT)](/assets/core/west-sussex-coastal-inequalities-infographic-DRAFT.pdf) (PDF, 270Kb)
-* [Data Pack (DRAFT)](/assets/core/west-sussex-coastal-inequalities-data-pack-DRAFT.pdf) (PDF, 5Mb)
+* [Framework Summary](/assets/core/west-sussex-coastal-inequalities-framework-summary-v1.pdf) (PDF, 994Kb)
+* [Framework](/assets/core/west-sussex-coastal-inequalities-framework-v1.pdf) (PDF, 7Mb)
+* [Infographic](/assets/core/west-sussex-coastal-inequalities-infographic-v1.pdf) (PDF, 270Kb)
+* [Data Pack](/assets/core/west-sussex-coastal-inequalities-data-pack-v1.pdf) (PDF, 5Mb)
