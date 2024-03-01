@@ -32,7 +32,7 @@ There will be ongoing opportunities to contribute or comment on the framework. W
 ## Downloads
 
 Health and wellbeing of West Sussex coastal communities: A framework for action to reduce coastal health inequalities.
-* [Framework Summary](/assets/core/west-sussex-coastal-inequalities-framework-summary-v1.pdf) (PDF, 994Kb)
+* [Framework Summary](/assets/core/west-sussex-coastal-inequalities-summary-v1.pdf) (PDF, 994Kb)
 * [Framework](/assets/core/west-sussex-coastal-inequalities-framework-v1.pdf) (PDF, 7Mb)
 * [Infographic](/assets/core/west-sussex-coastal-inequalities-infographic-v1.pdf) (PDF, 270Kb)
 * [Data Pack](/assets/core/west-sussex-coastal-inequalities-data-pack-v1.pdf) (PDF, 5Mb)
