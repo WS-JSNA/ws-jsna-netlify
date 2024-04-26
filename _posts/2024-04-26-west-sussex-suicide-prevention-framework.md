@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Suicide Prevention - draft strategy now available
+title: West Sussex Suicide Prevention Framework and Action Plan 2023-2027
 date: 2024-04-26
 header: 
   overlay_color: "#1976d2"
