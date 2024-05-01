@@ -28,5 +28,5 @@ A dedicated [Alcohol Health Equity Audit Series Page](/alcohol-health-equity-aud
 ## Downloads
 - [1.1 Short Read HEA - HEA series December 2023 (PDF, 349Kb)](/assets/pdf/alcohol-hea-series/1.1 Short Read HEA - HEA series.pdf)
 - [1.2 Alcohol consumption and estimated need - HEA series December 2023 (PDF, 3.28Mb)](/assets/pdf/alcohol-hea-series/1.2 Alcohol consumption and estimated need - HEA series.pdf)
-- [1.3 Commissioned alcohol services - HEA series December 2023 (PDF, 1.99Mb)](assets/pdf/alcohol-hea-series/1.3 Commissioned Alcohol Services - HEA series.pdf)
+- [1.3 Commissioned alcohol services - HEA series December 2023 (PDF, 1.99Mb)](/assets/pdf/alcohol-hea-series/1.3 Commissioned Alcohol Services - HEA series.pdf)
 
