@@ -28,6 +28,7 @@ Below, you’ll find pages housing all our recent subject specific needs assessm
 + [Gypsies and Travellers](/reports/subject-specific-needs-assessments/gypsies-and-travellers/)
 + [Homelessness](/reports/subject-specific-needs-assessments/homelessness/)
 + [Lifelong Disabilities](/reports/subject-specific-needs-assessments/lifelong-disabilities/)
++ [Mental Health](/reports/subject-specific-needs-assessments/mental-health/)
 + [Military Veterans' Health](/reports/subject-specific-needs-assessments/military-veterans/)
 + [Oral Health](/reports/subject-specific-needs-assessments/oral-health/)
 + [Pharmaceutical Needs Assessment (PNA)](/reports/subject-specific-needs-assessments/pharmaceutical-needs-assessment-pna/)
