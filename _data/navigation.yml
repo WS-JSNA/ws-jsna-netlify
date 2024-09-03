@@ -151,6 +151,8 @@ reports:
         url: "/reports/subject-specific-needs-assessments/homelessness/"
       - title: Lifelong Disabilities
         url: "/reports/subject-specific-needs-assessments/lifelong-disabilities/"
+      - title: Mental Health
+        url: "/reports/subject-specific-needs-assessments/mental-health/"
       - title: Military Veterans' Health
         url: "/reports/subject-specific-needs-assessments/military-veterans/"
       - title: Oral Health
