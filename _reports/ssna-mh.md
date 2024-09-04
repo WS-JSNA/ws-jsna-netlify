@@ -39,6 +39,5 @@ Many of the areas identified in the findings and areas for focus sections have p
 ### Attachments
 
 + [Executive Summary (PDF, 701Kb)](/assets/core/Overall_Exec_Summary_West_Sussex_Public_Mental_Health_Needs_Assessment_2024_FINAL.pdf)
-+ [Cohort Summary (PDF, 672Kb)](/assets/core/Cohort_Summary_West_Sussex_Public_Mental_Health_Needs_Assessment_2024_FINAL.pdf)
-+ [Full Needs Assessment (PDF, 13Mb)](/assets/core/West_Sussex_Public_Mental_Health_Needs_Assessment_2024_FINAL.pdf)
-
+<!--+ [Population Cohort Summary (PDF, 672Kb)](/assets/core/Cohort_Summary_West_Sussex_Public_Mental_Health_Needs_Assessment_2024_FINAL.pdf)-->
++ [Full Public Mental Health Needs Assessment Report (PDF, 13Mb)](/assets/core/West_Sussex_Public_Mental_Health_Needs_Assessment_2024_FINAL.pdf)
