@@ -10,7 +10,7 @@ permalink: "/reports/subject-specific-needs-assessments/mental-health/"
 excerpt: "This all-age needs assessment offers a comprehensive analysis and insight into the current and future mental health and wellbeing needs of our local population across the county."
 ---
 
-This all-age public mental health needs assessment is part of the Joint Strategic Needs Assessment (JSNA). The JSNA is a statutory requirement for public health that looks at the current and future health, wellbeing and care needs of local populations to inform and guide the planning and commissioning services, this may include strategies, action plans and frameworks for delivery. This is a full needs assessment designed to be used as a commissioning tool to inform mental health and wellbeing services and support, this is not a strategy, action plan or framework for delivery. This report informs and guides future work and is intended to support health and care partners across West Sussex on this important agenda.
+This all-age public mental health needs assessment is part of the Joint Strategic Needs Assessment (JSNA). The JSNA is a statutory requirement of the health and wellbeing board that looks at the current and future health, wellbeing and care needs of local populations to inform and guide the planning and commissioning services, this may include strategies, action plans and frameworks for delivery. This is a full needs assessment designed to be used as a commissioning tool to inform mental health and wellbeing services and support, this is not a strategy, action plan or framework for delivery. This report informs and guides future work and is intended to support health and care partners across West Sussex on this important agenda.
 
 > "The JSNA was introduced to create stronger partnerships between communities, local government and the NHS, providing a firm foundation for commissioning that improves health and social care provision and reduces health inequalities."
 
@@ -39,5 +39,5 @@ Many of the areas identified in the findings and areas for focus sections have p
 ### Attachments
 
 + [Executive Summary (PDF, 701Kb)](/assets/core/Overall_Exec_Summary_West_Sussex_Public_Mental_Health_Needs_Assessment_2024_FINAL.pdf)
-<!--+ [Population Cohort Summary (PDF, 672Kb)](/assets/core/Cohort_Summary_West_Sussex_Public_Mental_Health_Needs_Assessment_2024_FINAL.pdf)-->
++ [Population Cohort Summary (PDF, 672Kb)](/assets/core/Cohort_Summary_West_Sussex_Public_Mental_Health_Needs_Assessment_2024_FINAL.pdf)
 + [Full Public Mental Health Needs Assessment Report (PDF, 13Mb)](/assets/core/West_Sussex_Public_Mental_Health_Needs_Assessment_2024_FINAL.pdf)
