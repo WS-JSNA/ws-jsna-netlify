@@ -27,4 +27,4 @@ On this page, we provide key resources to help understand the results of the sur
 ## Maps
 
 <!-- We have embedded these maps below but you can click on the download link underneath each one to save a copy of the map as a standalone html file -->
-<!-- {% include htmlwidget_map html_path="/your-health-matters/west_sussex_quintiles.html/" %} -->
+{% include htmlwidget_map html_path="/assets/htmlwidgets/IMD_2019_leaflet_map.html/" %}
