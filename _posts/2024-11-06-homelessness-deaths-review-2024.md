@@ -16,6 +16,7 @@ Homelessness is an experience that drives social exclusion and inequalities in o
 In England and Wales, the average age of death of people experiencing homelessness is estimated at around 43-45 years. Over the last decade, the estimated number of deaths amongst people experiencing homelessness in England and Wales has doubled.
 
 In West Sussex, local homelessness and housing support organisations have raised the need to better understand the factors driving early mortality in this vulnerable population. To contribute to the local evidence base around the issues faced by this group, this report presents a review of the client death reports and cases histories held by these organisations.
+
 The aim of this review is to understand the histories, risk factors and vulnerabilities in the lives of people who died within a three-year period (2020/21 – 2022/23) whilst engaged with homelessness and housing support services in West Sussex. 
 
 This report:
