@@ -8,14 +8,14 @@ header:
 excerpt: "This report explores risks factors and vulnerabilities amongst people who died whilst homeless or with a housing support need in West Sussex over a three-year period (2020/21 – 2022/23)."
 toc: false
 permalink: /updates/homelessness-deaths-review-2024/
-draft: true
+draft: false
 ---
 
 Homelessness is an experience that drives social exclusion and inequalities in outcomes. Amongst people experiencing, or at risk of, homelessness, co-occurring health and care needs are common, as are overlapping or prior experiences of social exclusion and disadvantage, such as substance misuse, mental ill-health, time spent in prison, domestic abuse, poverty and adverse childhood experiences. 
 
 In England and Wales, the average age of death of people experiencing homelessness is estimated at around 43-45 years. Over the last decade, the estimated number of deaths amongst people experiencing homelessness in England and Wales has doubled.
 
-In West Sussex, local homelessness and housing support organisations have raised the need to better understand the factors driving early mortality in this vulnerable population. To contribute to the local evidence base around the issues faced by this group, this report presents a review of the client death reports and cases histories held by these organisations.
+To contribute to the local evidence base around the issues faced by this group, this report presents a review of themes identified in the client death reports and cases histories held by local homelessness and housing support organisations.
 
 The aim of this review is to understand the histories, risk factors and vulnerabilities in the lives of people who died within a three-year period (2020/21 – 2022/23) whilst engaged with homelessness and housing support services in West Sussex. 
 
