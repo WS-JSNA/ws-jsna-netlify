@@ -8,7 +8,7 @@ header:
 excerpt: "This report explores risks factors and vulnerabilities amongst people who died whilst homeless or with a housing support need in West Sussex over a three-year period (2020/21 – 2022/23)."
 toc: false
 permalink: /updates/homelessness-deaths-review-2024/
-draft: false
+draft: true
 ---
 
 Homelessness is an experience that drives social exclusion and inequalities in outcomes. Amongst people experiencing, or at risk of, homelessness, co-occurring health and care needs are common, as are overlapping or prior experiences of social exclusion and disadvantage, such as substance misuse, mental ill-health, time spent in prison, domestic abuse, poverty and adverse childhood experiences. 
