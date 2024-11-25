@@ -5,7 +5,7 @@ date: 2024-11-25
 header: 
   overlay_color: "#1976d2"
   overlay_filter: 0.5
-excerpt: "A new 2024/35 edition of the JSNA summary, which assesses the county's health and wellbeing needs, issues and assets."
+excerpt: "A new 2024/25 edition of the JSNA summary, which assesses the county's health and wellbeing needs, issues and assets."
 category: JSNA
 permalink: /updates/west-sussex-jsna-summary-2024/
 ---
