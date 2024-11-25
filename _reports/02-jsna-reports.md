@@ -26,10 +26,10 @@ You can download the most recent comprehensive JSNA Summary report and Voice Sum
 [West Sussex JSNA Summary 2024/25 (PDF, 9.44Mb)](/assets/pdf/WS_JSNA_Summary_2024_2025.pdf)
 
 ### Archive
-[West Sussex JSNA Summary 2021/22 (PDF, 5.65Mb)](/assets/pdf/west_sussex_jsna_summary_2122.pdf)
-[West Sussex JSNA Summary 2019 (PDF, 9.65Mb)](/assets/core/west-sussex-jsna-summary-2019.pdf)
-[West Sussex JSNA Summary 2018 (PDF, 3.3Mb)](/assets/core/west-sussex-jsna-summary-2018.pdf)
-[West Sussex JSNA Voice Summary 2018 (PDF, 0.5Mb)](/assets/core/west-sussex-jsna-voice-summary-2018.pdf)
+* [West Sussex JSNA Summary 2021/22 (PDF, 5.65Mb)](/assets/pdf/west_sussex_jsna_summary_2122.pdf)
+* [West Sussex JSNA Summary 2019 (PDF, 9.65Mb)](/assets/core/west-sussex-jsna-summary-2019.pdf)
+* [West Sussex JSNA Summary 2018 (PDF, 3.3Mb)](/assets/core/west-sussex-jsna-summary-2018.pdf)
+* [West Sussex JSNA Voice Summary 2018 (PDF, 0.5Mb)](/assets/core/west-sussex-jsna-voice-summary-2018.pdf)
 
 ### People and challenges infographics (2019 versions)
 
