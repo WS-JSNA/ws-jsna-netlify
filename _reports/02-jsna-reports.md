@@ -25,20 +25,12 @@ You can download the most recent comprehensive JSNA Summary report and Voice Sum
 ## Downloads 
 [West Sussex JSNA Summary 2024/25 (PDF, 9.44Mb)](/assets/pdf/WS_JSNA_Summary_2024_2025.pdf)
 
-### Archive
-* [West Sussex JSNA Summary 2021/22 (PDF, 5.65Mb)](/assets/pdf/west_sussex_jsna_summary_2122.pdf)
-* [West Sussex JSNA Summary 2019 (PDF, 9.65Mb)](/assets/core/west-sussex-jsna-summary-2019.pdf)
-* [West Sussex JSNA Summary 2018 (PDF, 3.3Mb)](/assets/core/west-sussex-jsna-summary-2018.pdf)
-* [West Sussex JSNA Voice Summary 2018 (PDF, 0.5Mb)](/assets/core/west-sussex-jsna-voice-summary-2018.pdf)
-
-### People and challenges infographics (2019 versions)
-
-* [Adur People and Challenges infographic, April 2019 (PDF, 2 pages)](/assets/core/Adur-People-and-Challenges-JSNA-April-2019.pdf)
-* [Arun People and Challenges infographic, April 2019 (PDF, 2 pages)](/assets/core/Arun-People-and-Challenges-JSNA-April-2019.pdf)
-* [Chichester People and Challenges infographic, April 2019 (PDF, 2 pages)](/assets/core/Chichester-People-and-Challenges-JSNA-April-2019.pdf)
-* [Crawley People and Challenges infographic, April 2019 (PDF, 2 pages)](/assets/core/Crawley-People-and-Challenges-JSNA-April-2019.pdf)
-* [Horsham People and Challenges infographic, April 2019 (PDF, 2 pages)](/assets/core/Horsham-People-and-Challenges-JSNA-April-2019.pdf)
-* [Mid Sussex People and Challenges infographic, April 2019 (PDF, 2 pages)](/assets/core/Mid-Sussex-People-and-Challenges-JSNA-April-2019.pdf)
-* [Worthing People and Challenges infographic, April 2019 (PDF, 2 pages)](/assets/core/Worthing-People-and-Challenges-JSNA-April-2019.pdf)
+### District and Borough JSNAs
++ [Adur and Worthing JSNA 2024 (PDF, 3.98Mb)](/assets/pdf/Adur_and_Worthing_JSNA_2024.pdf)
++ [Arun JSNA 2024 (PDF, 2.78Mb)](/assets/pdf/Arun_JSNA_2024.pdf)
++ [Chichester JSNA 2024 (PDF, 2.78Mb)](/assets/pdf/Chichester_JSNA_2024.pdf)
++ [Crawley JSNA 2024 (PDF, 2.76Mb)](/assets/pdf/Crawley_JSNA_2024.pdf)
++ [Horsham JSNA 2024 (PDF, 2.85Mb)](/assets/pdf/Horsham_JSNA_2024.pdf)
++ [Mid Sussex JSNA 2024 (PDF, 2.75Mb)](/assets/pdf/Mid_Sussex_JSNA_2024.pdf)
 
 {% include wip_notice %}
