@@ -17,14 +17,11 @@ The Health and Wellbeing Board is a forum where key leaders from the health and 
 
 ## Board membership
 
-{% include figure image_path="/assets/images/HWBmembership.jpg" alt="An infographic of the seven members of the Health and Wellbeing board." caption="Members of the West Sussex Health and Wellbeing Board" %}
+<!--{% include figure image_path="/assets/images/HWBmembership.jpg" alt="An infographic of the seven members of the Health and Wellbeing board." caption="Members of the West Sussex Health and Wellbeing Board" %}-->
 
 Members of the West Sussex Health and Wellbeing Board include:
 
  + West Sussex County Council
- + NHS Crawley CCG
- + NHS Coastal West Sussex CCG
- + NHS Horsham and Mid Sussex CCG
  + Healthwatch 
  + District and borough council representatives
  + Voluntary sector representatives 
@@ -75,11 +72,5 @@ More information about [Healthwatch West Sussex](http://www.healthwatchwestsusse
 ## About Research Governance
 
 More information about West Sussex County Council's Research Governance Process.
-
-## Downloads
-
-[Health and Wellbeing Board Newsletter (Summer 2020)](https://content.govdelivery.com/accounts/UKWSCC/bulletins/29225f5)
-
-[Health and Wellbeing Board Newsletter (Winter 2019)](/assets/core/hwb-newsletter-christmas-edition-2019.pdf)
 
 {% include wip_notice %}
