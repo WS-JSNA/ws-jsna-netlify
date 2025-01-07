@@ -8,7 +8,6 @@ header:
 excerpt: "This rapid literature review provides an up-to-date overview of current evidence around health and healthcare inequalities for people experiencing homelessness in the UK, including perceived barriers and facilitators to healthcare access."
 toc: false
 permalink: /updates/homelessness-health-inequalities-review-2024/
-draft: true
 ---
 
 People experiencing homelessness (PEH) face significant inequalities in health outcomes and in access to healthcare services. Co-occurring needs and health conditions are common amongst this group and often overlap with additional risk factors which act to compound disadvantage and inequalities in outcomes. As one of society’s most vulnerable and socially excluded groups, significant attention is needed to improve health outcomes and reduce health inequalities amongst PEH.
