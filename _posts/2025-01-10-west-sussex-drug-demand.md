@@ -6,7 +6,7 @@ header:
   overlay_color: "#1976d2"
   overlay_filter: 0.5
 excerpt: "We have undertaken research to learn more about the drivers and implications of drug demand in West Sussex."
-toc: false
+toc: true
 permalink: /updates/west-sussex-drug-demand-analysis/
 ---
 
@@ -41,8 +41,10 @@ In response, the Government published its 10-year drug strategy, From Harm to Ho
 + [Horsham Drug Demand Analysis (DOC, 6.0MB)](/assets/living-well/Horsham_access.docx)
 + [Mid Sussex Drug Demand Analysis (DOC, 3.5MB)](/assets/living-well/Mid_Sussex_access.docx)
 + [Worthing Drug Demand Analysis (DOC, 3.7MB)](/assets/living-well/Worthing_access.docx)
+
 ### Drug and Alcohol Partnership Needs Analysis 2024
 + [Drug and Alcohol Partnership Needs Analysis 2024 (PPTX, 28.1MB)](/assets/living-well/Drug_and_Alcohol_Partnership_-_Needs_Analysis_2024_-_Final.pptx)
+
 ### West Sussex Drug and Alcohol Partnership – Annual Progress Report
 + [West Sussex Drug and Alcohol Partnership – Annual Progress Report(PDF, 844KB)](/assets/living-well/West_Sussex_Drug_and_Alcohol_Partnership_-_Annual_Progress_Report_-_October_2024.pdf)
 
