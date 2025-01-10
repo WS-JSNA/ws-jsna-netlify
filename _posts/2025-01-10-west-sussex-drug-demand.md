@@ -8,7 +8,6 @@ header:
 excerpt: "We have undertaken research to learn more about the drivers and implications of drug demand in West Sussex."
 toc: false
 permalink: /updates/west-sussex-drug-demand-analysis/
-draft: true
 ---
 
 ## Drug Demand Profiles
