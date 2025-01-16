@@ -34,16 +34,16 @@ In response, the Government published its 10-year drug strategy, From Harm to Ho
 
 ## Downloads
 ### Drug Demand Profiles
-+ [Adur Drug Demand Analysis (DOC, 4.2MB)](/assets/living-well/Adur_-_Access.docx)
-+ [Arun Drug Demand Analysis (DOC, 3.9MB)](/assets/living-well/Arun_-_Access.docx)
-+ [Chichester Drug Demand Analysis (DOC, 6.5MB)](/assets/living-well/Chichester_access.docx)
-+ [Crawley Drug Demand Analysis (DOC, 4.4MB)](/assets/living-well/Crawley_access.docx)
-+ [Horsham Drug Demand Analysis (DOC, 6.0MB)](/assets/living-well/Horsham_access.docx)
-+ [Mid Sussex Drug Demand Analysis (DOC, 3.5MB)](/assets/living-well/Mid_Sussex_access.docx)
-+ [Worthing Drug Demand Analysis (DOC, 3.7MB)](/assets/living-well/Worthing_access.docx)
++ [Adur Drug Demand Profile November 2024 (PDF, 2.2MB)](/assets/living-well/Adur_Drug_Demand_Profile_November_2024.pdf)
++ [Arun Drug Demand Profile November 2024 (PDF, 2.2MB)](/assets/living-well/Arun_Drug_Demand_Profile_November_2024.pdf)
++ [Chichester Drug Demand Profile November 2024 (PDF, 2.6MB)](/assets/living-well/Chichester_Drug_Demand_Profile_November_2024.pdf)
++ [Crawley Drug Demand Profile November 2024 (PDF, 2.2MB)](/assets/living-well/Crawley_Drug_Demand_Profile_November_2024.pdf)
++ [Horsham Drug Demand Profile November 2024 (PDF, 2.6MB)](/assets/living-well/Horsham_Drug_Demand_Profile_November_2024.pdf)
++ [Mid Sussex Drug Demand Profile November 2024 (PDF, 1.8MB)](/assets/living-well/Mid_Sussex_Drug_Demand_Profile_November_2024.pdf)
++ [Worthing Drug Demand Profile November 2024 (PDF, 2.2MB)](/assets/living-well/Worthing_Drug_Demand_Profile_November_2024.pdf)
 
 ### Drug and Alcohol Partnership Needs Analysis 2024
-+ [Drug and Alcohol Partnership Needs Analysis 2024 (PPTX, 28.1MB)](/assets/living-well/Drug_and_Alcohol_Partnership_-_Needs_Analysis_2024_-_Final.pptx)
++ [Drug and Alcohol Partnership Needs Analysis 2024 (PDF, 5.3MB)](/assets/living-well/Drug_and_Alcohol_Partnership_-_Needs_Analysis_2024_-_Final.pdf)
 
 ### West Sussex Drug and Alcohol Partnership – Annual Progress Report
 + [West Sussex Drug and Alcohol Partnership – Annual Progress Report(PDF, 844KB)](/assets/living-well/West_Sussex_Drug_and_Alcohol_Partnership_-_Annual_Progress_Report_-_October_2024.pdf)
