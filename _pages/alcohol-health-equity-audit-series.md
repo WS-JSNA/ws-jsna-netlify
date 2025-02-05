@@ -11,7 +11,7 @@ In this HEA series, we sought to understand the West Sussex picture of people dr
 
 A [Short Read](/assets/pdf/alcohol-hea-series/1.1 Short Read HEA - HEA series.pdf) summary report is available which provides an overview of the HEA methodology, findings and recommendations with further detailed reports published as new data became available over time.
 
-These include a report on our commissioned alcohol services, and a report on A&E attendances and admissions for conditions wholly attributable to alcohol and mortality linked to alcohol.
+These include a report estimating [alcohol consumption and dependence](/assets/pdf/alcohol-hea-series/1.2 Alcohol consumption and estimated need - HEA series.pdf), a report on our [commissioned alcohol services](/assets/pdf/alcohol-hea-series/1.3 Commissioned Alcohol Services - HEA series.pdf), and a report on A&E attendances and admissions for conditions wholly attributable to alcohol and mortality linked to alcohol ([Health care and mortality](/assets/pdf/alcohol-hea-series/1.4 Health care and mortality - HEA series.pdf)).
 
 The HEA series is intended to provide local evidence to support equitable access to treatment and outcomes, whilst underpinning the development of a strategic approach to alcohol in West Sussex.
 
