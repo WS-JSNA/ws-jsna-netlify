@@ -9,7 +9,9 @@ Alcohol misuse is a major risk factor for early death in England and contributes
 
 In this HEA series, we sought to understand the West Sussex picture of people drinking at hazardous, harmful or probable dependent levels. 
 
-A [Short Read](/assets/pdf/alcohol-hea-series/1.1 Short Read HEA - HEA series.pdf) summary report is available now which provides an overview of the HEA methodology, findings and recommendations with further detailed reports published in time. 
+A [Short Read](/assets/pdf/alcohol-hea-series/1.1 Short Read HEA - HEA series.pdf) summary report is available which provides an overview of the HEA methodology, findings and recommendations with further detailed reports published as new data became available over time.
+
+These include a report on our commissioned alcohol services, and a report on A&E attendances and admissions for conditions wholly attributable to alcohol and mortality linked to alcohol.
 
 The HEA series is intended to provide local evidence to support equitable access to treatment and outcomes, whilst underpinning the development of a strategic approach to alcohol in West Sussex.
 
@@ -54,4 +56,5 @@ You can toggle each risk group using the check boxes on the right hand side, if 
 - [1.1 Short Read HEA - HEA series December 2023 (PDF, 349Kb)](/assets/pdf/alcohol-hea-series/1.1 Short Read HEA - HEA series.pdf)
 - [1.2 Alcohol consumption and estimated need - HEA series December 2023 (PDF, 3.28Mb)](/assets/pdf/alcohol-hea-series/1.2 Alcohol consumption and estimated need - HEA series.pdf)
 - [1.3 Commissioned alcohol services - HEA series December 2023 (PDF, 1.99Mb)](/assets/pdf/alcohol-hea-series/1.3 Commissioned Alcohol Services - HEA series.pdf)
+- [1.4 Health care and mortality - HEA series January 2025 (PDF, 1.99Mb)](/assets/pdf/alcohol-hea-series/1.4 Health care and mortality - HEA series.pdf)
 
