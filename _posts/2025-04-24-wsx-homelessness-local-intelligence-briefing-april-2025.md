@@ -12,9 +12,7 @@ permalink: /updates/homelessness-local-intelligence-briefing-2025/
 
 Homelessness and insecure housing is an increasingly pressing issue across the West Sussex Health and Care system. A range of forums and partnership groups in West Sussex are leading work in this area, with many of these including health and wellbeing in temporary accommodation as a priority area. 
 
-This Public Health briefing draws together data and information on homelessness and housing support needs in West Sussex, including two recently published reports that explore: 
-1) Risk factors and vulnerabilities of people who died whilst known to homelessness or housing support services.
-2) The experiences of people living in temporary accommodation who use drugs and/or alcohol.
+This Public Health briefing draws together data and information on homelessness and housing support needs in West Sussex, including two recently published reports that explore 1) the risk factors and vulnerabilities of people who died whilst known to homelessness or housing support services, and 2) the experiences of people living in temporary accommodation who use drugs and/or alcohol.
 
 Additional national and local data are presented, alongside next steps for West Sussex Public Health to improve the health and care of this vulnerable population in West Sussex. 
 
