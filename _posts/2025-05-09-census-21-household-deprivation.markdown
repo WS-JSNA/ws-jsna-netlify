@@ -29,4 +29,4 @@ ONS uses a range of data collected in the 2021 Census to determine whether a hou
 
 ## Downloads
 
-[Census 2021: Household Deprivation (PDF, 1Mb)](/assets/pdf/west_sussex_household_deprivation_census_2021.pdf)
+[Census 2021: Household Deprivation (PDF, 1Mb)](/assets/pdf/census-briefing/west_sussex_household_deprivation_census_2021.pdf)
