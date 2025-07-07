@@ -10,7 +10,7 @@ permalink: "/living-well/sexual-health/"
 toc: true
 toc_sticky: true
 excerpt: "This section contains documents about the sexual health of people living in West Sussex."
-downloads: ["SHNA19","SH01", "SH02", "SH03", "SH04", "SH05", "SH06"]
+downloads: ["SHNA25","SHNA19","SH01", "SH02", "SH03", "SH04", "SH05", "SH06"]
 ---
 
 This section contains documents about the sexual health of people living in West Sussex.
