@@ -7,13 +7,13 @@ header:
   overlay_filter: 0.5
 excerpt: "West Sussex Joint Local Health and Wellbeing Strategy 2025 to 2030."
 toc: false
-permalink: /updates/west-sussex-jhwbs-2025/
+permalink: /updates/west-sussex-jlhwbs-2025-2030/
 draft: true
 ---
 
 The JSNA supports the Health and Wellbeing Board in its statutory duties and the development of the Joint Local Health and Wellbeing Strategy. This support includes the [JSNA Summary](/updates/west-sussex-jsna-summary-2024/), the [Community Health survey](/updates/your-health-matters-2024-key-points/) and [various needs assessments](/reports/subject-specific-needs-assessments/).
 
-The new **West Sussex Joint Local Health and Wellbeing Board Strategy** sets out the West Sussex Health and Wellbeing Board’s overarching plan for improving health and wellbeing for residents and communities and reducing inequalities across the county. You can read it at this page on the county's website. [View the West Sussex Joint Local Health and Wellbeing Board Strategy 2025 to 2030](link).
+The new **West Sussex Joint Local Health and Wellbeing Board Strategy** sets out the West Sussex Health and Wellbeing Board’s overarching plan for improving health and wellbeing for residents and communities and reducing inequalities across the county. You can read it at this page on the county's website. [View the West Sussex Joint Local Health and Wellbeing Board Strategy 2025 to 2030](https://www.westsussex.gov.uk/social-care-and-health/publications-policies-and-reports/social-care-and-health-policy-and-reports/joint-local-health-and-wellbeing-strategy-2025-to-2030/).
 
 With a vision of ‘Improving Lives together in West Sussex’, the strategy focuses on five priority areas and three principles which are central to the delivery of the strategy.  
 
