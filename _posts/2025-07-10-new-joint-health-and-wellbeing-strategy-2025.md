@@ -29,7 +29,7 @@ The strategy also includes three principles, that we will:
 +	Build resilient and connected communities, including addressing loneliness and social isolation across the life-course  
 +	Work in partnership to deliver the strategy 
   
-Previous Joint Local Health and Wellbeing Strategies 
+## Previous Joint Local Health and Wellbeing Strategies 
 
-+	[West Sussex Joint Local Health and Wellbeing Strategy 2019 to 2024](/updates/west-sussex-jhwbs/)
++	[West Sussex Joint Local Health and Wellbeing Strategy 2019 to 2024](/updates/west-sussex-jhwbs-2019-2024/)
 +	[Update: Cost of Living Pressures addendum](/assets/core/JHWB-strategy-cost-of-living-addendum.pdf)
