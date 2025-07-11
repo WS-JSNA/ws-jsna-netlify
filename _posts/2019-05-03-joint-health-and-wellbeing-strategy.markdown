@@ -7,17 +7,19 @@ header:
   overlay_filter: 0.5
 excerpt: "This document sets out the vision of the Health and Wellbeing Board, its goals and the ways in which it will work to improve the health and wellbeing for all residents in West Sussex."
 category: HWB
-permalink: /updates/west-sussex-jhwbs/
+permalink: /updates/west-sussex-jhwbs-2019-2024/
 toc: true
 toc_sticky: true
 
 ---
+Please note that there is now [a new version of the Joint Health and Wellbeing Strategy](/updates/west-sussex-jlhwbs-2025-2030/) covering 2025 to 2030.
+{: .notice--info}
 
-The West Sussex [Health and Wellbeing Board](/partners/) has now published its new **[Joint Health and Wellbeing Strategy 2019 – 2024: Start Well, Live Well, Age Well](/assets/core/FINAL-JHWS-2019-2024.pdf)** (JHWS). The strategy sets out the Health and Wellbeing Board's vision, goals and ways in which it will work to improve the health and wellbeing for all residents in West Sussex. It was developed in consultation and collaboration with local residents, service users, multi-disciplinary professionals and partners. It draws on evidence of West Sussex's health and wellbeing needs from the joint strategic needs assessment (JSNA).  
+The **[Joint Health and Wellbeing Strategy 2019 – 2024: Start Well, Live Well, Age Well](/assets/core/FINAL-JHWS-2019-2024.pdf)** (JHWS) set out the Health and Wellbeing Board's vision, goals and ways in which it will work to improve the health and wellbeing for all residents in West Sussex between 2019 and 2024. It was developed in consultation and collaboration with local residents, service users, multi-disciplinary professionals and partners. It draws on evidence of West Sussex's health and wellbeing needs from the joint strategic needs assessment (JSNA).  
 
-The JHWS is not a stand-alone document, but sets the direction of travel for health and social care services in West Sussex. Decision makers, commissioners and service providers across the County Council, CCGs, NHS Trusts, district and borough councils, the voluntary sector and other partners are expected to consider the JHWS when planning, commissioning and providing services that impact on health and wellbeing. 
+This JHWS was not a stand-alone document, but set the direction of travel for health and social care services in West Sussex. Decision makers, commissioners and service providers across the County Council, CCGs, NHS Trusts, district and borough councils, the voluntary sector and other partners were expected to consider the JHWS when planning, commissioning and providing services that impact on health and wellbeing. 
 
-The JHWS identifies the following goals to meet the health and wellbeing needs of the residents of West Sussex: 
+The JHWS identified the following goals to meet the health and wellbeing needs of the residents of West Sussex: 
 
 ## Starting Well
  * Improved infant and maternal outcomes especially in deprived areas
@@ -40,13 +42,13 @@ The JHWS identifies the following goals to meet the health and wellbeing needs o
 The strategy and supporting documents can be downloaded below.  [Further information about the West Sussex Health and Wellbeing Board](www.westsussex.gov.uk/hwb) is also available on its website.
 
 ## Update: Cost of Living Pressures Addendum
-This Cost of Living Pressures Addendum to the West Sussex Joint Health and Wellbeing Strategy 2019-2024 describes the high-level collaborative approach to tackling cost of living pressures across West Sussex and addressing some potential negative impacts on our local population’s health and wellbeing. The addendum includes a review of evidence (as at November 2022).
+This Cost of Living Pressures Addendum to the West Sussex Joint Health and Wellbeing Strategy 2019-2024 described the high-level collaborative approach to tackling cost of living pressures across West Sussex and addressing some potential negative impacts on our local population’s health and wellbeing. The addendum included a review of evidence (as at November 2022).
 
 In summary, this Addendum:
 
-*	Describes cost of living pressures as they relate to our local population
-*	Considers the high level potential impacts to our population’s health and wellbeing
-*	Describes the approach and principles to address the cost of living pressures locally
+*	Described cost of living pressures as they related to our local population
+*	Considered the high level potential impacts to our population’s health and wellbeing
+*	Described the approach and principles to addressing cost of living pressures locally
 
 
 ## Downloads
