@@ -11,3 +11,7 @@
 [[redirects]]
   from = "/wp-content/uploads/2017/11/*"
   to = "/assets/htmlwidgets/:splat"
+# Redirect old (2019) health and wellbeing strategy to the new one (2025)
+[[redirects]]
+  from = "/updates/west-sussex-jhwbs/"
+  to = "/updates/west-sussex-jlhwbs-2025-2030/"
