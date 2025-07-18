@@ -27,7 +27,7 @@ The ambition is that individuals, organisations, and partners use the framework 
 
 Individuals and organisations who deliver, plan, and commission services in the coastal areas are invited to let us know if there is anything else they would like to see included; any questions they may have; or any suggestions on how improved outcomes could be achieved. Please contact <a href="mailto:publichealth@westsussex.gov.uk?subject=Coastal Health Inequalities Framework">Public Health</a> to provide your thoughts.
 
-There will be ongoing opportunities to contribute or comment on the framework. We will continue to analyse key information and data, and work with others, including academics, on this important area to keep the framework updated.
+There will be ongoing opportunities to contribute or comment on the framework. We will continue to analyse key information and data, and work with others, including academics, on this important area to keep the framework updated. Data updates will be made on this webpage. 
 
 ## Downloads
 
@@ -36,3 +36,26 @@ Health and wellbeing of West Sussex coastal communities: A framework for action 
 * [Framework](/assets/core/west-sussex-coastal-inequalities-framework-v1.pdf) (PDF, 7Mb)
 * [Infographic](/assets/core/west-sussex-coastal-inequalities-infographic-v1.pdf) (PDF, 270Kb)
 * [Data Pack](/assets/core/west-sussex-coastal-inequalities-data-pack-v1.pdf) (PDF, 5Mb)
+
+## 2025 Update: Benefits claims in coastal communities
+
+This framework included a commitment to undertake further analysis and research to extend our knowledge of our coastal communities, including understanding health outcomes and the determinants of health.
+
+As part of this commitment, we have produced a series of reports exploring economic hardship in coastal West Sussex. This largely draws from data on benefit claims released by the Department for Work and Pensions via StatXplore, which is available at small areas. 
+
+These reports focus on:
+
+* The number and proportion of children living in low-income families in coastal West Sussex
+
+And benefits claims among older people including:
+
+* Attendance Allowance: a non-means tested benefit for pensioners who need help with a disability or health condition/s   
+* Pension Credit: a benefit for pensioners on low income to help with living costs
+* Housing Benefit: a benefit for pensioners on low income to help cover the cost of rent
+
+Key findings for each benefit have been summarised in a [slide deck](/assets/pdf/coastal_briefings/2025_07_Summary_of_Benefit_Claims.pdf) (PDF, 1.2Mb) and detailed reports exploring differences in coastal and non-coastal areas of West Sussex are available:
+
+* [Children in Low-Income Families](/assets/pdf/coastal_briefings/2024_11_Child_Poverty_V2.pdf) (PDF, 1.2Mb)
+* [Attendance Allowance](/assets/pdf/coastal_briefings/2024_12_Attendance_Allowance_V2.pdf) (PDF, 1Mb)
+* [Pension Credit](/assets/pdf/coastal_briefings/2024_12_12_Pension_Credit.pdf) (PDF, 1.3Mb)
+* [Housing Benefit](/assets/pdf/coastal_briefings/2025_01_08_Housing_Benefit.pdf) (PDF, 1.6Mb)
