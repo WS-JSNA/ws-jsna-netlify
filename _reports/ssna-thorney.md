@@ -9,7 +9,8 @@ permalink: /reports/subject-specific-needs-assessments/thorney-briefing/
 sidebar:
   nav: "reports"
 excerpt: "Exploring the characteristics of the population of Thorney Island"
-
+toc: true
+toc_sticky: true
 ---
 Thorney Island is a peninsula in Chichester which contains the only regular armed forces base in West Sussex. 
 
