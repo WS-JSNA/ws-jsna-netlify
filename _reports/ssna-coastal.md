@@ -59,3 +59,7 @@ Key findings for each benefit have been summarised in a [slide deck](/assets/pdf
 * [Attendance Allowance](/assets/pdf/coastal_briefings/2024_12_Attendance_Allowance_V2.pdf) (PDF, 1Mb)
 * [Pension Credit](/assets/pdf/coastal_briefings/2024_12_12_Pension_Credit.pdf) (PDF, 1.3Mb)
 * [Housing Benefit](/assets/pdf/coastal_briefings/2025_01_08_Housing_Benefit.pdf) (PDF, 1.6Mb)
+
+In addition, a briefing providing a summary of the population of Thorney Island has also been produced. Whilst related, this population, which largely consists of service personnel and their families, has been described independently of the population of coastal West Sussex:
+
+* [Thorney Island Briefing](https://jsna.westsussex.gov.uk/reports/subject-specific-needs-assessments/thorney-briefing/)
