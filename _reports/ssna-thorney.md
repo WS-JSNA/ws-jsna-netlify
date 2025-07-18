@@ -16,7 +16,7 @@ Thorney Island is a peninsula in Chichester which contains the only regular arme
 
 This briefing provides a summary of the population of Thorney Island, using data from the 2021 Census, and draws on information about the service personnel stationed there, using information from Quarterly Service Personnel Statistics, and Families Continuous Attitudes Survey (FamCAS).
 
-Thorney Island is a special, coastal population, largely consisting of service personnel and their families. Whilst related, this population has been described independently of the population of coastal West Sussex, which has been described as part of a [Framework for Action to Reduce Health Inequalities in Coastal West Sussex](/reports/ssna-coastal/).
+Thorney Island is a special, coastal population, largely consisting of service personnel and their families. Whilst related, this population has been described independently of the population of coastal West Sussex, which has been described as part of a [Framework for Action to Reduce Health Inequalities in Coastal West Sussex](/reports/subject-specific-needs-assessments/coastal-health-inequalities/).
 
 ## Key messages: 
 
