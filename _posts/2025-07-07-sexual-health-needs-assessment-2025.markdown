@@ -24,6 +24,8 @@ This has guided the four topics explored in this needs assessment, which are:
 
 This needs assessment has recognised that sexual health is important across the life course, though at different ages sexual health needs can differ. It has been undertaken using a mixed methods approach, utilising both quantitative and qualitative approaches to gather data and assess how the needs of the population in relation to sexual and reproductive health are being met. The qualitative work included listening to views of local residents through a survey and gathering perspectives from a range of stakeholders across West Sussex in statutory and voluntary sector organisations through interviews, focus groups and a roundtable event.
 
+<iframe title="sexual health profile_v1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNGI3ZGFmYzYtNzgzYS00MGZlLTg2OTAtZmU0MTExOWI4YmE2IiwidCI6IjI1N2ZkYWRjLTVjMGMtNGRmYS05NzdlLTkzODZkZmQ3MmQyMiJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 ## Downloads
 
 + [West Sussex Sexual Health Needs Assessment 2025 - Executive Summary (PDF, 781KB)](/assets/living-well/West_Sussex_Sexual_Health_Needs_Assessment_2025_Executive_Summary.pdf)
