@@ -42,9 +42,9 @@ This data pack contains analysis of 2023/24 NCMP data for West Sussex, with brea
 {% include embedpdf file_path="/assets/pdf/ncmp/NCMP_2324.pdf" alt="You can download this data pack using the link below." width="700" height="525" %}
 
 ## Most recent report:
-+ [National Child Measurement Programme Data Pack, 2023/24](/assets/pdf/ncmp/NCMP_2324.pdf) (PDF, 5Mb)
++ [National Child Measurement Programme Data Pack, 2024/25](/assets/pdf/ncmp/NCMP_2324.pdf) (PDF, 5Mb)
 
 ## Previous downloads:
 ### 2017/18:
-+ [NCMP West Sussex Data Briefing, 2017/18](/assets/starting-well/FINAL-Briefing-NCMP-West Sussex-201718.pdf) (PDF, 0.6Mb)
-+ [NCMP West Sussex Summary Slides, Spring 2019](/assets/starting-well/NCMP Slide Set for website 1718.pdf) (PDF, 1.5Mb)
++ [NCMP West Sussex Data Briefing, 2017/18](/assets/starting-well/FINAL-Briefing-NCMP-West%20Sussex-201718.pdf) (PDF, 0.6Mb)
++ [NCMP West Sussex Summary Slides, Spring 2019](/assets/starting-well/NCMP%20Slide%20Set%20for%20website%201718.pdf) (PDF, 1.5Mb)
