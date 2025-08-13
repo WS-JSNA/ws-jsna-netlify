@@ -8,7 +8,7 @@ header:
 excerpt: "West Sussex Integrated community team (ICT) profiles. Summary information on demographics and key health and wellbeing indicators."
 category: JSNA
 permalink: /updates/west-sussex-ict-profiles/
-draft: false
+draft: true
 ---
 These data packs were produced by the three Public Health Intelligence teams across Sussex and NHS Sussex Business Intelligence team. They include summary information on demographics and key health and wellbeing indicators.
 
