@@ -27,5 +27,5 @@ Some of these indicators are CORE20Plus5 indicators and NHS Health Inequalities 
 
 The tool is expected to be updated over time.
 
-## Downloads
-- [State_of_sussex_POF_interactive_july_25 (HTML, 2.7Mb)](assets/htmlwidgets/state_of_sussex_pof_interactive_july_25)
+<!-- ## Downloads
+- [State_of_sussex_POF_interactive_july_25 (HTML, 2.7Mb)](assets/htmlwidgets/state_of_sussex_pof_interactive_july_25) -->
