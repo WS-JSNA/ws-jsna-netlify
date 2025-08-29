@@ -159,6 +159,8 @@ reports:
         url: "/reports/subject-specific-needs-assessments/oral-health/"
       - title: Pharmaceutical Needs Assessment (PNA)
         url: "/reports/subject-specific-needs-assessments/pharmaceutical-needs-assessment-pna/"
+      - title: Physical Activity Briefing
+        url: "/reports/subject-specific-needs-assessments/phys-act-briefing/"
       - title: Self-Harm and Suicide Prevention
         url: "/reports/subject-specific-needs-assessments/suicide-prevention/"
       - title: Sexual Health 
