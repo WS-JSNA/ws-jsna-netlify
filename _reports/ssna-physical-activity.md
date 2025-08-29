@@ -26,5 +26,3 @@ According to the latest Active Lives Survey (2023/24), 70.4% adults (aged 19+) i
 + [Physical Activity Briefing 2025](/assets/pdf/phys-act/2025-08-29_Physical_Activity_Briefing.pdf)
 
 <!-- ## Map: Small area estimates of active adults -->
-
-<!-- {% include htmlwidget_map html_path="/assets/htmlwidgets/active_age_leaflet_map_2.html" %} -->
