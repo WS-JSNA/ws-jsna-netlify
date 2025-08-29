@@ -13,9 +13,10 @@ West Sussex is a relatively affluent county, where the overall measures of healt
 Following the COVID-19 pandemic there is an on-going effort across services to reset and/or recover, but it is also important to understand changes in the population health status and health behaviours (such as smoking, drinking, exercise, mental health) to inform assumptions used in the planning and delivery of public health programmes and interventions.
 
 A household survey (called Your Health Matters) was undertaken between February and March 2024, with the following aims:
-• To gather detailed information on the health behaviours (such as smoking, drinking, exercise) following the COVID-19 pandemic.
-• To understand health amongst different groups in the population, and of specific interest to gain a better insight into health inequalities in the county.
-• To make the best use of resources a key aim was to use the survey to add and not duplicate knowledge, for this reason we adopted deprivation as the key sampling criteria not administrative boundaries.
+
++ To gather detailed information on the health behaviours (such as smoking, drinking, exercise) following the COVID-19 pandemic.
++ To understand health amongst different groups in the population, and of specific interest to gain a better insight into health inequalities in the county.
++ To make the best use of resources a key aim was to use the survey to add and not duplicate knowledge, for this reason we adopted deprivation as the key sampling criteria not administrative boundaries.
 
 The survey was funded via Contain Outbreak Management Fund (COMF); funding provided to local authorities in England to help reduce the spread of coronavirus and support local public health. Addresses in the county were split into five groups, according to deprivation (as defined by the Index of Deprivation 2019). This was done to gain a better understanding of health inequalities. We sought equal samples by deprivation quintile (i.e.at least 1,000 responses from the most deprived areas, alongside similar samples from less deprived areas).
 
