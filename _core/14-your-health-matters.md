@@ -22,7 +22,7 @@ The survey was funded via Contain Outbreak Management Fund (COMF); funding provi
 On this page, we provide key resources to help understand the results of the survey as well as summary reports.
 
 ## Downloads
-<!-- - [JSNA Your Health Matters 2024 in 20 slides (PDF, 349Kb)](/assets/your-health-matters/YHM 2024 Summary slides.pdf) -->
++ [JSNA Your Health Matters 2024 Summary Slides (PDF, 4.81Mb)](/assets/pdf/Your_Health_Matters_Survey_Summary_2024.pdf)
 
 ## Maps
 
