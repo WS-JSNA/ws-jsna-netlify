@@ -196,6 +196,8 @@ core:
         url: "/core/population-data/mortality/"
       - title: "Deprivation"
         url: "/core/population-data/deprivation/"
+      - title: "Hyperlocal need"
+        url: "/core/hln/"
       - title: "Fuel Poverty"
         url: "/core/population-data/fuel-poverty/"
       - title: "Census Demographics 2011"
