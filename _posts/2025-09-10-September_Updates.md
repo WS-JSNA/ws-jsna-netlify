@@ -18,5 +18,6 @@ Recent pieces of work put onto the JSNA site in September include:
 - [Hyper local needs measure](/core/hln): summary of the overall measure of hyper-local needs and scores. 
 - [Briefing on physical activity](/reports/subject-specific-needs-assessments/phys-act-briefing/): summary of levels of physical activity and inactivity across adults in West Sussex.
 - [Free school meals](/updates/fsm_2324/): brief summary of free school meals uptake in West Sussex (2023/24).
+- [Mid-year Population Estimates for 2024](/core/population-data/estimates/): we have produced a short summary of ONS mid-year population estimates for West Sussex and its districts and boroughs (2024).
 
 We hope to provide regular updates on new pieces of work completed and shared via the JSNA site.  
