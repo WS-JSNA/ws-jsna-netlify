@@ -1,0 +1,29 @@
+---
+layout: single
+title: 2025 West Sussex Pharmaceutical Needs Assessment (PNA) now published
+date: 2025-10-01
+category: ["needs assessment","PNA"]
+permalink: /updates/West-Sussex-PNA-2025/
+excerpt: "The 2025 PNA for West Sussex is now complete. West Sussex residents and pharmaceutical service providers were consulted for their views."
+---
+
+![A decorative image of people waiting at a pharmacy counter](/assets/images/PNA_picture.PNG)
+
+The 2025 West Sussex Pharmaceutical Needs Assessment (PNA) has now been published.
+
+### What is the PNA?
+Since April 2013, every Health and Wellbeing Board (HWB) in England has had a statutory responsibility to publish and keep up to date a statement of the needs for pharmaceutical services of the population in its area. This is referred to as a Pharmaceutical Needs Assessment (PNA).
+
+The PNA:
+* looks at the current provision of pharmaceutical services across West Sussex
+* decides whether this meets the current and future needs of the population
+* identifies any potential gaps to service delivery. 
+
+The PNA is a key document which is used to inform decisions about applications for new, or changes to existing, pharmaceutical services. It is also used to inform the commissioning of NHS-funded, and Public Health funded services that can be provided by local community pharmacies.
+
+The PNA consists of the following documents:
+
+* [West Sussex PNA 2025-2028 – Full report (PDF, 3.1MB)](/assets/pdf/pna/2025-2028_West_Sussex_PNA.pdf)
+* [West Sussex PNA 2025-2028 – Appendix 2: Consultation Report (PDF, 139KB)](/assets/pdf/pna/2025-2028_West_Sussex_PNA_Appendix_2_Consultation_Report_002.pdf)
+* [West Sussex PNA 2025-2028 – Appendix 3: Locality Profiles (PDF, 3.9MB)](/assets/pdf/pna/2025_2028_West_Sussex_PNA_Appendix_3_Locality_Profiles.pdf)
+* [West Sussex PNA 2025-2028 - Appendix 4: Equalities Impact Assessment (PDF, 343KB)](/assets/pdf/pna/2025-2028_West_Sussex_PNA_Appendix_4_Equalities_Assessment.pdf)
