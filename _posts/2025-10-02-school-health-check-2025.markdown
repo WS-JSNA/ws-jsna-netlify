@@ -5,6 +5,8 @@ date: 2025-10-02
 permalink: /updates/west-sussex-school-health-check-2025/
 excerpt: 'In Spring 2025, data on the health and wellbeing needs of children and young people living in West Sussex was collected through a pilot survey called "The School Health Check". This survey gathered health, wellbeing, and lifestyle data from children aged 8 to 18.'
 toc: true
+header:
+  overlay_color: "#ca4993"
 ---
 
 ### Introduction
@@ -24,4 +26,5 @@ The survey also links in with and helps inform the West Sussex Joint Health and 
 + [West Sussex School Health Check - Secondary School (Years 8 and 10) Report (PDF)](/assets/pdf/school-health-check-25/West_Sussex_Y8+Y10_Secondary_Report_2025.pdf)
 + [West Sussex School Health Check - Secondary School (Year 12+) Report (PDF)](/assets/pdf/school-health-check-25/West_Sussex_Y12+_Secondary_Report_2025.pdf)
 + [West Sussex School Health Check - SEND Report (PDF)](/assets/pdf/school-health-check-25/West_Sussex_SEND_report_2025.pdf)
+
 
