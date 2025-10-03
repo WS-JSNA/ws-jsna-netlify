@@ -33,7 +33,8 @@ This needs assessment report can be used to shape approaches and access for youn
 Many of the areas identified in the findings and areas for focus section have programmes of work in place to address these. These are not included in this needs assessment report, they will be part of strategies, action plans or frameworks for delivery.
 
 ### Attachments
-+[Young People's Health Needs Assessment 2025 (PDF)](/assets/starting-well/West_Sussex_YPHNA_2025.pdf)
++ [Young People's Health Needs Assessment 2025 (PDF)](/assets/starting-well/West_Sussex_YPHNA_2025.pdf)
+
 
 
 
