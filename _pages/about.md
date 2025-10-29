@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: "/about/"
+toc: true
 ---
 # About 
 
@@ -16,7 +17,7 @@ To build this comprehensive picture, the needs and assets of the local populatio
 + accessibility, use and effectiveness of services 
 + resident and user surveys.
 
-The needs and inequalities identified in the JSNA are used by the Health and Wellbeing Board to inform the JHWS. This strategy outlines how these needs will be met and outlines a framework for the planning, commissioning and provision of services to improve outcomes for residents. 
+The needs and inequalities identified in the JSNA are used by the Health and Wellbeing Board to inform the Joint Local Health and Wellbeing Strategy (JLHWS). This strategy outlines how these needs will be met and outlines a framework for the planning, commissioning and provision of services to improve outcomes for residents. For more information on the Health and Wellbeing Board, [see below](/#west-sussex-health-and-wellbeing-board).
 
 {% include figure image_path="/assets/images/HWBprocess.jpg" alt="The process from the JSNA to improved health outcomes in residents." caption="Outline of the JSNA and joint health and wellbeing strategy process." %}
 
@@ -24,7 +25,7 @@ The needs and inequalities identified in the JSNA are used by the Health and Wel
 
 The Public Health and Social Research Unit (PHSRU) is responsible for the evidence base that underpins strategic decision-making in West Sussex County Council and its partners. We are a multi-disciplinary, highly skilled and experienced research team specialising in health and social research.
 
-In addition to producing the JSNA on behalf of the Health and Wellbeing Board, we lead on other statutory responsibilities, including commissioning [West Sussex Healthwatch](http://www.healthwatchwestsussex.co.uk/) and ensuring high quality research standards through West Sussex County Council’s Research Governance process.
+In addition to producing the JSNA on behalf of the Health and Wellbeing Board, we lead on other statutory responsibilities, including commissioning the [Pharmaceutical Needs Assessment](https://jsna.westsussex.gov.uk/reports/subject-specific-needs-assessments/pharmaceutical-needs-assessment-pna/) and ensuring high quality research standards through West Sussex County Council’s Research Governance process.
 
 Our work can be split into three functions:
 
@@ -67,11 +68,6 @@ This section also houses [interactive maps](/core/maps/) and [tools](/core/tools
 ### [Reports](/reports/) 
 
 Our published work, ranging from statutory reports, such as the Director of Public Health’s Annual Report and the JSNA, to briefing notes to formal comprehensive needs assessments, is housed in the ‘Reports’ section.
-
-### [CCGs](/ccgs/)
-
-Annual population profiles for each of the three Clinical Commissioning Groups (CCGs) in West Sussex are housed in this section. 
-
 
 Most documents can be found in multiple locations on the website, due to the overlapping and interlinked nature of public health. However, certain sections act as comprehensive stores for specific types of documents. All the needs assessments, for example, are collected in the Subject Specific Needs Assessment page within the Reports section. 
 
