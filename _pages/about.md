@@ -35,7 +35,7 @@ We deliver a work programme agreed by the Health and Wellbeing Board, including 
 
 ### 2. Supporting our partners
 
-We maintain and analyse health data (such as births, deaths and child health data, and published data sets from NHS Digital and Public Health England) and maintain this JSNA website as a hub for this data. 
+We maintain and analyse health data (such as births, deaths and child health data, and published data sets from NHS Digital, UKSHA, and OHID) and maintain this JSNA website as a hub for this data. 
 
 We work with the ICB on primary and secondary care datasets to help understand the population demand for healthcare and public health interventions. We also assist our partners in Districts and external organisations to “join-up” health and social care data, to streamline services. 
 
