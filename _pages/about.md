@@ -17,7 +17,7 @@ To build this comprehensive picture, the needs and assets of the local populatio
 + accessibility, use and effectiveness of services 
 + resident and user surveys.
 
-The needs and inequalities identified in the JSNA are used by the Health and Wellbeing Board to inform the Joint Local Health and Wellbeing Strategy (JLHWS). This strategy outlines how these needs will be met and outlines a framework for the planning, commissioning and provision of services to improve outcomes for residents. For more information on the Health and Wellbeing Board, [see below](/#west-sussex-health-and-wellbeing-board).
+The needs and inequalities identified in the JSNA are used by the Health and Wellbeing Board to inform the Joint Local Health and Wellbeing Strategy (JLHWS). This strategy outlines how these needs will be met and outlines a framework for the planning, commissioning and provision of services to improve outcomes for residents. For more information on the Health and Wellbeing Board, [see below](/about/#west-sussex-health-and-wellbeing-board).
 
 {% include figure image_path="/assets/images/HWBprocess.jpg" alt="The process from the JSNA to improved health outcomes in residents." caption="Outline of the JSNA and joint health and wellbeing strategy process." %}
 
