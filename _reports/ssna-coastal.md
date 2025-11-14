@@ -70,4 +70,4 @@ We have produced a briefing summarising the population of Thorney Island. Whilst
 ### Indices of Multiple Deprivation 2025
 We have produced a short summary slide deck to provide an updated analysis of the 2025 Indices of Multiple Deprivation, which was released in November 2025. This is a direct replication of the analyses of the 2019 Indices described in the coastal data pack. 
 
-* [Coastal West Sussex: Indices of Multiple Deprivation 2025](assets/pdf/coastal_briefings/2025_11_14_IMD_2025_coastal_analysis.pdf) (PDF, 981Kb)
+* [Coastal West Sussex: Indices of Multiple Deprivation 2025](/assets/pdf/coastal_briefings/2025_11_14_IMD_2025_coastal_analysis.pdf) (PDF, 981Kb)
