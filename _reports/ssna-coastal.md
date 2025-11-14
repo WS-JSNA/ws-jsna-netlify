@@ -37,11 +37,13 @@ Health and wellbeing of West Sussex coastal communities: A framework for action 
 * [Infographic](/assets/core/west-sussex-coastal-inequalities-infographic-v1.pdf) (PDF, 270Kb)
 * [Data Pack](/assets/core/west-sussex-coastal-inequalities-data-pack-v1.pdf) (PDF, 5Mb)
 
-## 2025 Update: Benefits claims in coastal communities
-
+## Updates:
 This framework included a commitment to undertake further analysis and research to extend our knowledge of our coastal communities, including understanding health outcomes and the determinants of health.
 
-As part of this commitment, we have produced a series of reports exploring economic hardship in coastal West Sussex. This largely draws from data on benefit claims released by the Department for Work and Pensions via StatXplore, which is available at small areas. 
+As part of this commitment, we are continuing to produce reports and briefings to further explore the population, health and wellbeing of our coastal towns. Updates are provided below. 
+
+### Benefits claims in coastal communities
+We have produced a series of reports exploring economic hardship in coastal West Sussex. This largely draws from data on benefit claims released by the Department for Work and Pensions via StatXplore, which is available at small areas. 
 
 These reports focus on:
 
@@ -60,6 +62,12 @@ Key findings for each benefit have been summarised in a [slide deck](/assets/pdf
 * [Pension Credit](/assets/pdf/coastal_briefings/2024_12_12_Pension_Credit.pdf) (PDF, 1.3Mb)
 * [Housing Benefit](/assets/pdf/coastal_briefings/2025_01_08_Housing_Benefit.pdf) (PDF, 1.6Mb)
 
-In addition, a briefing providing a summary of the population of Thorney Island has also been produced. Whilst related, this population, which largely consists of service personnel and their families, has been described independently of the population of coastal West Sussex:
+### Thorney Island
+We have produced a briefing summarising the population of Thorney Island. Whilst related, this population, which largely consists of service personnel and their families, has been described independently of the population of coastal West Sussex:
 
 * [Thorney Island Briefing](https://jsna.westsussex.gov.uk/reports/subject-specific-needs-assessments/thorney-briefing/)
+
+### Indices of Multiple Deprivation 2025
+We have produced a short summary slide deck to provide an updated analysis of the 2025 Indices of Multiple Deprivation, which was released in November 2025. This is a direct replication of the analyses of the 2019 Indices described in the coastal data pack. 
+
+* [Coastal West Sussex: Indices of Multiple Deprivation 2025](assets/pdf/coastal_briefings/2025_11_14_IMD_2025_coastal_analysis.pdf) (PDF, 981Kb)
