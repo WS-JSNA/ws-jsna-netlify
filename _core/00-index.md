@@ -19,7 +19,7 @@ The [population data](/core/population-data/) section comprises annual:
 
 for the various geographies and populations in West Sussex. 
 
-[Deprivation](/core/population-data/deprivation/) data from the 2015 Indices of deprivation and other poverty data are also provided, as are West Sussex relevant [data tables from the 2011 census](/core/population-data/census-demographics/). Information on the [protected characteristics from the 2010 Equality Act](/core/population-data/protected-characteristics/) are also given.
+[Deprivation](/core/population-data/deprivation/) data from the 2025 Indices of deprivation and other poverty data are also provided, as are West Sussex relevant [data tables from the 2021 census](/core/population-data/census-demographics/). Information on the [protected characteristics from the 2010 Equality Act](/core/population-data/protected-characteristics/) are also given.
 
 An [index of key illness and disability data](/core/illness-and-disability) can also be found in this core data section.
 
