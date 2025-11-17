@@ -11,7 +11,7 @@ sidebar:
   nav: "core"
 ---
 
-### Current Release
+### Current Release (2025)
 
 The most recently available deprivation data are from the [2025 English Indices of Deprivation]([https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025)). These show relative deprivation at small areas (LSOAs). Data on household deprivation comes from the 2021 census and can be found in the [census demographics](/core/census-21/) section of the JSNA website.
 
@@ -38,8 +38,14 @@ In addition to the seven domain-level indices above, there are 2 supplementary i
 Further information about West Sussex and the 2025 IMD can be found [in our update briefing](/updates/indices-of-multiple-deprivation-2025/).
 
 ### Past Releases
+
+#### 2019 Indices of Multiple Deprivation
+
+Please note that due to changes in underlying geographies, this archive should be used for understanding data that were created around the time of the release. Care should be taken when making comparisons across releases.
+
 [Click here for the West Sussex 2019 IMD briefing.](/assets/core/Briefing-West-Sussex-IMD-2019.pdf)
-### 2019 Map
+
+##### 2019 Map
 
 The map below summarises the 2019 IMD rankings for LSOAs in West Sussex. You can also toggle between the different subdomains.
 
@@ -54,13 +60,9 @@ The map below summarises the 2019 IMD rankings for LSOAs in West Sussex. You can
 * [Mid Sussex IMD 2015 maps](/assets/pdf/maps/Mid-Sussex-IMD-2015.pdf)
 * [Worthing IMD 2015 maps](/assets/pdf/maps/Worthing-IMD-2015.pdf)-->
 
-#### Indices of multiple deprivation at GP practice level (2019)
+#### 2015 Release 
 
-This information will be updated in due course. 
-
-### 2015 Release 
-
-#### Indices of multiple deprivation at GP practice level (2015)
+##### Indices of multiple deprivation at GP practice level (2015)
 
 GP practices do not have established geographical boundaries (e.g. people residing in one area may be registered to GP practices outside of their local area and more than one GP practice may operate in a single area). However, using the January 2016 release of residential location of GP registered patients, it is possible to create a deprivation score for each GP practice ‘reach’.
 
