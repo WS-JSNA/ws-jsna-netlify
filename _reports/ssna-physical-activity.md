@@ -1,7 +1,7 @@
 ---
 layout: single 
 title: Physical Activity Briefing
-date: 2025-08-29
+date: 2026-01-16
 header:
   overlay_color: "#038cd0"
   overlay_filter: 0.5
@@ -23,6 +23,6 @@ According to the latest Active Lives Survey (2023/24), 70.4% adults (aged 19+) i
 + In 2022/23, 17% of adults (16+) in West Sussex walked for travel at least three days a week. This is not significantly different from the national average (18.6%). 
 
 ## Downloads
-+ [Physical Activity Briefing 2025](/assets/pdf/phys-act/2025-08-29_Physical_Activity_Briefing.pdf)
++ [Physical Activity Briefing 2025](/assets/pdf/phys-act/2026-01-16_Physical_Activity_Briefing.pdf)
 
 <!-- ## Map: Small area estimates of active adults -->
