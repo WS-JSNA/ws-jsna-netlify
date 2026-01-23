@@ -14,6 +14,8 @@ toc_sticky: true
 ---
 This briefing summarises levels of physical activity and inactivity across adults in West Sussex and how this has changed overtime, using data from Sport England’s Active Lives Adults Survey.
 
+This briefing was written in July 2025 and subsequently updated to reflect changes to Sport England’s Active Lives Small Area Estimates Tool, published in September 2025.
+
 ## Key messages
 According to the latest Active Lives Survey (2023/24), 70.4% adults (aged 19+) in West Sussex are meeting the recommended levels of physical activity. This is significantly higher than the national average (67.4%).
 
