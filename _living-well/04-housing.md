@@ -7,7 +7,7 @@ header:
   overlay_color: "#00a776"
 title: "Housing and homelessness"
 permalink: "/living-well/housing/"
-downloads: ["HOME05","HOME04","HOME03","HOME01", "HOME02"]
+downloads: ["HOME06","HOME05","HOME04","HOME03","HOME01", "HOME02"]
 excerpt: "This section contains information about housing, including, household composition, tenure, housing condition and homelessness."
 toc: true
 toc_sticky: true
