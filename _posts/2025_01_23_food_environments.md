@@ -9,11 +9,14 @@ excerpt: "A briefing which provides a summary of the retail food environment in 
 toc: false
 permalink: /updates/food-environments-briefing/
 ---
+
+Public Health and Social Research Unit are conducting a series of work looking into place-based analysis across the county, which includes (but is not limited to) identifying locations of licenced alcohol premises, investigating access to green space and providing a summary of the retail food environment in West Sussex. 
+
+## Food environments
+
 This briefing provides a summary of the retail food environment in West Sussex, through the identification of fast-food outlets and supermarkets at county, district and borough and small area level, using data from the Food Standards Agency’s (FSA) Food Hygiene Rating Scheme. 
 
-This briefing is part of a series of ongoing work being conducted by the Public Health and Social Research Unit looking into place-based analysis across the county, which includes (but is not limited to) identifying locations of licenced alcohol premises and investigating access to green space.
-
-## Key messages:
+### Key messages:
 
 + In 2024, there were 777 fast food outlets in West Sussex, equating to a rate of 86.3 outlets per 100,000 population. This rate is significantly lower than England (115.9 per 100,000).
 + The number of fast-food outlets per 100,000 has increased in West Sussex since 2017 (75.5 per 100,000 population).
@@ -21,7 +24,17 @@ This briefing is part of a series of ongoing work being conducted by the Public 
 + Worthing had the highest density of fast-food outlets (number of outlets per 100,000 people) in West Sussex (124.7). This was the ninth highest rate across the amongst the districts and unitary authorities (UAs) in the South East. 
 
 
-## Downloads
+### Downloads
 
 + [Food environments briefing](/assets/pdf/food_environments/2025_01_23_Food_Environments_Briefing.pdf)
+
+## Food environments - focus on schools
+
+This briefing aims to extend previous work on food environments undertaken by the Public Health and Social Research Unit with a supplementary focus on end of school opening hours and small area deprivation, based on the updated 2025 Indices of Deprivation (IoD25).
+
+### Downloads
+
++ [Food environments briefing - focus on schools](/assets/pdf/food_environments/2025_01_23_Food_Environments_Schools_Briefing.pdf)
+
+
 
