@@ -10,4 +10,5 @@ Each page allows you to explore patterns across different geographies, from nati
 
 More information is included in the ‘summary page’ tab of the dashboard. We recommend that you click on the double headed arrow at the bottom right to open up the dashboard in full screen. You can hit Escape (Esc) to exit this view at any time.
 
-<iframe title="Poverty Dashboard_accessible_v2" width="600" height="373.5" src=https://app.powerbi.com/view?r=eyJrIjoiYTMyNjIxOTYtOWE2Yy00MDY5LWEzZTItYmRkMGRhMTg2ZmIwIiwidCI6IjI1N2ZkYWRjLTVjMGMtNGRmYS05NzdlLTkzODZkZmQ3MmQyMiJ9 frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Poverty Dashboard_accessible_v2" width="600" height="373.5" 
+  src="https://app.powerbi.com/view?r=eyJrIjoiYTMyNjIxOTYtOWE2Yy00MDY5LWEzZTItYmRkMGRhMTg2ZmIwIiwidCI6IjI1N2ZkYWRjLTVjMGMtNGRmYS05NzdlLTkzODZkZmQ3MmQyMiJ9" frameborder="0" allowFullScreen="true"></iframe>
