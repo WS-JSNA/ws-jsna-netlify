@@ -8,14 +8,14 @@ The Health Protection Dashboard provides an interactive overview of key health p
 
 The dashboard brings together a wide range of health protection topics, including:
 
-•	Antimicrobial resistance (AMR)
-•	Gastrointestinal infections
-•	Hepatitis
-•	Immunisation and childhood vaccine preventable diseases
-•	Respiratory infections
-•	Sexually transmitted infections and HIV
-•	Screening
-•	Other public health protection indicators
++	Antimicrobial resistance (AMR)
++	Gastrointestinal infections
++	Hepatitis
++ Immunisation and childhood vaccine preventable diseases
++	Respiratory infections
++	Sexually transmitted infections and HIV
++	Screening
++	Other public health protection indicators
 
 AMR data is presented at sub Integrated Care Board (ICB) level, reflecting the structure of available national datasets. 
 
