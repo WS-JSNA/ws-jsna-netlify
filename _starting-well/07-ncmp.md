@@ -10,6 +10,7 @@ sidebar:
   nav: "starting"
 excerpt: "The National Child Measurement Programme (NCMP) is an annual record of the height and weight of primary school children in reception and year 6, and a key source of robust data for Public Health indicators."
 ---
+
 The rise of childhood obesity in England and the implications of obesity persisting into adulthood is a public health concern. Obesity in childhood can have a significant negative impact on the health and emotional wellbeing of children and young people. Obesity in adults is a risk factor for other health conditions such as type 2 diabetes, coronary heart disease, stroke and some types of cancer and may also impact on mental health.
 
 The National Child Measurement Programme (NCMP) is an annual record of height and weight measurements of children in reception (aged 4 to 5 years) and year 6 (aged 10 to 11 years) within state-maintained primary schools. This data is used at a national level to support local public health initiatives and inform the local planning and delivery of services for children.
@@ -37,9 +38,13 @@ This data pack presents an analysis of the 2024/25 National Child Measurement Pr
 + [National Child Measurement Programme Data Pack, 2024/25](/assets/pdf/ncmp/NCMP_2425.pdf) (PDF, 5Mb)
 
 ## Previous downloads:
-### 2023/24
+
+### 2023/24:
+
 + [National Child Measurement Programme Data Pack, 2023/24](/assets/pdf/ncmp/NCMP_2324.pdf) (PDF, 5Mb)
+
 ### 2017/18:
+
 + [NCMP West Sussex Data Briefing, 2017/18](/assets/starting-well/FINAL-Briefing-NCMP-West%20Sussex-201718.pdf) (PDF, 0.6Mb)
 + [NCMP West Sussex Summary Slides, Spring 2019](/assets/starting-well/NCMP%20Slide%20Set%20for%20website%201718.pdf) (PDF, 1.5Mb
 
