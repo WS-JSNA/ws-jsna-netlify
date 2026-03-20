@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Excess Weight in Childhood - National Child Measurement Programme 
-date: 2025-08-11
+date: 2026-03-20
 header:
  overlay_color: "#ca4993"
  overlay_filter: 0.5
@@ -14,32 +14,24 @@ The rise of childhood obesity in England and the implications of obesity persist
 
 The National Child Measurement Programme (NCMP) is an annual record of height and weight measurements of children in reception (aged 4 to 5 years) and year 6 (aged 10 to 11 years) within state-maintained primary schools. This data is used at a national level to support local public health initiatives and inform the local planning and delivery of services for children.
 
-This data pack contains analysis of 2023/24 NCMP data for West Sussex, with breakdowns by age, sex, area (based on postcode of the child), deprivation and ethnicity.  This includes local analyses conducted by the Public Health and Social Research Unit alongside published data from: 
+This data pack presents an analysis of the 2024/25 National Child Measurement Programme (NCMP) data for West Sussex. It provides a summary of the most recent child weight figures released by the Office for Health Improvement and Disparities (OHID) in November 2025. The dataset includes information at national, regional, and local authority levels, based on the child’s residential postcode. This analysis includes data published from:
 
-+	NHS England Digital: [National Child Measurement Programme](https://digital.nhs.uk/data-and-information/publications/statistical/national-child-measurement-programme)
++	Office of Health Improvement and Disparities: [National Child Measurement Programme](https://www.gov.uk/government/statistics/national-child-measurement-programme-ncmp-annual-report-academic-year-2024-to-2025-england)
 +	Office for Health Improvement and Disparities: [Obesity, Physical Activity and Nutrition Profile](https://fingertips.phe.org.uk/profile/obesity-physical-activity-nutrition)
 
-## Key messages for 2023/24:
+## Key messages for 2024/25:
 
 ### Reception (4-to-5-year-olds):
-+	One in five reception children were overweight or obese (excess weight) in West Sussex, equating to around 1,725 children
-+	Prevalence of excess weight was lower in West Sussex (20.3%) than England (22.1%)
-+	Variation exists within the county - Adur had the highest prevalence of excess weight (24.0%), and Horsham had the lowest (17.6%)
-+	Prevalence of excess weight among reception children has not changed over time in West Sussex
++	Around 22% of children were overweight or obese (excess weight) in West Sussex, equating to around 1,840 children.
++	Prevalence of excess weight was lower in West Sussex (22.3%) than England (23.5%)
++	Variation exists within the county - Arun had the highest prevalence of excess weight (27.5%), and Mid Sussex had the lowest (20.2%)
++	Prevalence of excess weight among reception children has increased significantly in the latest time period (2024/25) compared to 2023/24 in West Sussex
 
 ### Year 6 (10-to-11-year-olds): 
-+ One in three (31.2%) of Year 6 children were overweight or obese in West Sussex, equating to around 2,785 10–11-year-olds
-+ Prevalence of excess weight was lower in West Sussex (31.2%) than England (35.8%)
-+ Variation exists within the county - Arun had the highest prevalence of excess weight (37.3% - higher than the county average), and Horsham had the lowest (25.5% - lower than the county average)
-+ Prevalence of excess weight among children in Year 6 has increased in the past 5 years in West Sussex 
-
-### Inequalities: 
-+	Children living in the most deprived areas were more likely to be overweight or obese compared with those living in the least deprived areas
-+	Reception children living in the most deprived areas were less likely to remain a healthy weight at Year 6
-+	Prevalence of excess weight was higher among boys than girls (Year 6 only)
-+	Differences in prevalence of healthy weight by ethnicity were observed for both age groups.
-
-{% include embedpdf file_path="/assets/pdf/ncmp/NCMP_2324.pdf" alt="You can download this data pack using the link below." width="700" height="525" %}
++ 31.8% of Year 6 children were overweight or obese in West Sussex, equating to around 2,805 10–11-year-olds
++ Prevalence of excess weight was lower in West Sussex (31.8%) than England (36.2%)
++ Variation exists within the county - Crawley had the highest prevalence of excess weight (36.4% - higher than the county average), and Mid Sussex had the lowest (26.3% - lower than the county average)
++ Prevalence of excess weight among children in Year 6 in West Sussex has increased significantly in the post pandemic period compared with pre-pandemic levels
 
 ## Most recent report:
 + [National Child Measurement Programme Data Pack, 2024/25](/assets/pdf/ncmp/NCMP_2425.pdf) (PDF, 5Mb)
