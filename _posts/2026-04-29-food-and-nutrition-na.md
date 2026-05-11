@@ -31,8 +31,8 @@ Together the chapters in the assessment make up a practical resource for stakeho
 
 #### Theme 1: Food and Nutrition as a Determinant of Population Health 
 
-+ [West Sussex Food And Nutrition Needs Assessment Chapter 1 (PDF, 5.5MB)](/assets/pdf/fnna/FNNA_Chapter1.pdf)
-+ [West Sussex Food And Nutrition Needs Assessment Chapter 2 (PDF, 2.0MB)](/assets/pdf/fnna/FNNA_Chapter2.pdf)
++ [Chapter 1: Population demographics, wider determinants, nutritional epidemiology, and excess weight (PDF, 5.5MB)](/assets/pdf/fnna/FNNA_Chapter1.pdf)
++ [Chapter 2: Population impact of food and nutrition: health, social, and economic impacts (PDF, 2.0MB)](/assets/pdf/fnna/FNNA_Chapter2.pdf)
 
 #### Theme 2: Food and Nutrition Life Course Stages
 
@@ -40,10 +40,10 @@ Chapters for theme 2 will be released in due course - please check this page in 
 
 #### Theme 3: The West Sussex Food System and its Wider Influences
 
-+ [West Sussex Food And Nutrition Needs Assessment Chapter 6 (PDF, 1.9MB)](/assets/pdf/fnna/FNNA_Chapter6.pdf)
-+ [West Sussex Food And Nutrition Needs Assessment Chapter 7 (PDF, 0.6MB)](/assets/pdf/fnna/FNNA_Chapter7.pdf)
-+ [West Sussex Food And Nutrition Needs Assessment Chapter 8 (PDF, 1.4MB)](/assets/pdf/fnna/FNNA_Chapter8.pdf)
-+ [West Sussex Food And Nutrition Needs Assessment Chapter 9 (PDF, 0.8MB)](/assets/pdf/fnna/FNNA_Chapter9.pdf)
-+ [West Sussex Food And Nutrition Needs Assessment Chapter 10 (PDF, 1.9MB)](/assets/pdf/fnna/FNNA_Chapter10.pdf)
++ [Chapter 6: Food availability and access in West Sussex (PDF, 1.9MB)](/assets/pdf/fnna/FNNA_Chapter6.pdf)
++ [Chapter 7: Food as a commercial determinant of health in West Sussex (PDF, 0.6MB)](/assets/pdf/fnna/FNNA_Chapter7.pdf)
++ [Chapter 8: Food Poverty in West Sussex (PDF, 1.4MB)](/assets/pdf/fnna/FNNA_Chapter8.pdf)
++ [Chapter 9: Food and Culture in West Sussex (PDF, 0.8MB)](/assets/pdf/fnna/FNNA_Chapter9.pdf)
++ [Chapter 10: Food and Climate in West Sussex (PDF, 1.9MB)](/assets/pdf/fnna/FNNA_Chapter10.pdf)
 
 
