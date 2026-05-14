@@ -35,6 +35,10 @@ Many of the areas identified in the findings and areas for focus section have pr
 ### Attachments
 + [Young People's Health Needs Assessment 2025 (PDF)](/assets/starting-well/West_Sussex_YPHNA_2025.pdf)
 
+---
+To support with the young people’s health needs assessment, members of the Public Health and Social Research Unit pulled together a summary of quantitative data to describe the health and wellbeing of young people in West Sussex. Where possible, data focused on children and young people aged 11 to 18 years. If data for this age band was not available, data for the closest available age range was presented instead.
 
+This broader summary was divided into a series of stand-alone briefings focusing on the population of children and young people across the county, deprivation and social mobility, health and wellbeing and inclusion health groups.
 
+### Briefings
 
