@@ -41,4 +41,10 @@ To support with the young people’s health needs assessment, members of the Pub
 This broader summary was divided into a series of stand-alone briefings focusing on the population of children and young people across the county, deprivation and social mobility, health and wellbeing and inclusion health groups.
 
 ### Briefings
++ [Population briefing (PDF)](/assets/starting-well/2026_05_14_YPNA_Population_JC.pdf)
 
++ [Deprivation briefing (PDF)](/assets/starting-well/2026_05_14_YPNA_Deprivation_JC.pdf)
+
++ [Inclusion health groups briefing (PDF)](/assets/starting-well/2026_05_14_YPNA_Inclusion_Health_Groups_JC.pdf)
+
++ [Health and wellbeing briefing (PDF)](/assets/starting-well/2026_05_14_YPNA_Health_and_Wellbeing_JC.pdf)
