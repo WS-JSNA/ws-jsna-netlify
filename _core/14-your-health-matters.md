@@ -29,3 +29,11 @@ On this page, we provide key resources to help understand the results of the sur
 
 <!-- We have embedded these maps below but you can click on the download link underneath each one to save a copy of the map as a standalone html file -->
 {% include htmlwidget_map html_path="/assets/htmlwidgets/IMD_2019_leaflet_map.html/" %}
+
+## Briefings 
+As part of the survey, residents were asked various questions surrounding their lifestyle and health, such as their mental wellbeing and diet. The survey also asked about background characteristics such as whether there were children living in the household. 
+
+Following the survey, the Public Health and Social Research Unit explored differences in health behaviours for households with children (at least one child aged 0-17) and young children (at least one child under 5) by deprivation quintile. 
+
++ [Households with young children (at least one child aged under 5)](assets/pdf/YHM - households with children aged under 5.pdf)
++ [Households with children )at least one child aged 0-17 years)](assets/pdf/YHM - households with children aged 0-17.pdf)
