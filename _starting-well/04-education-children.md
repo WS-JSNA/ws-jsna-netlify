@@ -25,7 +25,7 @@ In Spring 2025, data on the health and wellbeing needs of children and young peo
 
 ### Early Year Foundation Stage (EYFS) profile assessments
 
-This briefing summarises the Early Year Foundation Stage (EYFS) profile assessments, based on the latest release from the Department for Education for the academic year 2024/2025. The graphs featured in this briefing were inspired by the work of Sheffield City Council and we wish to acknowledge their work in this area. 
+This briefing summarises the Early Year Foundation Stage (EYFS) profile assessments, based on the latest release from the Department for Education for the academic year 2024/2025.
 
 + [EYFS briefing](/assets/starting-well/EYFS Good levels of development briefing - March 26.pdf/)
 
