@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Green Space Briefing"
-date: 2026-07-21
+date: 2026-07-01
 header: 
   overlay_color: "#1976d2"
   overlay_filter: 0.5
