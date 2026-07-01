@@ -10,6 +10,8 @@ toc: false
 permalink: /updates/green-space-briefing/
 ---
 
+The Public Health and Social Research Unit are conducting a series of work looking into place-based analysis across the county, which includes (but is not limited to) identifying locations of licenced alcohol premises, investigating access to green space and providing a summary of the retail food environment in West Sussex.
+
 This briefing provides a summary of access to, and provision of, different types of green spaces across West Sussex, drawing on data from the Department for Environment, Food & Rural Affairs (DEFRA), Ordnance Survey and Natural England. 
 
 ### Downloads
