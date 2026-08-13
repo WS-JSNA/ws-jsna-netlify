@@ -41,5 +41,6 @@ Following the survey, the Public Health and Social Research Unit explored differ
 ## Qualitative analysis of concerns and worries
 The Your Health Matters survey included free-text questions, such as asking respondents to list up to three main concerns and worries. Free-text responses were analysed thematically by members of the Public Health and Social Research Unit. This page has been updated with documents produced as part of this analysis, including a high-level summary of themes and sub-themes and accompanying methodology document.
 
++ [Summary of themes and sub-themes](  
 + [Methodology document](/assets/pdf/yhm_2024/Methodology document.pdf)
-+ [Quantitative summary](assets/pdf/yhm_2024/Quantitative summary.pdf)
++ [Quantitative summary](/assets/pdf/yhm_2024/Quantitative summary.pdf)
