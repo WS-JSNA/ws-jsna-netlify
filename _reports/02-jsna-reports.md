@@ -34,3 +34,9 @@ You can download the most recent comprehensive JSNA Summary report and Voice Sum
 + [Mid Sussex JSNA 2024 (PDF, 2.75Mb)](/assets/pdf/Mid_Sussex_JSNA_2024.pdf)
 
 {% include wip_notice %}
+
+## Children and young people JSNA 2025/26
+This is a brief run through of the health and wellbeing issues of children and young people at county level. This latest JSNA Summary report includes updated population projections, more detailed data from the local Your Health Matters Survey and findings from the updated Index of Deprivation (2025).
+
++ [West Sussex Children and Young People JSNA 2025/26 (PDF, 5.79Mb)](/assets/pdf/WS_JSNA_CYP_Summary_2025_2026.pdf)
+
