@@ -35,5 +35,11 @@ As part of the survey, residents were asked various questions surrounding their 
 
 Following the survey, the Public Health and Social Research Unit explored differences in health behaviours for households with both young children (at least one child under 5) and children (at least one child aged 0-17) by deprivation quintile. This is based on unweighted data. 
 
-+ [Households with young children (at least one child aged under 5)](/assets/pdf/YHM - households with children aged under 5.pdf)
-+ [Households with children (at least one child aged 0-17 years)](/assets/pdf/YHM - households with children aged 0-17.pdf)
++ [Households with young children (at least one child aged under 5)](/assets/pdf/yhm_2024/YHM - households with children aged under 5.pdf)
++ [Households with children (at least one child aged 0-17 years)](/assets/pdf/yhm_2024/YHM - households with children aged 0-17.pdf)
+
+## Qualitative analysis of concerns and worries
+The Your Health Matters survey included free-text questions, such as asking respondents to list up to three main concerns and worries. Free-text responses were analysed thematically by members of the Public Health and Social Research Unit. This page has been updated with documents produced as part of this analysis, including a high-level summary of themes and sub-themes and accompanying methodology document.
+
++ [Methodology document](/assets/pdf/yhm_2024/Methodology document.pdf)
++ [Quantitative summary](assets/pdf/yhm_2024/Quantitative summary.pdf)
