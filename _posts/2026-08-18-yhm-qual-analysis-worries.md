@@ -5,7 +5,7 @@ date: 2026-08-18
 header: 
   overlay_color: "#1976d2"
   overlay_filter: 0.5
-excerpt: "The Your Health Matters survey included free-text questions, such as asking respondents to list up to three main concerns and worries. Free-text responses were analysed thematically by members of the Public Health and Social Research Unit. This page features documents produced as part of this analysis, including a high-level summary of themes and sub-themes and accompanying methodology document."
+excerpt: "A summary of qualitative analysis undertaken by members of the Public Health and Social Research Unit and documents produced as part of this analysis, including a high-level summary of themes and sub-themes and accompanying methodology document."
 toc: false
 permalink: /updates/yhm-qual-analysis-worries/
 ---
