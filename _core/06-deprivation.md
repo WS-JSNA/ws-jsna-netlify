@@ -13,7 +13,7 @@ sidebar:
 
 ### Current Release (2025)
 
-The most recently available deprivation data are from the [2025 English Indices of Deprivation]([https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025)). These show relative deprivation at small areas (LSOAs). Data on household deprivation comes from the 2021 census and can be found in the [census demographics](/core/census-21/) section of the JSNA website.
+The most recently available deprivation data are from the [2025 English Indices of Deprivation]([https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025/english-indices-of-deprivation-2025-statistical-release](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025/english-indices-of-deprivation-2025-statistical-release)). These show relative deprivation at small areas (LSOAs). Data on household deprivation comes from the 2021 census and can be found in the [census demographics](/core/census-2021/) section of the JSNA website.
 
 The Indices of Deprivation are an area-based measure of *relative* levels of deprivation in small areas, (Lower Super Output Areas (LSOAs), which contain approximately 1,500 people). It can be used to compare the deprivation across different areas, identify the most deprived areas within a larger geography (for example in the CCG), and to examine which domains of deprivation are more or less prominent in an area. The Indices cannot be used to quantify how deprived an area is (nor can it say by how much one area is more deprived than another), and there are different indices of deprivation for Wales, Scotland and Northern Ireland (so comparisons cannot be made across countries).
 
