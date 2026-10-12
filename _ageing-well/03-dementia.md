@@ -7,7 +7,7 @@ permalink: "/ageing-well/dementia/"
 excerpt: "West Sussex has an ageing population and, although dementia is not a natural part of growing older, it is more prevalent in people over the age of 65."
 toc: true
 toc_sticky: false
-downloads: ["MHWB03"]
+downloads: ["DEMPREV26"]
 sidebar:
   nav: "ageing"
 ---
@@ -74,7 +74,7 @@ Plain text accessible versions of these files, that are compatible with screen r
 * [Plain Text - West Sussex Joint Dementia Strategy Executive Summary 2020 – 2023 (PDF, 0.25MB)](/assets/ageing-well/exec-summary-dementia-strategy-2020-2023-plain-text.pdf)
 
 ## Notice
-This information was updated in August 2023 to reflect changing prevalence estimates. 
+This information was updated in October 2026 to reflect changing prevalence estimates. 
 
 # Dementia Prevalence 
 
