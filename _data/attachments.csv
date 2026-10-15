@@ -797,7 +797,8 @@ Further notes on the methodology are included within the document.
 
 Disability free life expectancy is very strongly correlated with deprivation and varies even more than life expectancy.",
 LEX10,Healthy life expectancy by ward 2001,01/11/2015,Excel,core,Healthy-life-expectancy-by-ward-2001.xls,Healthy life expectancy by ward based on 2001 figures.,
-MRT01,Briefing - Mortality in West Sussex 2014-15,01/01/2017,PDF,core,Briefing-Mortality-in-West-Sussex-2014-15.pdf,"This briefing summarises mortality data (number of deaths, age at death and cause of death) for West Sussex in 2014 and 2015.
+MRT01, Briefing - Alcohol, drug and suicide-related deaths across West Sussex, 15/10/2026, PDF, 2026_10_12_alc_drug_suicide_related_deaths_wsx.pdf, "This briefing provides an updated summary of deaths of West Sussex residents from all causes and deaths related to alcohol"," drugs or suicide registered in 2022-24.", 
+MRT02,Briefing - Mortality in West Sussex 2014-15,01/01/2017,PDF,core,Briefing-Mortality-in-West-Sussex-2014-15.pdf,"This briefing summarises mortality data (number of deaths, age at death and cause of death) for West Sussex in 2014 and 2015.
 
 In January 2015 there were 1,125 deaths registered in West Sussex, this was 34% higher than January 2014 registrations (837).
 
@@ -808,26 +809,26 @@ The week commencing 2nd January 2015 saw a particularly high number of deaths (2
 In terms of age at death, a higher proportion of deaths in January 2015 were of people aged 85 years or over (54%), this was higher than the percentage in 2014 (47%).
 
 Local analysis found that respiratory causes were listed as the cause of death, or listed as a contributory factor, in 42% of deaths in West Sussex in January 2015, again higher than 2014.",
-MRT02,West Sussex - Infant and Child Mortality,03/02/2017,Excel,core,West-Sussex-Infant-and-Child-Mortality.xlsx,This spreadsheet summarises information on infant mortality at West Sussex geographies. The data in this file is reproduced from the Public Health England Public Health Profiles (Children and Young People&#8217;s Health Benchmarking Tool for Local Authority level data and Child Health Profiles for Clinical Commissioning Group level data).,
-MRT03,All cause mortality rates 1993 - 2008,24/02/2011,Excel,core,all_cause_mortality_rates-1993_to_2008.xls,"Direct age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
+MRT03,West Sussex - Infant and Child Mortality,03/02/2017,Excel,core,West-Sussex-Infant-and-Child-Mortality.xlsx,This spreadsheet summarises information on infant mortality at West Sussex geographies. The data in this file is reproduced from the Public Health England Public Health Profiles (Children and Young People&#8217;s Health Benchmarking Tool for Local Authority level data and Child Health Profiles for Clinical Commissioning Group level data).,
+MRT04,All cause mortality rates 1993 - 2008,24/02/2011,Excel,core,all_cause_mortality_rates-1993_to_2008.xls,"Direct age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
 
 This is a way of controlling for biases in age structure between different populations.
 
 This spreadsheet contains a 15 year trend and the ability to compare between local authorities.",
-MRT04,Years of life lost crude rates all causes,03/02/2012,Excel,core,years_of_life_lost_crude_rates_all_causes.xls,"Data on years of life lost at Local Authority level and by sex.
+MRT05,Years of life lost crude rates all causes,03/02/2012,Excel,core,years_of_life_lost_crude_rates_all_causes.xls,"Data on years of life lost at Local Authority level and by sex.
 
 The data is a 3 year average between 2008 and 2010 with an assumption is made that individuals live up to 75 years of age.",
-MRT05,Number of deaths 2003 - 2007 ward level,03/02/2012,Excel,core,number_of_deaths_2003_2007_ward_level.xls,Data from the West Sussex Child Health Bureau on the number of deaths at ward level between 2003 and 2007.,
-MRT06,Ward and district level death rates 2000 - 2007,07/02/2011,Excel,core,ward_and_district_level_death_rates_2000___2007.xls,"Directly Age Standardised Death Rates per 1000 people, per year for Wards and Districts.",
-MRT07,Mortality for all cancers (direct standardised rates) 1993 - 2008,24/02/2011,Excel,core,mortality_all_cancers_dsr_1993_to_2008.xls,Direct age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population. This is a way of controlling for biases in age structure between different populations.,
-MRT08,Mortality for all circulatory diseases (direct standardised rates) 1993 - 2008,03/03/2011,Excel,core,mortality_all_circulatory_diseases_dsr_1993_to_2008.xls,"Directly age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
+MRT06,Number of deaths 2003 - 2007 ward level,03/02/2012,Excel,core,number_of_deaths_2003_2007_ward_level.xls,Data from the West Sussex Child Health Bureau on the number of deaths at ward level between 2003 and 2007.,
+MRT07,Ward and district level death rates 2000 - 2007,07/02/2011,Excel,core,ward_and_district_level_death_rates_2000___2007.xls,"Directly Age Standardised Death Rates per 1000 people, per year for Wards and Districts.",
+MRT08,Mortality for all cancers (direct standardised rates) 1993 - 2008,24/02/2011,Excel,core,mortality_all_cancers_dsr_1993_to_2008.xls,Direct age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population. This is a way of controlling for biases in age structure between different populations.,
+MRT00,Mortality for all circulatory diseases (direct standardised rates) 1993 - 2008,03/03/2011,Excel,core,mortality_all_circulatory_diseases_dsr_1993_to_2008.xls,"Directly age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
 
 This is a way of controlling for biases in age structure between different populations.
 
 Circulatory diseases are defined as those with an ICD-10 code of I00 -I99, for more information see http://www.nchod.nhs.uk
 
 This spreadsheet contains a 15 year trend and the ability to compare between local authorities.",
-MRT09,Mortality from suicide and undetermined injury direct standardised rates (DSR) 1993 - 2010,25/07/2013,Excel,core,mortality_suicide_and_injury_undetermined_dsr_1993_to_2010.xls,"Directly Age Standardised Rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
+MRT10,Mortality from suicide and undetermined injury direct standardised rates (DSR) 1993 - 2010,25/07/2013,Excel,core,mortality_suicide_and_injury_undetermined_dsr_1993_to_2010.xls,"Directly Age Standardised Rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
 
 This is a way of controlling for biases in age structure between different population.
 
