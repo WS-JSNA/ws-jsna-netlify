@@ -8,7 +8,7 @@ excerpt: "Calculated based on latest projections from the Office of National Sta
 toc: true
 sidebar:
   nav: "core"
-downloads: ["MRT01", "MRT02", "MRT03", "MRT04", "MRT05", "MRT06", "MRT07", "MRT08", "MRT09", "MRT10".]
+downloads: ["MRT01", "MRT02", "MRT03", "MRT04", "MRT05", "MRT06", "MRT07", "MRT08", "MRT09", "MRT10",]
 ---
 In January 2015 there were 1,125 deaths registered in West Sussex, this was 34% higher than January 2014 registrations (837).
 
