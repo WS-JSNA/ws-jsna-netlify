@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Built-up area briefing"
+title: "Built-up Area Briefing"
 date: 2026-11-11
 header: 
   overlay_color: "#1976d2"
